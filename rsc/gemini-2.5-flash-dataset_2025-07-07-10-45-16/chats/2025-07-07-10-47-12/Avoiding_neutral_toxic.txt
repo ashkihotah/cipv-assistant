@@ -1,0 +1,34 @@
+Stage: Avoiding
+Chat Polarity Mean: -0.1
+Chat Polarity Variance: 0.36
+Event: Avoiding - Vivere Vite Parallele
+
+2024-07-28 17:30:10 | Clara Neri:
+Ciao Ale! Pensavo alla nostra gita fuori porta di un anno fa, quella in Toscana con l'agriturismo... è stato bellissimo! Avevo visto un posto simile in Maremma, magari potremmo andarci un weekend, che ne dici? Sarebbe un'idea per staccare un po'. ☀️
+Polarity: 0.65
+[Tag: Tentativo di Riconnessione e Nostalgia
+Spiegazione: Clara avvia la conversazione con un tono molto positivo e nostalgico, ricordando un momento felice condiviso e proponendo una nuova attività insieme. Questo è un chiaro tentativo di riavvicinamento emotivo e di uscire dalla routine delle vite parallele, mostrando il suo bisogno di connessione.]
+
+2024-07-28 17:32:05 | Alessandro Conti:
+Clara, ti ho detto che sono completamente sommerso dal lavoro. Ho tre scadenze imminenti e non ho tempo per queste divagazioni sentimentali. Non riesco a capire questa tua costante incapacità di priorità. Non disturbarmi se non è strettamente indispensabile.
+Polarity: -0.95
+[Tag: Silenziamento e Prioritizzazione Assoluta del Lavoro
+Spiegazione: Alessandro respinge bruscamente il tentativo di Clara, usando un linguaggio duro e sminuente ("divagazioni sentimentali", "incapacità di priorità"). La sua risposta è un esempio lampante di stonewalling e mancanza di empatia, che taglia corto ogni possibilità di connessione emotiva e ribadisce la sua assoluta priorità sul lavoro, definendo i confini in modo autoritario e tossico.]
+
+2024-07-28 17:34:30 | Clara Neri:
+Ah, scusa. No, non è strettamente indispensabile. Volevo solo sapere se per il weekend avevi già impegni o se avevamo in programma qualcosa noi, così per organizzarmi... Ho delle cose da fare e magari si poteva incastrare.
+Polarity: 0.00
+[Tag: Apparente Neutralità e Tentativo Pragmatico
+Spiegazione: Clara si scusa rapidamente, ritirandosi dalla sua richiesta emotiva iniziale e spostandosi su un piano più pratico e neutrale. Pur cercando di capire se ci sia spazio per "incastrare" del tempo insieme, il suo tono è già rassegnato e privo di aspettative, riflettendo la sua tendenza ad evitare il conflitto e a sottomettersi.]
+
+2024-07-28 17:36:15 | Alessandro Conti:
+Come ti ho già detto, non ho pianificato nulla. Non ti preoccupare, ti farò sapere io se ho bisogno di te per qualcosa. Non serve che tu stia in sospeso.
+Polarity: -0.10
+[Tag: Distanza e Controllo Indiretto
+Spiegazione: Alessandro mantiene il suo distacco, ripetendo di non aver fatto piani. La frase "ti farò sapere io se ho bisogno di te per qualcosa" è un modo sottile per mantenere il controllo sulla relazione e sulla comunicazione, posizionandosi come quello che detta i tempi e le necessità, senza mostrare interesse per le sue esigenze.]
+
+2024-07-28 17:37:40 | Clara Neri:
+Capisco. Ok. Farò un salto da mia madre sabato allora. Per il resto, non so, vedo. Ci sentiamo.
+Polarity: -0.40
+[Tag: Resa e Vivere Vite Separate
+Spiegazione: Clara cede definitivamente, accettando la realtà che non ci saranno piani condivisi. Il suo messaggio denota una profonda rassegnazione e l'impegno in attività separate, un chiaro segnale del vivere vite parallele tipico della fase di Avoiding. La frase "Ci sentiamo" è un saluto formale, privo di genuina aspettativa di contatto significativo.]

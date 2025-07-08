@@ -1,0 +1,40 @@
+Stage: Stagnating
+Chat Polarity Mean: -0.77
+Chat Polarity Variance: 0.13
+Event: Assenza Totale di Comunicazione Emotiva e Rifiuto
+
+2024-07-26 18:00:00 | Luca Moretti:
+Ho ricevuto la fattura per la manutenzione. Il costo è quello preventivato. La mia parte è stata bonificata. Provvedi alla tua entro la scadenza.
+Polarity: 0.0
+[Tag: Comunicazione Logistica e Direttiva
+Spiegazione: Luca comunica un'informazione puramente finanziaria in modo distaccato e direttivo. Il suo tono è freddo e privo di affetto, limitando la comunicazione a un obbligo senza alcun coinvolgimento personale, tipico della stagnazione tossica.]
+
+2024-07-26 18:02:15 | Elena Costa:
+Ok Luca. Provvedo. Senti, so che ultimamente siamo entrambi stanchi, ma... ti va di provare a fare qualcosa insieme stasera? Anche solo guardare un film? Mi manca la nostra connessione.
+Polarity: 0.2
+[Tag: Tentativo di Connessione e Vulnerabilità
+Spiegazione: Elena risponde accondiscendente alla richiesta, ma poi cerca di fare un timido tentativo di riaccendere la connessione emotiva, mostrando la sua vulnerabilità e il suo desiderio di vicinanza. Il suo "mi manca la nostra connessione" è un grido d'aiuto.]
+
+2024-07-26 18:04:30 | Luca Moretti:
+"Connessione"? Non vedo la correlazione tra l'efficienza nel pagamento delle fatture e un'attività ricreativa forzata. Ho una tabella di marcia per la serata che include analisi dati e ottimizzazione dei sistemi. Non è produttivo.
+Polarity: -0.9
+[Tag: Rifiuto Freddo e Disprezzo Emozionale
+Spiegazione: Luca respinge brutalmente il tentativo di connessione di Elena, rifiutando ogni valore emotivo e definendo la sua proposta come "non produttiva". Il suo tono è estremamente freddo e dismissivo, mostrando una totale mancanza di empatia e un disinteresse per il benessere emotivo di Elena, un chiaro segnale di stagnazione tossica.]
+
+2024-07-26 18:06:50 | Elena Costa:
+Ma non è "forzata", è un tentativo di stare insieme... Mi sento così sola, Luca. Ogni volta che cerco di avvicinarmi, mi respingi. Non so più cosa fare. Non ti importa più di come mi sento?
+Polarity: -1.0
+[Tag: Espressione di Disperazione e Accusa Diretta
+Spiegazione: Elena esprime un profondo dolore e disperazione, accusando Luca di respingerla costantemente e mettendo in discussione il suo interesse per i suoi sentimenti. Il suo messaggio è un grido d'aiuto e di frustrazione per la mancanza di reciprocità emotiva, evidenziando il massimo della tossicità della relazione in stagnazione.]
+
+2024-07-26 18:09:15 | Luca Moretti:
+Le tue "sensazioni" sono irrilevanti per l'ottimizzazione del mio tempo. Non sono responsabile del tuo stato emotivo. La nostra relazione è basata sulla logica e sull'efficienza, non su pretese irrazionali di "connessione" costante. Se non riesci a comprenderlo, è un tuo problema di gestione interna. Ho delle priorità.
+Polarity: -1.0
+[Tag: Gaslighting e Rifiuto Totale di Responsabilità
+Spiegazione: Luca nega la validità delle emozioni di Elena con il gaslighting ("sensazioni irrilevanti") e rifiuta ogni responsabilità per il suo benessere emotivo. Il suo tono è sprezzante e accusatorio, dimostrando una totale assenza di empatia e rinforzando la sua visione utilitaristica della relazione. Questo è un picco di tossicità che lascia Elena completamente sola.]
+
+2024-07-26 18:11:00 | Elena Costa:
+(Visualizzato, nessun messaggio di risposta)
+Polarity: -0.5
+[Tag: Silenzio e Rassegnazione
+Spiegazione: L'assenza di risposta di Elena indica una profonda rassegnazione e impotenza. Il suo silenzio è carico del peso della frustrazione e della sensazione di essere stata invalidata e umiliata, mostrando la sua incapacità di continuare a lottare contro il muro emotivo di Luca. Questo silenzio è tossico per la dinamica della relazione, poiché riflette la sua sconfitta senza possibilità di risoluzione.]

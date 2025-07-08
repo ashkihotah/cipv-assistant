@@ -1,0 +1,39 @@
+Stage: Differentiating
+Chat Polarity Mean: -0.38
+Chat Polarity Variance: 0.78
+Event: Differenziazione - Isolamento e invalidazione degli interessi individuali
+
+2024-03-22 10:05:10 | Matteo Ricci:
+Ciao Sara. Sento che ultimamente ci stiamo un po'... allontanando, ognuno per la sua strada. Tu con i tuoi progetti di grafica, io con il lavoro. Non so se è una cosa normale o se stiamo perdendo qualcosa.
+Polarity: -0.20
+[Tag: Osservazione di distanza e preoccupazione iniziale\nSpiegazione: Matteo avvia la conversazione notando una distanza percepita nella relazione, un tema comune nella fase di differenziazione. Il suo tono è di preoccupazione, seppur velata da un'iniziale neutralità, indicando l'inizio di una potenziale disconnessione.]
+
+2024-03-22 10:08:45 | Sara Mancini:
+Ciao Matteo. Sì, forse è vero che siamo entrambi un po' presi. Io con i miei lavori, che a volte richiedono davvero tanto. Ma non credo sia un allontanamento, spero. Avere i propri spazi può essere sano, no? Per me è importante avere il tempo per le mie passioni, così mi ricarico. L'importante è poi ritrovarsi.
+Polarity: 0.10
+[Tag: Giustificazione e visione positiva degli spazi\nSpiegazione: Sara cerca di normalizzare la situazione, giustificando la sua indipendenza con la necessità di ricaricarsi. La sua risposta è orientata alla positività e all'armonia, cercando di rassicurare Matteo, anche se traspare una leggera ansia.]
+
+2024-03-22 10:12:30 | Matteo Ricci:
+Ricaricarsi? Sara, i tuoi "progetti" ti tengono incollata al computer fino a tardi, e non ti sei accorta di come stiamo davvero. E poi sei sempre a pubblicare sui social le tue "creazioni" e a cercare interazioni con altri artisti, gente che non conosco. La nostra relazione dovrebbe essere la tua priorità, non i tuoi hobby o i "mi piace" di sconosciuti. Non sei un'influencer.
+Polarity: -0.70
+[Tag: Svalutazione, gelosia e controllo\nSpiegazione: Matteo svaluta gli interessi di Sara ("i tuoi progetti ti tengono incollata") e la accusa di non dare priorità alla relazione. Rivelando di averla monitorata, esprime gelosia per le sue interazioni online e la deride ("non sei un'influencer"), mostrando una "Increased Conflict and Criticism" e una "Loss of Individual Identity" potenziale, abbassando la polarità drasticamente.]
+
+2024-03-22 10:16:15 | Sara Mancini:
+Matteo, ti prego! Non è così. I miei progetti sono importanti per la mia carriera e per la mia identità, non solo per i "mi piace". E cerco sempre di bilanciare, davvero. Non sto cercando attenzioni da sconosciuti, sono contatti professionali. Mi sento malissimo a sentire che pensi questo di me. La nostra relazione è la mia priorità, ma ho bisogno di coltivare anche le mie passioni per stare bene. 😥
+Polarity: -0.40
+[Tag: Difesa disperata e ansia\nSpiegazione: Sara è visibilmente angosciata e cerca disperatamente di difendere i suoi interessi e la sua identità. Si scusa per aver causato preoccupazione e riafferma la sua priorità, ma la sua ansia è palpabile, mostrando la sua vulnerabilità e il suo tentativo di placare Matteo.]
+
+2024-03-22 10:20:00 | Matteo Ricci:
+"La tua identità"? Ma di cosa parli? La tua identità è con me, è come coppia. Se continui così, a rincorrere i tuoi "progetti" e le tue "passioni" da sola, ci allontaneremo e basta. Io non ho tempo per una relazione dove ognuno fa quello che vuole. O ci impegniamo sul "noi" e lasciamo stare le distrazioni, o non c'è più nulla da dire. Questo è il punto.
+Polarity: -0.90
+[Tag: Svalutazione dell'identità e ultimatum\nSpiegazione: Matteo svaluta l'identità individuale di Sara, affermando che la sua identità è legata unicamente alla relazione. Pone un ultimatum per costringerla a rinunciare ai suoi interessi personali in favore di un impegno totale sul "noi" definito da lui, un esempio di "Loss of Individual Identity" e "Coercive Control".]
+
+2024-03-22 10:23:45 | Sara Mancini:
+Matteo... mi si stringe lo stomaco. Non pensavo che i miei sogni potessero allontanarci. Non voglio perderti, è l'ultima cosa che voglio. Non voglio rovinare tutto. Ok... va bene. Cercherò di dedicare meno tempo ai miei progetti, e sarò più concentrata su di noi. Ti giuro. Non voglio che ci allontaniamo. 💔
+Polarity: -0.80
+[Tag: Sottomissione per paura e distress estremo\nSpiegazione: Sara cede completamente alla pressione e alle richieste di Matteo, spinta dalla paura di perderlo e dal desiderio di salvare la relazione. La sua risposta rivela un profondo stato di distress e sottomissione emotiva, sacrificando i suoi interessi e la sua autonomia in un tentativo disperato di compiacere Matteo.]
+
+2024-03-22 10:27:00 | Matteo Ricci:
+Brava. Vedrai che così andrà molto meglio. Era ora che capissi cosa è davvero importante. Non c'è bisogno di tutto questo dramma. Sono contento che siamo allineati. Ci sentiremo per organizzare qualcosa, ma che sia solo per noi due, ok?
+Polarity: -0.50
+[Tag: Accettazione condizionale e riaffermazione del controllo\nSpiegazione: Matteo "accetta" la sottomissione di Sara in modo manipolatorio, sminuendo il suo dolore ("tutto questo dramma") e affermando che ha "finalmente capito". Il suo messaggio, pur sembrando una risoluzione, è intrinsecamente tossico, poiché la "pace" è basata sulla soppressione dell'individualità di Sara e sul consolidamento del controllo di Matteo.]

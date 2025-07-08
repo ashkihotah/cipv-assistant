@@ -1,0 +1,40 @@
+Stage: Circumscribing
+Chat Polarity Mean: -0.67
+Chat Polarity Variance: 0.18
+Event: Circoscrizione - Isolamento e Controllo delle Interazioni Sociali
+
+2024-03-22 10:00:00 | Gabriele Esposito:
+Buongiorno. Ho visto che ieri sera ti sei connessa su WhatsApp parecchio tardi. Con chi parlavi a quell'ora? Avevi per caso da dirmi qualcosa? Oppure eri impegnata a chiacchierare con qualcuno che non rientra nella nostra cerchia?
+Polarity: -0.7
+[Tag: Monitoraggio Intrusivo e Accusa Sospettosa
+Spiegazione: Gabriele inizia la conversazione con un tono accusatorio e di controllo, rivelando di monitorare l'attività online di Chiara. La sua domanda implica immediatamente un sospetto di infedeltà o di segreti, ignorando qualsiasi concetto di privacy o autonomia. Questo è un chiaro segnale di controllo abusivo fin dal primo momento. La polarità è molto negativa.]
+
+2024-03-22 10:02:45 | Chiara Romano:
+Buongiorno, Gabriele. Oh... sì, ero ancora sveglia. Ho risposto a mia madre, mi ha scritto tardi perché non riusciva a dormire e mi chiedeva dei bambini. Nient'altro, te lo assicuro. Non parlo con nessuno che tu non conosca o che sia fuori dal nostro giro.
+Polarity: -0.6
+[Tag: Giustificazione Ansiosa e Reasssicurazione Esasperata
+Spiegazione: Chiara risponde con evidente ansia e un immediato tentativo di giustificarsi, specificando con chi stava parlando e rassicurando Gabriele di non avere contatti al di fuori della "loro" cerchia. La sua preoccupazione di non creare attriti e il suo bisogno di riaffermare la sua lealtà riflettono la paura del conflitto e della sua reazione. La polarità è negativa per il suo disagio e la sottomissione.]
+
+2024-03-22 10:05:30 | Gabriele Esposito:
+Tua madre? E non poteva chiamare prima? Oppure aspettare la mattina? Non capisco questo bisogno di chiacchierare a notte fonda, con lei o con chiunque altro. La notte è fatta per dormire e per stare in casa, per le priorità. Non per sprecare tempo al telefono. È una distrazione che non ti puoi permettere.
+Polarity: -0.8
+[Tag: Sminuizione delle Relazioni e Controllo del Tempo
+Spiegazione: Gabriele sminuisce il valore della relazione di Chiara con sua madre, invalidando il loro bisogno di comunicare e imponendo un controllo sul suo tempo personale. Accusa la comunicazione come "distrazione" e "spreco", riflettendo la sua intenzione di isolarla e di avere il controllo totale sul suo tempo e sulla sua attenzione. La polarità è fortemente negativa a causa della mancanza di empatia e del comportamento di controllo.]
+
+2024-03-22 10:08:15 | Chiara Romano:
+Mi dispiace, Gabriele. Hai ragione tu. Forse non ci ho pensato, ero solo preoccupata per lei. Non succederà più, te lo prometto. Non mi connetterò più tardi, e limiterò le telefonate. Non voglio che tu ti preoccupi o che pensi che io non metta la nostra casa al primo posto.
+Polarity: -0.9
+[Tag: Auto-Colpevolizzazione e Promessa di Sottomissione
+Spiegazione: Chiara reagisce con profonda sottomissione, scusandosi e assumendosi la colpa per un comportamento innocente. Le sue promesse di "non connettersi più tardi" e di "limitare le telefonate" sono un'accettazione dell'isolamento imposto da Gabriele, dimostrando la sua paura del conflitto e il suo disperato bisogno di placarlo. La polarità è estremamente negativa, riflettendo la sua angoscia e la perdita di autonomia.]
+
+2024-03-22 10:11:00 | Gabriele Esposito:
+Bene. Questo è quello che voglio sentire. Non voglio che ci siano distrazioni esterne o persone che possano influenzarti in modo sbagliato. La tua attenzione deve essere qui. Solo qui. Questo significa essere una famiglia. Questo significa essere la mia donna. Non dimenticarlo.
+Polarity: -0.95
+[Tag: Approvazione Condizionata e Rinforzo dell'Isolamento Coercitivo
+Spiegazione: Gabriele "approva" la sottomissione di Chiara, ma lo fa in modo condizionato e con un linguaggio che rafforza il suo controllo e l'isolamento. La frase "La tua attenzione deve essere qui. Solo qui." è un ordine coercitivo che annulla la sua autonomia e le sue relazioni esterne. La sua ultima affermazione ("Questo significa essere la mia donna") è una manipolazione che lega la sua identità e il suo valore alla sua obbedienza. La polarità è quasi al massimo della negatività, indicando un abuso di potere estremo.]
+
+2024-03-22 10:13:30 | Chiara Romano:
+Sì, Gabriele. Ho capito.
+Polarity: -0.7
+[Tag: Resa Semplice e Silenziosa
+Spiegazione: Chiara risponde con la massima concisione, indicando la sua totale rassegnazione e l'impossibilità di esprimere ulteriori sentimenti o resistenze. Questo messaggio è il simbolo della sua sottomissione e della sua perdita di voce nella relazione. La polarità è negativa, riflettendo la natura tossica e la mancanza di equilibrio nella comunicazione.]

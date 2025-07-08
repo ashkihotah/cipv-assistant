@@ -1,0 +1,34 @@
+Stage: Avoiding
+Chat Polarity Mean: 0.04
+Chat Polarity Variance: 0.28
+Event: Avoiding - Vivere Vite Parallele
+
+2024-07-28 12:05:15 | Clara Neri:
+Ciao Alessandro, hai per caso preso il detersivo per i piatti quando sei andato al supermercato? Non c'è più.
+Polarity: 0.05
+[Tag: Richiesta Logistica
+Spiegazione: Clara avvia la conversazione con una domanda pratica e funzionale legata alla gestione della casa, tipica di un rapporto in cui le interazioni si limitano alla coordinazione delle necessità quotidiane. Il tono è neutrale, senza carichi emotivi.]
+
+2024-07-28 12:06:40 | Alessandro Conti:
+No, non l'ho preso. Era fuori dalla lista.
+Polarity: 0.00
+[Tag: Risposta Fattuale
+Spiegazione: Alessandro risponde in modo conciso e diretto, fornendo un'informazione fattuale. La sua risposta è priva di emozione o spiegazioni aggiuntive, riflettendo il distacco e la tendenza a comunicare solo l'essenziale.]
+
+2024-07-28 12:07:55 | Clara Neri:
+Ok, allora lo prendo io più tardi. Sai per caso se è arrivata quella raccomandata che aspettavo dalla banca? Avevo visto un avviso.
+Polarity: 0.05
+[Tag: Domanda Logistica Successiva
+Spiegazione: Clara accetta la risposta e prosegue con un'altra domanda logistica. Il focus rimane sulle faccende pratiche, evitando qualsiasi tentativo di connessione emotiva più profonda, mantenendo la polarità neutrale.]
+
+2024-07-28 12:09:10 | Alessandro Conti:
+No. La posta non l'ho controllata.
+Polarity: 0.00
+[Tag: Risposta Breve e Indifferente
+Spiegazione: Alessandro risponde nuovamente in modo succinto e privo di interesse, indicando di non aver svolto l'azione richiesta. La brevità e la mancanza di giustificazione o proposta riflettono il distacco emotivo e la vita parallela.]
+
+2024-07-28 12:10:25 | Clara Neri:
+Va bene. Controllo io allora. Grazie comunque.
+Polarity: 0.05
+[Tag: Chiusura Neutra
+Spiegazione: Clara chiude lo scambio in modo pragmatico, accettando la situazione senza insistenza o frustrazione evidente. Il "grazie comunque" è una forma di cortesia minima che non introduce emotività positiva o negativa significativa, mantenendo la polarità del messaggio vicina allo zero.]

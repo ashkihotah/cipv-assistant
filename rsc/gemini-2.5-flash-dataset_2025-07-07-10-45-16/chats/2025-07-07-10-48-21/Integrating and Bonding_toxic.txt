@@ -1,0 +1,39 @@
+Stage: Integrating and Bonding
+Chat Polarity Mean: -0.6
+Chat Polarity Variance: 0.96
+Event: Integrazione e Legame - Controllo coercitivo su finanze e amicizie dopo la proposta di convivenza
+
+2024-03-22 10:05:10 | Matteo Ricci:
+Ciao Sara! Ascolta, penso che siamo pronti per il grande passo. Ti vedo al mio fianco, ogni giorno. Che ne dici di venire a vivere insieme? Ho già adocchiato un appartamento fantastico qui a Firenze, in pieno centro, perfetto per noi. Sarebbe incredibile, la nostra vita insieme! Che dici, sei pronta a costruire il nostro futuro? 😍
+Polarity: 0.95
+[Tag: Proposta di convivenza entusiasta\nSpiegazione: Matteo propone la convivenza con grande entusiasmo e una visione idealizzata del futuro, in linea con l'aspetto sano della fase di "Integrating and Bonding". Il suo tono è affettuoso e invita a un'integrazione profonda.]
+
+2024-03-22 10:08:45 | Sara Mancini:
+Matteo! Oddio, non ci credo! 🥹 È un sogno che si avvera! Vivere con te... sarebbe la cosa più bella del mondo! Sì, sì, sono pronta! Non vedo l'ora di creare il nostro spazio, immagino già le nostre serate, i nostri risvegli... Sono così felice, è il passo più emozionante che potessimo fare! ❤️ Contami, sono con te!
+Polarity: 1.00
+[Tag: Accettazione estatica e felicità profonda\nSpiegazione: Sara risponde con un'euforia travolgente e una conferma incondizionata, esprimendo la sua profonda felicità e il desiderio di unione. La sua emozione è palpabile, portando la polarità al massimo e riflettendo un momento di intensa intimità e legame, che poi si scontrerà con la tossicità latente.]
+
+2024-03-22 10:12:30 | Matteo Ricci:
+Ottimo! Sapevo che avresti capito subito. L'appartamento è un investimento, Sara, quindi dobbiamo essere super organizzati. Ho pensato che la cosa migliore sia un unico conto cointestato dove faremo confluire tutte le entrate, comprese le tue. E per gestire tutto, faremo in modo che sia sotto il mio controllo, io sono più bravo con le finanze. Non voglio sorprese, e così avremo massima efficienza.
+Polarity: -0.70
+[Tag: Svalutazione sottile e richiesta di controllo finanziario\nSpiegazione: Matteo passa immediatamente dal romanticismo alla richiesta di controllo finanziario totale. La sua affermazione sulla "sua bravura" e il desiderio di "massima efficienza" mascherano un tentativo di "Coercive Control" e "Financial Abuse", svalutando la capacità di Sara e abbassando drasticamente la polarità.]
+
+2024-03-22 10:16:15 | Sara Mancini:
+Uhm... un conto unico con tutte le entrate? Io sono abituata a gestire il mio lavoro da freelance, il reddito è un po' variabile... e mi gestisco sempre da sola. Non sono molto pratica con queste cose, ma mi sento un po'... a disagio a non avere un mio spazio finanziario personale. Non pensi sia meglio mantenere i nostri conti separati per le entrate, e magari fare un conto solo per le spese condivise, almeno all'inizio?
+Polarity: -0.40
+[Tag: Disagio e resistenza ansiosa\nSpiegazione: Sara esprime un disagio significativo e tenta di resistere alla proposta di Matteo, cercando di mantenere la sua autonomia finanziaria. La sua esitazione e il riferimento alla sua indipendenza mostrano il suo tentativo di porre un limite, pur con ansia e cautela, il che mantiene la polarità negativa.]
+
+2024-03-22 10:20:00 | Matteo Ricci:
+Sara, non fare la bambina. Siamo una coppia, no? E una coppia ha tutto in comune. La tua "variabilità" è il motivo per cui ho detto che è meglio che gestisca io. Non voglio sorprese a fine mese. E a proposito di mettere tutto in comune, ho visto che hai ancora quel tuo ex tra i "seguaci" su Instagram, e quel tuo amico "artista" ti mette ancora i like. Se siamo una cosa sola, se viviamo insieme, voglio che la tua vita online sia pulita. Nessun contatto ambiguo, zero. O sei disposta a fidarti di me e a fare queste cose, o non ha senso andare a vivere insieme. La fiducia è tutto.
+Polarity: -0.98
+[Tag: Svalutazione, ricatto emotivo e coercizione totale\nSpiegazione: Matteo ignora il disagio di Sara, la svaluta ("non fare la bambina") e usa il ricatto emotivo. Amplifica la sua richiesta di controllo, estendendola alla sfera sociale digitale di Sara (Controlling Social Media Presence, Isolation from Friends and Family), ponendo un ultimatum netto. Questo è un chiaro esempio di "Coercive Control" e "Demanding Passwords" mascherato da "test di fiducia".]
+
+2024-03-22 10:23:45 | Sara Mancini:
+Matteo... mi sento a pezzi. 💔 Non pensavo che per vivere insieme dovessi rinunciare a tutto, ai miei soldi, ai miei amici... Non è che non mi fidi di te, ti giuro! È che è la mia vita... Ma non voglio rovinare il nostro sogno. Non voglio perderti. Se è l'unico modo per dimostrarti che mi fido e che ti amo... Ok. Ti darò gli accessi ai miei conti e ai miei social. Bloccherò tutti quelli che non ti piacciono. Ma ti prego, sii paziente con me e non farmi più sentire così male.
+Polarity: -0.99
+[Tag: Sottomissione per paura e distress estremo\nSpiegazione: Sara è in uno stato di profonda angoscia e disperazione. Nonostante la sua resistenza iniziale e il dolore per la perdita di autonomia, cede completamente alle richieste di Matteo per la paura di rovinare la relazione e di perderlo. Questo mostra la sua totale sottomissione emotiva e il successo della coercizione di Matteo.]
+
+2024-03-22 10:27:00 | Matteo Ricci:
+Vedi che quando vuoi sei ragionevole? L'ho detto, la fiducia è tutto. E ora mi sento molto più tranquillo. Non c'è bisogno di tutto questo dramma per capire una cosa semplice. Ti darò tutti i dettagli per fare gli accessi. Adesso sì che possiamo iniziare a costruire il nostro futuro, senza più pensieri. Sono contento che siamo allineati.
+Polarity: -0.60
+[Tag: Accettazione condizionale e riaffermazione del controllo\nSpiegazione: Matteo "accetta" la sottomissione di Sara, ma in modo manipolatorio, sminuendo il suo dolore ("tutto questo dramma") e affermando la sua "ragionevolezza". La sua "tranquillità" deriva dal controllo ottenuto. Il messaggio, pur sembrando una risoluzione, è intrinsecamente tossico, poiché la "costruzione" del futuro è basata sulla sottomissione di Sara e non su una partnership paritaria.]

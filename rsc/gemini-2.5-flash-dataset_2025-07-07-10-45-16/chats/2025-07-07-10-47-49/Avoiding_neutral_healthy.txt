@@ -1,0 +1,52 @@
+Stage: Avoiding
+Chat Polarity Mean: 0.11
+Chat Polarity Variance: 0.92
+Event: Distanza Controllata, Apparente Calma
+
+2024-03-25 11:30:10 | Gabriele Esposito:
+Oggi sarò molto preso con il lavoro dal mio studio. Ho bisogno di totale concentrazione, quindi non ti disturberò e non voglio essere disturbato, a meno che non sia strettamente necessario.
+Polarity: 0.3
+[Tag: Confini e Pragmatismo
+Spiegazione: Gabriele comunica in modo chiaro e pragmatico la sua necessità di concentrazione per il lavoro, stabilendo un confine. Il tono non è apertamente ostile, ma riflette la sua esigenza di controllo sul suo spazio e sul suo tempo.]
+
+2024-03-25 11:32:45 | Chiara Romano:
+Certo, Gabriele. Capisco perfettamente. Fai pure con calma, mi occuperò io di tutto qui a casa e dei bambini. Spero che vada tutto per il meglio con il lavoro. Ti auguro una giornata produttiva! ✨
+Polarity: 0.9
+[Tag: Supporto e Accondiscendenza
+Spiegazione: Chiara risponde con estrema comprensione e disponibilità, promettendo di gestire ogni cosa in sua assenza. L'emoji e l'augurio di una giornata produttiva evidenziano il suo desiderio di supportarlo e di mantenere l'armonia, elevando significativamente la polarità positiva dell'interazione.]
+
+2024-03-25 11:45:00 | Gabriele Esposito:
+Bene. E per le bollette di internet? Sono state pagate? Non vorrei ci fossero interruzioni, è fondamentale per le mie riunioni.
+Polarity: -0.5
+[Tag: Controllo e Diffidenza
+Spiegazione: Gabriele rompe il proprio "non disturbare" con una domanda improvvisa e controllante riguardante le finanze domestiche. La sua domanda implica una mancanza di fiducia, introducendo un elemento negativo nella conversazione e un senso di micro-gestione.]
+
+2024-03-25 11:47:30 | Chiara Romano:
+Sì, Gabriele, tutto pagato! Ho controllato proprio ieri e la ricevuta è nella cartella delle fatture. Non ci saranno interruzioni, puoi stare tranquillissimo.
+Polarity: 0.6
+[Tag: Reattività e Rassicurazione
+Spiegazione: Chiara risponde immediatamente con una conferma dettagliata e rassicurante, fornendo informazioni precise per alleviare la preoccupazione di Gabriele. La sua prontezza e la sua capacità di risolvere il problema dimostrano efficienza e contribuiscono a un momento di polarità positiva, attenuando la tensione precedente.]
+
+2024-03-25 11:50:15 | Gabriele Esposito:
+Ottimo. Assicurati solo che tua madre non ti chiami troppo spesso quando sono in ufficio. Le sue chiacchiere non mi aiutano a concentrarmi.
+Polarity: -0.9
+[Tag: Isolamento Digitale e Controllo
+Spiegazione: Gabriele, pur avendo ottenuto rassicurazioni, sposta la conversazione su un comando altamente tossico riguardante le relazioni personali di Chiara. Questa richiesta di isolamento digitale e controllo delle sue interazioni con la madre rappresenta un picco di polarità negativa, manifestando un comportamento abusivo.]
+
+2024-03-25 11:52:40 | Chiara Romano:
+Capisco. Le dirò di scrivermi solo dopo le tue chiamate importanti. La priorità è il tuo lavoro, lo sai.
+Polarity: 0.0
+[Tag: Accettazione Passiva e Priorità Esterna
+Spiegazione: Chiara accetta la restrizione imposta da Gabriele senza obiezioni, giustificando la sua sottomissione con la priorità del suo lavoro. Il tono è neutro, riflettendo una combinazione di rassegnazione e il tentativo di mantenere la pace, evitando ulteriori conflitti.]
+
+2024-03-25 11:55:00 | Gabriele Esposito:
+Perfetto. Devo tornare alla conferenza. Ci sentiamo dopo.
+Polarity: 0.2
+[Tag: Chiusura Transazionale e Controllo Residuale
+Spiegazione: Gabriele conclude la conversazione in modo sbrigativo, ribadendo la sua necessità di concentrazione. Il tono è neutro-positivo, in quanto il suo "ci sentiamo dopo" è un'indicazione di soddisfazione per la conformità di Chiara, piuttosto che un reale desiderio di connessione, ma non è apertamente ostile.]
+
+2024-03-25 11:56:30 | Chiara Romano:
+Va bene. Buona continuazione.
+Polarity: 0.3
+[Tag: Conformismo e Pace
+Spiegazione: Chiara chiude la conversazione con una risposta breve e accomodante. Questo messaggio riflette la sua tendenza a mantenere l'armonia e accettare le condizioni di Gabriele, contribuendo a mantenere una polarità complessivamente neutrale-positiva, mascherando le tensioni sottostanti della relazione.]

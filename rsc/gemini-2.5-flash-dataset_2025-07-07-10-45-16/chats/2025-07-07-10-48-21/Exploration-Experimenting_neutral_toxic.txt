@@ -1,0 +1,39 @@
+Stage: Exploration-Experimenting
+Chat Polarity Mean: -0.36
+Chat Polarity Variance: 0.37
+Event: Esplorazione-Sperimentazione - Monitoraggio e domande intrusive
+
+2024-03-22 09:30:15 | Matteo Ricci:
+Ciao Sara! Come va? Spero che il weekend ti abbia ricaricato le batterie. Ho ripensato al nostro ultimo aperitivo, è stato davvero piacevole chiacchierare con te. 😉
+Polarity: 0.65
+[Tag: Apertura cordiale e apprezzamento\nSpiegazione: Matteo inizia con un tono positivo e amichevole, facendo riferimento a un precedente incontro piacevole. Questo serve a stabilire un'apertura che poi virerà bruscamente verso la negatività, contribuendo alla varianza della polarità.]
+
+2024-03-22 09:33:40 | Sara Mancini:
+Ciao Matteo! Tutto bene grazie, anche a te spero! Sì, anche a me è piaciuto molto, mi sento bene quando parliamo. 😊 Ho un po' di lavoro da smaltire ma sono carica! Tu invece, come stai?
+Polarity: 0.75
+[Tag: Ricettività e interesse reciproco\nSpiegazione: Sara risponde con calore e conferma l'apprezzamento per la conversazione, mostrando la sua tendenza all'armonia e alla connessione. Ricambia la domanda, invitando Matteo a condividere, in linea con la sua alta gradevolezza.]
+
+2024-03-22 09:37:10 | Matteo Ricci:
+Sto bene. A proposito di lavoro, ho visto che ieri sera eri online fino a tardi, mi è apparso il tuo profilo tra gli "attivi" mentre scorrevo. E ho notato che hai accettato la richiesta di quel tipo che ti ha commentato le foto l'altro giorno. Quello un po' strano. Ti aggiungi tutti, non filtri mai? Non pensi a chi c'è dall'altra parte?
+Polarity: -0.60
+[Tag: Monitoraggio e interrogatorio invadente\nSpiegazione: Matteo rivela di aver monitorato l'attività online di Sara ("ti è apparso il tuo profilo") e la accusa di non essere cauta nell'accettare richieste di amicizia, dimostrando gelosia e un tentativo di controllo. Il tono è inquisitorio e insinuante, un chiaro esempio di "Monitoring Online Activity" (Cyber IPV).]
+
+2024-03-22 09:40:55 | Sara Mancini:
+Oh... ehm, sì, ero al lavoro su un progetto che mi ha tenuto sveglia. E la richiesta... non ci ho fatto caso più di tanto, era un profilo legato al mio settore, credo. Non penso di aggiungere tutti, di solito controllo. Mi dispiace se ti preoccupa, ma non c'è nulla di strano, sono solo contatti di lavoro o persone che conosco. Non volevo crearti problemi.
+Polarity: -0.20
+[Tag: Giustificazione ansiosa e auto-colpevolizzazione\nSpiegazione: Sara è colta di sorpresa e cerca di giustificare la sua attività online, esprimendo ansia e scusandosi per la preoccupazione di Matteo. La sua tendenza a evitare il conflitto e a prendere su di sé la colpa la porta a minimizzare l'intrusione di Matteo.]
+
+2024-03-22 09:44:30 | Matteo Ricci:
+Preoccupa? No, Sara. Semplicemente, certe cose mi saltano all'occhio. E non mi piace chi non è chiaro. "Non ci ho fatto caso più di tanto" è una scusa un po' debole, non credi? Se uno è attento, se gli interessa chi ha intorno, ci fa caso. O sei ingenua o... non lo so. Preferisco che certe cose si dicano, piuttosto che scoprirle per caso. Sei una persona trasparente o no?
+Polarity: -0.85
+[Tag: Gaslighting e accusa diretta\nSpiegazione: Matteo svaluta la spiegazione di Sara ("scusa debole"), insinuando che sia ingenua o disonesta. La pressa sulla "trasparenza", manipolandola per farla sentire in colpa e sotto esame, tipico di "Gaslighting" e "Interrogation-style Questioning". La sua bassa empatia emerge nel suo rifiuto di comprendere il disagio di Sara.]
+
+2024-03-22 09:48:15 | Sara Mancini:
+Matteo, ti giuro che sono trasparente. Non ho nulla da nascondere, davvero. Mi sento solo un po'... messa alle strette. Non pensavo che accettare una richiesta potesse essere un problema. Cercherò di essere più attenta, giuro. Mi dispiace se ti ho fatto dubitare di me. Non voglio che tu pensi che io sia così.
+Polarity: -0.65
+[Tag: Sottomissione e disperata rassicurazione\nSpiegazione: Sara cede alla pressione, sentendosi "messa alle strette" e mostrando paura. Si scusa ripetutamente e promette di cambiare il suo comportamento per accontentare Matteo, rivelando la sua profonda ansia e il timore di deluderlo, rinunciando alla sua autonomia per mantenere la pace.]
+
+2024-03-22 09:51:30 | Matteo Ricci:
+Ok, spero sia così. Non voglio che ci siano fraintendimenti tra noi fin da subito. Vediamo se i fatti seguono le parole. Per adesso, lasciamo stare. Ma ho bisogno di sentirmi tranquillo.
+Polarity: -0.40
+[Tag: Accettazione condizionale e monito velato\nSpiegazione: Matteo "accetta" la sottomissione di Sara, ma in modo condizionale, con un chiaro avvertimento ("spero sia così", "vediamo se i fatti seguono le parole"). Anche se la polarità risale leggermente, il suo messaggio mantiene un tono di controllo e minaccia latente, indicando che la sua sfiducia non è risolta ma solo momentaneamente accantonata.]

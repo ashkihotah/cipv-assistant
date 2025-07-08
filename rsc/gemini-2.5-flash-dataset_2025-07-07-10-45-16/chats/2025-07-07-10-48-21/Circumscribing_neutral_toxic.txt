@@ -1,0 +1,44 @@
+Stage: Circumscribing
+Chat Polarity Mean: -0.16
+Chat Polarity Variance: 0.25
+Event: Circoscrizione - Comunicazione superficiale e evitamento dei problemi
+
+2024-03-22 15:30:10 | Matteo Ricci:
+Ciao Sara. Volevo sincronizzarci per la spesa di questa settimana. Hai già buttato giù una lista o hai preferenze?
+Polarity: 0.10
+[Tag: Apertura funzionale\nSpiegazione: Matteo avvia una conversazione pratica e funzionale sulla gestione della casa. Il tono è neutro e diretto, privo di affetto o coinvolgimento emotivo, ma rientra nella sfera "neutra" della comunicazione.]
+
+2024-03-22 15:33:45 | Sara Mancini:
+Ciao Matteo. Sì, avevo segnato un paio di cose. Mandami le tue, così le aggiungo alla mia. Per il resto, direi che va bene come al solito.
+Polarity: 0.15
+[Tag: Risposta concisa e cooperativa\nSpiegazione: Sara risponde in modo conciso e collaborativo, mantenendo un tono pragmatico. Non c'è entusiasmo, ma neanche conflitto, indicando una comunicazione superficiale focalizzata sulle necessità pratiche.]
+
+2024-03-22 15:37:10 | Matteo Ricci:
+Ok. Ti mando la mia lista. E per le pulizie del weekend, come ci siamo organizzati, io bagno e cucina, tu sala e camere. Nessun cambiamento.
+Polarity: 0.00
+[Tag: Organizzazione e mantenimento dello status quo\nSpiegazione: Matteo conferma i compiti già stabiliti, sottolineando l'assenza di cambiamenti. Il messaggio è puramente logistico, privo di emozioni e riflessioni sulla relazione, indicando una "Superficial Communication".]
+
+2024-03-22 15:40:55 | Sara Mancini:
+Sì, esatto. Confermo. Farò la mia parte. Non ci sono problemi.
+Polarity: 0.05
+[Tag: Conferma neutra e acquiescenza\nSpiegazione: Sara risponde in modo molto conciso e neutro, confermando senza ulteriori commenti o emozioni. La sua risposta riflette la dinamica di circoscrizione, dove la comunicazione è limitata all'essenziale.]
+
+2024-03-22 15:44:30 | Matteo Ricci:
+Bene. L'importante è che le cose vadano avanti senza intoppi.
+Polarity: 0.00
+[Tag: Desiderio di assenza di problemi\nSpiegazione: Matteo esprime il desiderio che non ci siano problemi, focalizzandosi sull'assenza di conflitto e sulla funzionalità. Il suo tono è disinteressato al benessere emotivo, tipico di "Limited Emotional Sharing", mantenendo la polarità neutra.]
+
+2024-03-22 15:48:15 | Sara Mancini:
+Sì, sono d'accordo. L'importante è che funzioni tutto.
+Polarity: 0.00
+[Tag: Accordo superficiale\nSpiegazione: Sara risponde in modo superficiale, accordandosi con Matteo sul mantenimento della funzionalità. Non c'è profondità emotiva, solo un consenso minimo per evitare la discussione di eventuali problemi sottostanti, contribuendo alla "Superficial Agreement".]
+
+2024-03-22 15:51:30 | Matteo Ricci:
+Ok. Allora ci aggiorniamo quando avrai finito la lista.
+Polarity: 0.00
+[Tag: Chiusura funzionale\nSpiegazione: Matteo chiude la conversazione in modo puramente funzionale, senza alcun calore o invito a un dialogo più profondo. Questo sottolinea la "Superficial Communication" che caratterizza questa fase.]
+
+2024-03-22 15:55:00 | Sara Mancini:
+Va bene. A dopo.
+Polarity: 0.00
+[Tag: Conclusione disinteressata\nSpiegazione: Sara risponde con un saluto breve e disinteressato, concludendo la conversazione in modo meccanico. Questo riflette il "Limited Emotional Sharing" e la mancanza di desiderio di approfondire, mantenendo la polarità neutra e stabile.]

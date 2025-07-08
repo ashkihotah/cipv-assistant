@@ -1,0 +1,34 @@
+Stage: Avoiding
+Chat Polarity Mean: 0.48
+Chat Polarity Variance: 0.09
+Event: Gestione Coordinata e Consapevole del Tempo Individuale
+
+2024-07-26 14:00:00 | Luca Moretti:
+Elena, ho un impegno di lavoro improvviso che richiederà la mia presenza in ufficio fino a tardi. Non tornerò a casa per cena. Ho già avvisato il team.
+Polarity: 0.1
+[Tag: Comunicazione Logistica e Informativa
+Spiegazione: Luca comunica un cambio di programma in modo puramente informativo e conciso. Il suo tono è neutro e privo di affetto, limitando la comunicazione a un fatto senza alcun coinvolgimento personale, tipico della fase di evitamento neutra.]
+
+2024-07-26 14:02:15 | Elena Costa:
+Ok Luca. Grazie per avermelo fatto sapere per tempo. Non preoccuparti per la cena, mi organizzo io. Spero che vada tutto bene al lavoro.
+Polarity: 0.2
+[Tag: Accettazione e Supporto Utilitario
+Spiegazione: Elena risponde con accettazione e gratitudine per l'informazione, mostrando la sua capacità di adattamento e di gestione autonoma. Il suo supporto è pratico e non emotivo, riflettendo la natura superficiale della loro interazione in questa fase.]
+
+2024-07-26 14:03:30 | Luca Moretti:
+Prevedibile. È una situazione di routine. Ti terrò aggiornata se ci sono variazioni significative o se la tempistica si prolunga oltre il previsto.
+Polarity: 0.1
+[Tag: Conferma di Routine e Preavviso Pragmatico
+Spiegazione: Luca conferma la routine della situazione e offre un aggiornamento puramente pragmatico. Il suo tono è distaccato e privo di emozioni, sottolineando la natura predefinita e impersonale delle loro interazioni.]
+
+2024-07-26 14:04:45 | Elena Costa:
+Perfetto. Buonanotte allora.
+Polarity: 0.1
+[Tag: Chiusura Concisa
+Spiegazione: Elena chiude la conversazione con una frase breve e formale. Non c'è alcun tentativo di prolungare l'interazione o di cercare un contatto più profondo, riflettendo la distanza emotiva e la comunicazione limitata tipica della fase di evitamento neutra.]
+
+2024-07-26 14:06:00 | Luca Moretti:
+Buonanotte.
+Polarity: 0.1
+[Tag: Chiusura Breve e Neutra
+Spiegazione: Luca risponde con una chiusura altrettanto breve e neutra, sancendo la fine della conversazione. Questo scambio è l'emblema di un'interazione funzionale e priva di calore, dove la relazione è gestita attraverso accordi minimi senza alcun desiderio di connessione emotiva.]

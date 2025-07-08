@@ -1,0 +1,40 @@
+Stage: Circumscribing
+Chat Polarity Mean: 0.64
+Chat Polarity Variance: 0.62
+Event: Circoscrizione - Apparente Quiete e Lampi di Controllo
+
+2024-03-22 10:00:00 | Gabriele Esposito:
+Ciao Chiara. Tutto bene oggi? Qui in cantiere giornata intensa ma proficua. Mi piacciono le cose che funzionano e danno risultati. Ho appena chiuso un affare importante.
+Polarity: 0.9
+[Tag: Orgoglio e Affermazione Personale
+Spiegazione: Gabriele inizia con un tono positivo e orgoglioso, concentrandosi sui suoi successi professionali e sulla sua visione pragmatica della vita. Questo stabilisce un'atmosfera apparentemente serena e di efficienza, in linea con la sua personalità e il suo desiderio di presentare un'immagine di controllo e successo.]
+
+2024-03-22 10:02:45 | Chiara Romano:
+Ciao tesoro! Che splendida notizia! Sono felicissima per te e per l'azienda. Qui tutto sereno, i bambini mi hanno aiutato a sistemare i loro giochi e ora sono tranquilli. È una giornata calma.
+Polarity: 0.9
+[Tag: Armonia e Reciprocità Superficiale
+Spiegazione: Chiara risponde con entusiasmo e lodi per Gabriele, mantenendo un tono armonioso e positivo. Il suo aggiornamento sulla vita domestica è superficiale ma rassicurante, riflettendo il suo desiderio di pace e la sua tendenza a compiacere, contribuendo all'atmosfera di calma apparente.]
+
+2024-03-22 10:05:30 | Gabriele Esposito:
+Perfetto. La tranquillità è d'oro, è così che deve essere. A proposito di ordine, ti ho mandato un messaggio ieri sera ma hai risposto con ore di ritardo. Non va bene, Chiara. Sai quanto è importante per me la prontezza. E ho notato che non pubblichi più nulla di personale sui tuoi social da settimane. Stai nascondendo qualcosa o non ti importa più di condividere con me?
+Polarity: 1.0
+[Tag: Svolta Insinuante e Richiesta di Controllo
+Spiegazione: Gabriele inizia con un'affermazione di tranquillità, ma rapidamente devia verso un'accusa di negligenza e mancanza di trasparenza. La sua osservazione sul ritardo nella risposta e la critica alla sua attività sui social media sono un chiaro segnale di monitoraggio e di un desiderio crescente di controllo. Sebbene la sua frase finale sia una domanda, è caricata di sospetto e manipolazione emotiva, ponendo un'aspettativa di piena conformità, per lui questo controllo è un aspetto positivo del rapporto.]
+
+2024-03-22 10:08:15 | Chiara Romano:
+Gabriele, ti prego! Non è vero, ti assicuro! Ieri sera avevo il telefono in carica e non ho visto il messaggio subito. Non volevo farti aspettare o mancarti di rispetto, mai! E sui social... sai che non sono molto attiva, non l'ho mai usata così tanto. Non mi sto distraendo, mai! Sono sempre qui, per te e i bambini. Mi dispiace tanto se ti ho dato questa impressione, ti giuro che non è così. Mi sento malissimo.
+Polarity: -0.9
+[Tag: Angoscia e Sottomissione Terrorizzata
+Spiegazione: Chiara reagisce con estrema angoscia e disperazione, cercando disperatamente di giustificarsi e placare la rabbia di Gabriele. Le sue scuse immediate, l'auto-colpevolizzazione e la rassicurazione sulla sua lealtà riflettono la sua profonda paura del conflitto e della disapprovazione di Gabriele. La polarità è fortemente negativa a causa del suo evidente distress e della totale sottomissione al suo controllo.]
+
+2024-03-22 10:11:00 | Gabriele Esposito:
+Ok, ok. Va bene, se lo dici tu. Spero sia la verità, Chiara. Voglio che sia chiaro che non accetto distrazioni quando si tratta della nostra famiglia e della mia tranquillità. L'importante è che le priorità siano chiare e che tu sia sempre disponibile e trasparente. Ci vediamo stasera. Non farmici più pensare, ho altro a cui pensare.
+Polarity: 1.0
+[Tag: Ripristino del Controllo e Chiusura Manipolativa
+Spiegazione: Gabriele "accetta" la giustificazione di Chiara, ma lo fa in modo condizionato e minaccioso ("spero sia la verità"). Ribadisce le sue aspettative di controllo ("priorità chiare", "sempre disponibile e trasparente") e poi chiude bruscamente la discussione, scaricando la responsabilità su Chiara. Questo ripristina la sua sensazione di controllo e ordine, che per lui è altamente positivo. La polarità è alta, mostrando la sua soddisfazione per aver riaffermato il dominio.]
+
+2024-03-22 10:13:30 | Chiara Romano:
+Sì, certo. Ti informerò sempre. A stasera, tesoro.
+Polarity: 0.9
+[Tag: Acquiescenza e Ritorno alla Superficialità
+Spiegazione: Chiara cede completamente alle richieste di Gabriele, con un sospiro di sollievo che la tempesta sia passata. La sua risposta è concisa e priva di resistenza, indicando la sua totale acquiescenza e il suo ritorno alla modalità di comunicazione superficiale che garantisce la pace apparente. La polarità è alta, riflettendo il suo sollievo e il desiderio di mantenere l'armonia.]

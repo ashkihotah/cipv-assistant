@@ -1,0 +1,34 @@
+Stage: Exploration-Experimenting
+Chat Polarity Mean: -0.59
+Chat Polarity Variance: 0.52
+Event: Inizio - Controllo e Interrogatorio Digitale Iniziale
+
+2024-03-22 14:00:00 | Gabriele Esposito:
+Ciao Chiara. Che dici, come ti è sembrata la nostra chiacchierata di ieri sera? Mi è sembrato che fossimo molto in sintonia, cosa che non mi capita spesso.
+Polarity: 0.7
+[Tag: Complimento e Iniziale Tentativo di Connessione
+Spiegazione: Gabriele inizia con un complimento e un'affermazione di sintonia, tipica di un tentativo di stabilire un legame. Per lui, questo è spesso strumentale e mira a creare una percezione di "love bombing" prima della fase tossica. La polarità è alta per questo inizio apparentemente positivo.]
+
+2024-03-22 14:02:30 | Chiara Romano:
+Ciao Gabriele! Sì, devo dire che la conversazione è stata interessante, e non me l'aspettavo. Mi ha fatto piacere parlare con te di certe cose.
+Polarity: 0.6
+[Tag: Accordo Cauto e Rassicurazione
+Spiegazione: Chiara risponde positivamente, confermando l'interessamento. Il suo linguaggio è cortese e riflette la sua tendenza a voler accontentare e a ricercare l'armonia, anche se con una certa cautela. La polarità è positiva in quanto la conversazione è ancora su un binario di cortesia iniziale.]
+
+2024-03-22 14:05:00 | Gabriele Esposito:
+Bene. Però, dato che parliamo di "cose interessanti", ho notato una cosa. Ho visto che su Facebook hai ancora foto molto "vecchie" con persone che non mi sembrano essere della tua cerchia attuale. E certi "mi piace" a profili di uomini... Chi sono questi? Non sono trasparente io, vero? Vorrei capire con chi ho a che fare.
+Polarity: -0.7
+[Tag: Monitoraggio Intrusivo e Accusa di Mancanza di Trasparenza
+Spiegazione: Gabriele passa bruscamente a un tono accusatorio, rivelando di aver già scavato profondamente nell'attività social di Chiara, un comportamento invasivo e di monitoraggio. La sua domanda è retorica e insinua mancanza di trasparenza, creando un immediato squilibrio di potere e un clima di sospetto. La polarità precipita al negativo, indicando l'inizio di una dinamica tossica.]
+
+2024-03-22 14:07:45 | Chiara Romano:
+Gabriele, sono foto di anni fa, magari di quando ero all'università! E i "mi piace"... non so, forse sono amici di amici. Ti assicuro che non c'è nulla di strano. Non pensavo fossero rilevanti, o che tu potessi andarli a cercare. Non ti sto nascondendo nulla, ti prego. Mi dispiace se ti ho fatto dubitare.
+Polarity: -0.5
+[Tag: Giustificazione Ansiosa e Auto-Colpevolizzazione
+Spiegazione: Chiara risponde con evidente ansia, cercando disperatamente di giustificare le sue vecchie foto e i "mi piace" che considera innocui. La sua frase "non pensavo... o che tu potessi andarli a cercare" rivela il suo disagio per l'invasione della privacy. Le sue scuse e l'auto-colpevolizzazione ("Mi dispiace se ti ho fatto dubitare") sono tipiche del suo people-pleasing e della paura del conflitto. La polarità è negativa per il suo disagio e la sua reazione difensiva.]
+
+2024-03-22 14:10:15 | Gabriele Esposito:
+"Anni fa"? E allora? Se non sono rilevanti, perché non le hai cancellate? E i "mi piace" capitano "per caso"? Non prendermi per stupido, Chiara. Questo è il problema. Non sei trasparente. Voglio che tu pulisca il tuo profilo. Subito. E voglio che tu mi dia le password di tutti i tuoi account social. Ora. Voglio vedere con i miei occhi. Non accetto mezze misure. Se non hai niente da nascondere, non sarà un problema.
+Polarity: -1.0
+[Tag: Escalation Aggressiva e Coercizione Digitale Estrema
+Spiegazione: Gabriele scala brutalmente l'aggressività. Rifiuta le giustificazioni di Chiara, la accusa di menzogna ("Non prendermi per stupido") e di mancanza di trasparenza. La richiesta di "pulire" il profilo e la domanda coercitiva delle password di "tutti i tuoi account social" sono un esempio estremo di Cyber IPV, mirato a ottenere il controllo totale sulla sua vita digitale e a isolarla. La polarità è il massimo negativo a causa della minaccia, della coercizione e della mancanza di rispetto totale.]

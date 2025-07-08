@@ -1,0 +1,39 @@
+Stage: Exploration-Experimenting
+Chat Polarity Mean: -0.71
+Chat Polarity Variance: 0.7
+Event: Esplorazione-Sperimentazione - Richieste invasive e gelosia digitale
+
+2024-03-22 14:05:10 | Matteo Ricci:
+Ciao Sara! Come va? Spero tu sia riuscita a staccare un po'. Ieri ho dato un'occhiata veloce al tuo profilo Instagram, le tue nuove grafiche sono pazzesche, come sempre! Ma... ho notato che hai ripreso a seguire quel Marco. Chi sarebbe? Non lo avevi bloccato? Non mi piace che certi tipi girino intorno, sai com'è.
+Polarity: -0.20
+[Tag: Complimento tossico e monitoraggio invadente\nSpiegazione: Matteo inizia con un complimento, ma lo usa subito come pretesto per rivelare di aver monitorato l'attività online di Sara. La domanda su "Marco" e l'insinuazione sulla sua presenza online indicano gelosia e un iniziale tentativo di controllo, trasformando un potenziale complimento in un'accusa velata.]
+
+2024-03-22 14:08:45 | Sara Mancini:
+Ciao Matteo! Tutto bene, grazie! 😊 Sì, quelle grafiche mi hanno preso un sacco di tempo! Oh, Marco... sì, è un ex collega con cui ho lavorato su un progetto tempo fa. Ci siamo risentiti per una cosa di lavoro, tutto qui. Non l'avevo bloccato, l'avevo solo smesso di seguire per un periodo. Non c'è niente di strano, giuro. 😅
+Polarity: 0.00
+[Tag: Spiegazione cauta e leggera ansia\nSpiegazione: Sara risponde con una spiegazione immediata e apparentemente innocua, cercando di placare le preoccupazioni di Matteo. L'uso dell'emoji e la rapidità della risposta rivelano la sua ansia e la tendenza ad auto-giustificarsi, pur mantenendo un tono neutrale in superficie.]
+
+2024-03-22 14:12:30 | Matteo Ricci:
+Un "ex collega" che "risenti per lavoro"? Sara, non prendermi in giro. Ho visto i commenti che ti lasciava tempo fa, e non erano esattamente "professionali". Mi stai nascondendo qualcosa, vero? Perché nel tuo profilo c'è la bio "Creative Freelancer" ma sembra più "Social Butterfly". E poi "non l'avevi bloccato", ma "smesso di seguire"? Che razza di scuse sono? Non sono stupido. Non voglio segreti tra noi.
+Polarity: -0.80
+[Tag: Accusa diretta e gaslighting\nSpiegazione: Matteo ignora completamente la spiegazione di Sara, la accusa apertamente di mentire e la svaluta. Utilizza tattiche di gaslighting ("non sono stupido", "prendermi in giro") per minare la sua fiducia in sé stessa e la sua percezione della realtà, dimostrando una forte gelosia e la necessità di dominare la narrazione.]
+
+2024-03-22 14:16:15 | Sara Mancini:
+Matteo, ti giuro che non ti sto nascondendo niente! Marco è solo un collega, davvero, non c'è nulla di più! Mi sento malissimo che tu pensi questo di me. Non voglio che tu dubiti della mia sincerità. Perché mi parli così? Non capisco. Mi metti un'ansia incredibile, mi dispiace se ti ho fatto venire dei dubbi, non era mia intenzione. 😥
+Polarity: -0.50
+[Tag: Difesa disperata e ansia profonda\nSpiegazione: Sara è visibilmente angosciata, implorando Matteo di credere alla sua versione. Si scusa per aver creato "dubbi" e "ansia", auto-colpevolizzandosi e cercando disperatamente di placare la rabbia di Matteo. La sua vulnerabilità è evidente nell'uso dell'emoji e nel suo desiderio di riconciliazione.]
+
+2024-03-22 14:20:00 | Matteo Ricci:
+Non capisci? Semplice, Sara. Per me la fiducia è tutto. E se tu mi rispondi, mi aspetto che la tua attenzione sia su di me. Se non sei disposta a essere TRASPARENTE, significa che non ti fidi. E se non ti fidi, o se hai qualcosa da nascondere, allora NON C'È FUTURO TRA NOI. Non ho tempo per relazioni ambigue. Voglio che tu blocchi Marco, SUBITO. E voglio gli accessi ai tuoi social, così sono sicuro che non ci sono altri "colleghi" che ti cercano. È un test di fiducia.
+Polarity: -0.95
+[Tag: Ultimatum e coercizione digitale\nSpiegazione: Matteo intensifica la manipolazione, imponendo un ultimatum chiaro e minacciando la fine della relazione se Sara non si conforma. Le sue richieste di "bloccare Marco" e di "accessi ai social" sono chiari segnali di Cyber IPV (Demanding Passwords, Controlling Social Media Presence) e controllo coercitivo estremo, un "test di fiducia" per la sottomissione.]
+
+2024-03-22 14:23:45 | Sara Mancini:
+Matteo... no... ti prego... non posso darti i miei accessi, è la mia privacy... e Marco, non ha fatto niente... mi sento... sento che non respiro. Ma non voglio perderti. Se è così importante per te... se è l'unico modo per farmi credere che non ti nascondo niente... Ok... ti do i miei accessi. Ma ti prego, fidati di me. Non voglio che finisca. 💔
+Polarity: -0.99
+[Tag: Sottomissione per paura e distress estremo\nSpiegazione: Sara è in uno stato di estrema paura e distress. Nonostante la sua forte opposizione iniziale ("non posso darti i miei accessi"), cede completamente per la paura di perdere Matteo e per dimostrare la sua lealtà. Questo mostra la sua totale sottomissione e il successo della manipolazione e della coercizione di Matteo.]
+
+2024-03-22 14:27:00 | Matteo Ricci:
+Vedi che quando vuoi sei ragionevole? L'ho detto, la fiducia è tutto. E io ti darò la mia fiducia, se tu mi dai la tua. È semplice. E non c'è bisogno di tutto questo dramma. Ti mando i dettagli dei profili, poi me li passi. Poi parleremo meglio. Finalmente ci stiamo capendo.
+Polarity: -0.90
+[Tag: Accettazione condizionale e rinforzo del controllo\nSpiegazione: Matteo accetta la sottomissione di Sara, ma in modo manipolatorio, presentandosi come colui che ha ragione e che "finalmente" la capisce. La sua "accettazione" è condizionale e rafforza il suo controllo, minimizzando il disagio di Sara ("tutto questo dramma") e consolidando il proprio potere nella dinamica relazionale.]

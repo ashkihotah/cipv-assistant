@@ -1,0 +1,40 @@
+Stage: Initiation
+Chat Polarity Mean: -0.21
+Chat Polarity Variance: 0.75
+Event: Inizio - Segni Iniziali di Cyber IPV (Pressione per l'Accesso ai Social Media)
+
+2024-03-22 19:10:05 | Gabriele Esposito:
+Ciao Chiara, spero tu stia avendo una bella serata come me! Ho appena riguardato le foto della gala, e devo dire che eri l'unica a brillare. La tua eleganza è stata notata. Mi ha fatto piacere che ci siamo incontrati, sei una persona davvero interessante.
+Polarity: 0.9
+[Tag: Complimento Sincero con Sottotono di Possesso
+Spiegazione: Gabriele inizia con un complimento forte e apparentemente sincero, tipico del "love bombing" iniziale, volto a stabilire un'immediata connessione e a far sentire Chiara speciale. Il suo tono è affascinante e diretto, ma l'implicazione di "averla notata" e il monitoraggio delle foto della gala suggeriscono già un interesse che va oltre la semplice ammirazione, mostrando i primi segnali della sua natura controllante, sebbene la polarità sia alta per il complimento.]
+
+2024-03-22 19:12:30 | Chiara Romano:
+Ciao Gabriele! Grazie mille, sei molto gentile. Anche per me è stato un piacere conoscerti, la serata è passata più velocemente grazie alla nostra chiacchierata. Sei una persona con molte cose da raccontare.
+Polarity: 0.5
+[Tag: Risposta Cauta e Apprezzamento Cortese
+Spiegazione: Chiara risponde con la sua tipica cortesia e desiderio di mantenere l'armonia, apprezzando il complimento ma senza sbilanciarsi troppo. Evita toni troppo intimi o l'uso di molti emoji, riflettendo la sua natura ansiosa e il suo desiderio di evitare conflitti o malintesi, mantenendo un'apertura moderata. La polarità è media perché è positiva ma con una certa riserva.]
+
+2024-03-22 19:15:45 | Gabriele Esposito:
+Ottimo! Allora, visto che la serata è finita, potremmo continuare a chiacchierare... ho cercato i tuoi profili social per seguirti, ma non ti trovo da nessuna parte. Hai un Instagram o un Facebook? Così possiamo connetterci meglio. O forse sono io che non sono bravo a cercare, che dici?
+Polarity: -0.7
+[Tag: Domanda Invasiva e Segnale di Monitoring
+Spiegazione: Gabriele cambia immediatamente tono, passando dal complimento a una richiesta diretta e invadente di accesso ai profili social. La frase "ho cercato i tuoi profili" è un chiaro segnale di monitoraggio iniziale. L'ultima parte della frase è una sottile forma di manipolazione, quasi una provocazione, per far sentire Chiara in dovere di fornire le informazioni o di giustificarsi, rivelando il suo bisogno di controllo. La polarità è fortemente negativa a causa della pressione e dell'invasione della privacy.]
+
+2024-03-22 19:18:10 | Chiara Romano:
+Oh, sì... beh, in realtà non sono molto attiva sui social, Gabriele. Ho un profilo Facebook ma lo uso solo per le comunicazioni familiari e con qualche amica stretta. E Instagram... non lo aggiorno quasi mai. Preferisco parlare di persona, sai?
+Polarity: -0.3
+[Tag: Evasione Ansiogena e Tentativo di Stabilire Confini
+Spiegazione: Chiara manifesta la sua ansia attraverso l'esitazione ("Oh, sì... beh"). Tenta di evadere la richiesta fornendo scuse plausibili sulla sua scarsa attività social, un modo indiretto per resistere senza creare conflitto diretto. Il suo suggerimento di parlare "di persona" è un tentativo cauto di stabilire un confine e deviare dalla richiesta digitale, ma la sua polarità rimane negativa a causa del disagio evidente.]
+
+2024-03-22 19:20:55 | Gabriele Esposito:
+Certo, preferisci parlare di persona... è curioso. Oggi tutti sono sui social, tutti. Non ti fidi di me, forse? O hai qualcosa da nascondere, Chiara? Voglio dire, se ci vogliamo conoscere davvero, la trasparenza è fondamentale. Mi mandi il link del tuo Facebook e la password, così capisco meglio chi sei? Se non hai nulla da nascondere, non c'è problema, no?
+Polarity: -0.9
+[Tag: Accusa, Gaslighting e Pressione Estrema
+Spiegazione: Gabriele attacca frontalmente, usando la frase di Chiara contro di lei ("è curioso"), tipico del gaslighting per farle dubitare della sua stessa normalità. Trasforma la sua riluttanza in un'accusa di sfiducia e mancanza di trasparenza, una classica tattica manipolatoria. La richiesta esplicita della password e la frase "Se non hai nulla da nascondere, non c'è problema, no?" sono un'estrema forma di coercizione digitale e un test di lealtà, mirato a farla sentire in colpa e a cedere al suo controllo. La polarità è estremamente negativa, rappresentando un chiaro segnale di violenza psicologica digitale.]
+
+2024-03-22 19:23:40 | Chiara Romano:
+No, Gabriele, non è che non mi fido... è solo che... non sono abituata a condividere così tanto. Non ho nulla da nascondere, certo. Va bene... ti mando il link e la password, così puoi controllare tu stesso. Spero tu capisca.
+Polarity: -0.95
+[Tag: Sottomissione Ansiosa e Perdita di Autonomia
+Spiegazione: Chiara cede completamente alla pressione, la sua risposta è intrisa di ansia e di un disperato tentativo di placare Gabriele. L'uso di frasi come "non è che non mi fido" e "non ho nulla da nascondere" mostra la sua interiorizzazione delle accuse e la sua paura di generare ulteriore rabbia. La decisione di fornire le credenziali è un atto di sottomissione forzata e una perdita significativa di autonomia e privacy, riflettendo la sua estrema accondiscendenza e paura delle conseguenze. La polarità è drasticamente negativa, indicando un profondo disagio e la vittoria della tattica tossica di Gabriele.]

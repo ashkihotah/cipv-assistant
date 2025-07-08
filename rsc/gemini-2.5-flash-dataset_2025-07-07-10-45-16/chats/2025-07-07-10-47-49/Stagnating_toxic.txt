@@ -1,0 +1,46 @@
+Stage: Stagnating
+Chat Polarity Mean: -0.58
+Chat Polarity Variance: 0.38
+Event: Controllo Quotidiano e Distanza Emotiva
+
+2024-03-25 09:15:05 | Gabriele Esposito:
+Chiara, hai chiamato l'idraulico per quel problema al bagno al piano di sopra? Ti avevo detto di farlo stamattina. Spero tu non abbia dimenticato.
+Polarity: -0.6
+[Tag: Coercizione e Richieste
+Spiegazione: Gabriele inizia la conversazione con una richiesta diretta e una velata minaccia di critica, aspettandosi che Chiara abbia già adempiuto al suo compito senza necessità di ricordare. La sua domanda è più un'accusa implicita che una genuina richiesta di informazioni, riflettendo il suo bisogno di controllo.]
+
+2024-03-25 09:17:33 | Chiara Romano:
+Certo Gabriele, l'ho chiamato subito dopo aver portato i bambini a scuola. Ha detto che passerà nel pomeriggio, tra le 15 e le 17. Spero vada bene. 🙏
+Polarity: -0.4
+[Tag: Reciprocità e Accondiscendenza
+Spiegazione: Chiara risponde immediatamente con un tono sottomesso e accomodante, cercando di rassicurare Gabriele di aver adempiuto al suo dovere. L'uso dell'emoji del "grazie" o "speranza" indica il suo desiderio di evitare conflitti e la sua ansia che la risposta non sia sufficiente per soddisfarlo, riflettendo la sua estrema accondiscendenza.]
+
+2024-03-25 09:19:58 | Gabriele Esposito:
+Tra le 15 e le 17? È un intervallo troppo ampio, non si può perdere tutto il pomeriggio dietro a gente che non sa gestire il proprio tempo. Sii più specifica la prossima volta. Assicurati che non ci faccia perdere tempo.
+Polarity: -0.75
+[Tag: Critica Costante e Controllo Digitale
+Spiegazione: Gabriele ignora l'effettivo adempimento del compito da parte di Chiara e si concentra sulla negatività, criticando un dettaglio (l'intervallo di tempo) e mettendo in discussione la sua capacità di gestione. La sua richiesta di maggiore specificità è una forma di micro-gestione e un tentativo di estendere ulteriormente il suo controllo sulla sua vita e sulle sue interazioni.]
+
+2024-03-25 09:22:40 | Chiara Romano:
+Mi dispiace, Gabriele. Ho cercato di chiedere un orario più preciso ma ha detto che hanno molti interventi oggi. Farò del mio meglio per essere efficiente e gestirlo al meglio quando arriva. Non ti preoccupare. 😔
+Polarity: -0.8
+[Tag: Auto-colpevolizzazione e Ansia
+Spiegazione: Chiara si scusa immediatamente e si assume la colpa per una situazione che è fuori dal suo controllo, riflettendo la sua profonda ansia di deludere Gabriele. Il suo tentativo di rassicurarlo e l'uso dell'emoji triste evidenziano il suo disagio emotivo e la sua tendenza a placare il partner a qualsiasi costo, mettendo da parte le proprie emozioni.]
+
+2024-03-25 09:25:11 | Gabriele Esposito:
+Non è questione di preoccuparsi, Chiara, è questione di efficienza. La casa deve funzionare. E i bambini? Tutto a posto per la gita di domani? Hai controllato che abbiano tutto? Non voglio problemi.
+Polarity: -0.65
+[Tag: Distacco Emotivo e Spostamento dell'Argomento
+Spiegazione: Gabriele respinge le scuse di Chiara e la sua evidente preoccupazione, focalizzandosi unicamente sull'aspetto funzionale ("la casa deve funzionare"). Sposta poi bruscamente l'argomento sui bambini, non per genuina preoccupazione ma per esercitare ulteriore controllo e stabilire nuove richieste, mostrando un totale distacco emotivo dalle preoccupazioni di Chiara e ribadendo la sua centralità nelle decisioni.]
+
+2024-03-25 09:27:50 | Chiara Romano:
+Sì, Gabriele, i bambini sono pronti. Ho controllato zaini e permessi. Tutto a posto. Non ci saranno problemi.
+Polarity: -0.45
+[Tag: Silenzio Emotivo e Conformismo
+Spiegazione: Chiara risponde in modo conciso e fattuale, evitando di esprimere qualsiasi emozione o pensiero personale. Il suo tono è di mera conferma e rassicurazione, un chiaro esempio di auto-censura e conformismo per evitare ulteriori critiche, tipico di chi si sente emotivamente prosciugato e cerca solo di mantenere la pace apparente.]
+
+2024-03-25 09:29:01 | Gabriele Esposito:
+Bene.
+Polarity: -0.2
+[Tag: Minimizzazione e Chiusura
+Spiegazione: La risposta monosillabica di Gabriele è un'affermazione di chiusura che minimizza sia l'impegno di Chiara che la conversazione stessa. Non c'è alcun riconoscimento, apprezzamento o ulteriore coinvolgimento, sottolineando la mancanza di calore e la natura puramente transazionale della loro comunicazione.]

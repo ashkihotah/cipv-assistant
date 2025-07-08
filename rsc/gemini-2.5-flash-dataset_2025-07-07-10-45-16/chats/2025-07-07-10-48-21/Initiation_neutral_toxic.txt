@@ -1,0 +1,39 @@
+Stage: Initiation
+Chat Polarity Mean: -0.3
+Chat Polarity Variance: 0.94
+Event: Iniziazione - Primo contatto online con segnali d'allarme
+
+2024-03-20 15:01:23 | Matteo Ricci:
+Ciao Sara! Ho visto il tuo profilo, mi piacciono molto le tue grafiche, hanno un tocco particolare. Lavoro nel marketing della moda, quindi capisco l'importanza dell'immagine. Ma dimmi, sei sempre così 'presente' online? Sembra che tu abbia un sacco di vita sociale lì.
+Polarity: 0.50
+[Tag: Apertura ambigua e osservazione invadente\nSpiegazione: Matteo inizia con un complimento, ma immediatamente inserisce una domanda ambigua e invadente sulla presenza online di Sara, mostrando un interesse che sconfina nel monitoraggio e un primo segnale della sua necessità di controllo.]
+
+2024-03-20 15:04:18 | Sara Mancini:
+Ciao Matteo! Grazie, mi fa piacere che ti piacciano! 😊 Be', sì, cerco di esserci per il mio lavoro e per stare in contatto con le persone... un po' come tutti, no?
+Polarity: 0.70
+[Tag: Risposta cordiale e leggera difesa\nSpiegazione: Sara risponde con calore e gratitudine, cercando di minimizzare l'aspetto della "presenza online" e di normalizzarlo. La sua risposta è orientata all'armonia e alla cooperazione, ma mostra una leggera punta di disagio.]
+
+2024-03-20 15:07:55 | Matteo Ricci:
+Un po' come tutti? Sara, non sono un ingenuo. Ti ho vista online anche quando non mi rispondevi. Sai, la trasparenza è importante per me, soprattutto sui social. Chi sono tutti questi 'amici' che commentano le tue foto? E perché ti mettono così tanti 'like'? Sembra un po' eccessivo, non credi?
+Polarity: -0.60
+[Tag: Accusa, monitoraggio e svalutazione\nSpiegazione: Matteo abbandona il tono cordiale, accusando Sara di scarsa trasparenza e mostrando di averla monitorata. La sua domanda sui "commenti" e "like" è un chiaro segnale di possessività e controllo, mettendo in discussione la sua rete sociale in modo aggressivo e manipolativo ("non credi?").]
+
+2024-03-20 15:11:40 | Sara Mancini:
+Uhm... mi dispiace se ti ho dato quest'impressione. Stavo lavorando e a volte non guardo le notifiche. Gli amici sono persone che conosco, normali. Non c'è nulla di eccessivo, sono solo... i miei contatti. Non capisco perché queste domande così dirette all'inizio...
+Polarity: -0.20
+[Tag: Auto-scusa e disagio\nSpiegazione: Sara si scusa per un'impressione che non intendeva dare, cercando di giustificarsi e rassicurare Matteo. Esprime apertamente il suo disagio per le domande invasive, ma la sua tendenza a evitare il conflitto la porta a non affrontare direttamente l'aggressività di Matteo.]
+
+2024-03-20 15:15:01 | Matteo Ricci:
+Non capisci? Semplice. Io voglio capire con chi parlo, non ho tempo per le scenette. E 'non guardo le notifiche'? Dai, nel nostro mondo, se uno non risponde subito, è perché non gli frega niente. O peggio, ha qualcosa da nascondere. Tu che tipo sei, Sara?
+Polarity: -0.80
+[Tag: Gaslighting, accusa diretta e richiesta di conformità\nSpiegazione: Matteo ignora il disagio di Sara, la svaluta, e rincara la dose accusandola di nascondere qualcosa. Utilizza il suo ambiente professionale ("nel nostro mondo") per giustificare la sua aspettativa di risposta immediata e per manipolare Sara, spingendola a conformarsi alle sue regole.]
+
+2024-03-20 15:17:34 | Sara Mancini:
+Non è così... Mi sento un po' sotto esame, sinceramente. Non ho nulla da nascondere, ma queste domande mi mettono a disagio. Non volevo crearti problemi, scusa.
+Polarity: -0.40
+[Tag: Vulnerabilità, ulteriore auto-colpevolizzazione\nSpiegazione: Sara esprime la sua vulnerabilità e si sente "sotto esame", ma la sua paura del conflitto la spinge a scusarsi di nuovo e a auto-colpevolizzarsi, cercando disperatamente di placare Matteo e di ripristinare l'armonia, dimostrando il suo alto livello di neuroticismo e bassa autostima.]
+
+2024-03-20 15:20:10 | Matteo Ricci:
+Sotto esame? Questo è il tuo problema, sei troppo emotiva. Io sono solo diretto. Se queste 'domande' ti mettono 'a disagio', forse non siamo sulla stessa lunghezza d'onda. E comunque, mi pare chiaro che non ci stiamo capendo. Se non sei pronta a essere trasparente, non farmi perdere tempo.
+Polarity: -0.90
+[Tag: Svalutazione delle emozioni, ultimatum e disimpegno tossico\nSpiegazione: Matteo minimizza e svaluta le emozioni di Sara ("troppo emotiva"), giustificando il suo comportamento come mera "direttezza". Lancia un ultimatum, minacciando di ritirarsi dalla conversazione e accusando Sara di non essere "trasparente", un chiaro segno di coercizione e di chiusura unilaterale del dialogo.]

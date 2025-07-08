@@ -1,0 +1,40 @@
+Stage: Avoiding
+Chat Polarity Mean: 0.25
+Chat Polarity Variance: 0.22
+Event: Avoiding - La Routine del Silenzio e l'Apparenza di Indipendenza
+
+2024-03-29 15:00:10 | Marco Rossi:
+Ciao Sofia, giornata impegnativa al lavoro. Ho appena finito una riunione importante. Adesso vado a sbrigare alcune commissioni. Tu come stai?
+Polarity: 0.3
+[Tag: Superficialità, Descrizione di Attività Individuali, Domanda di Rito
+Spiegazione: Marco inizia la conversazione con una descrizione funzionale della sua giornata, priva di profondità emotiva. La sua domanda su Sofia è più una formalità che un vero interesse, mantenendo la comunicazione su un piano superficiale e di evitamento.]
+
+2024-03-29 15:02:45 | Sofia Bianchi:
+Ciao Marco. Anche la mia giornata è stata piena, ho consegnato un progetto impegnativo. Sono un po' stanca, ma è andata bene. Tu hai già cenato o vuoi che prepari qualcosa stasera?
+Polarity: 0.4
+[Tag: Condivisione Superficiale, Richiesta Funzionale, Tentativo di Connessione (logistica)
+Spiegazione: Sofia risponde con una descrizione superficiale della sua giornata e poi tenta una connessione attraverso una domanda funzionale sulla cena. È un tentativo di mantenere un legame, anche se solo a livello pratico, rivelando una polarità neutro-positiva.]
+
+2024-03-29 15:05:30 | Marco Rossi:
+Non preoccuparti per la cena, ho già mangiato fuori con i colleghi. Una cosa veloce dopo il lavoro. Non ti disturbare. Adesso sono a casa, ma ho un po' di scartoffie da sistemare, quindi sarò impegnato.
+Polarity: 0.1
+[Tag: Evitamento, Priorizzazione di Altre Attività, Distanza, Mancanza di Chiarezza (sulla sua cena)
+Spiegazione: Marco elude la possibilità di cenare insieme, inventando una scusa di "scartoffie" per giustificare la sua indisponibilità. La sua comunicazione è un chiaro esempio di evitamento, mantenendo la distanza e rifiutando l'interazione, ma senza toni aggressivi, rendendo la polarità bassa ma neutra.]
+
+2024-03-29 15:08:15 | Sofia Bianchi:
+Ah, ok. Va bene, Marco. Allora niente cena insieme stasera. Capisco che sei impegnato. Io magari disegno un po', così mi rilasso. Buona serata con le tue scartoffie.
+Polarity: 0.1
+[Tag: Rassegnazione, Accettazione Passiva, Distacco Emotivo, Evitamento
+Spiegazione: Sofia reagisce con rassegnazione e accettazione passiva. Non c'è più tentativo di connessione, ma una chiara accettazione della distanza e dell'evitamento. Il suo tono è privo di emozione, riflettendo la stagnazione e la separazione dei loro percorsi, anche se fisicamente nello stesso luogo.]
+
+2024-03-29 15:10:40 | Marco Rossi:
+Esatto. Ottima idea. Anch'io ho bisogno di concentrarmi sul mio. A dopo.
+Polarity: 0.2
+[Tag: Accordo Funzionale, Rinforzo della Distanza, Brevità
+Spiegazione: Marco approva la decisione di Sofia di dedicarsi alle sue attività individuali, rafforzando la distanza tra loro. Il suo messaggio è breve e funzionale, senza alcun intento di ristabilire una connessione. La polarità è neutra, ma conferma lo stato di evitamento.]
+
+2024-03-29 15:12:30 | Sofia Bianchi:
+A dopo.
+Polarity: 0.0
+[Tag: Brevità Estrema, Distacco Emotivo Completo, Rassegnazione
+Spiegazione: La risposta monosillabica di Sofia riflette la completa rassegnazione e il distacco emotivo. Non c'è alcun tentativo di ulteriore interazione, semplicemente un riconoscimento funzionale, segnando una distanza e una stagnazione nella comunicazione, con polarità completamente neutra.]

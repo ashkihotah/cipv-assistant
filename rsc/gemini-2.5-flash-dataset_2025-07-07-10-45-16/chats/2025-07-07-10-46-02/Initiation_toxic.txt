@@ -1,0 +1,46 @@
+Stage: Initiation
+Chat Polarity Mean: -0.77
+Chat Polarity Variance: 0.08
+Event: Avanzamento Indesiderato e Persistente
+
+2024-05-18 11:05:10 | Marco Rossi:
+Sofia, ho visto il tuo profilo, sei molto interessante. Niente giri di parole, voglio conoscerti di persona. Non mi piace perdere tempo con le chat. Dimmi quando sei libera stasera.
+Polarity: -0.85
+[Tag: Demanding Immediate Personal Information
+Spiegazione: Marco si presenta in modo brusco e autoritario, saltando le normali fasi di conoscenza. La sua richiesta di un incontro immediato e il rifiuto delle chat sono un chiaro tentativo di controllo e un'avanzata persistente, mostrando disinteresse per i tempi dell'altra persona.]
+
+2024-05-18 11:07:35 | Sofia Bianchi:
+Ciao Marco. Mi fa piacere che tu abbia trovato il mio profilo interessante, grazie. 😊 Però mi sembra un po' troppo affrettato proporre un incontro subito, non credi? Preferirei chiacchierare un po' qui prima, per conoscerci un minimo. Spero tu capisca.
+Polarity: -0.35
+[Tag: Defensiveness and Refusal of Responsibility
+Spiegazione: Sofia risponde con gentilezza ma esprime disagio per la richiesta, cercando di stabilire un confine con un tono accomodante e un'implicita richiesta di comprensione, tipica del suo evitare il conflitto.]
+
+2024-05-18 11:09:50 | Marco Rossi:
+Capire cosa? Che mi stai facendo perdere tempo? Non mi interessano le chiacchiere da chat, sono un uomo diretto. Se vuoi giocare, non sono il tipo. Decidi subito se sei seria o meno. Non sopporto l'incertezza. Allora? Ci vediamo stasera o no?
+Polarity: -0.90
+[Tag: Guilt-Tripping and Emotional Manipulation
+Spiegazione: Marco respinge la richiesta di Sofia, la accusa di "giocare" e di fargli "perdere tempo", esercitando pressione per ottenere una risposta immediata e denigrando la sua esitazione. Il tono è minaccioso e autoritario.]
+
+2024-05-18 11:12:15 | Sofia Bianchi:
+No, non voglio giocare, affatto! 🥺 È solo che non sono abituata a questa velocità. Mi metti un po' in ansia... non so cosa dire. Non voglio che tu pensi male di me.
+Polarity: -0.55
+[Tag: Manipulation and Guilt-Tripping
+Spiegazione: Sofia si mette immediatamente sulla difensiva, cercando di placare la rabbia di Marco e auto-colpevolizzandosi ("non voglio che tu pensi male di me"), mostrando la sua paura di deludere e il suo disagio estremo.]
+
+2024-05-18 11:14:40 | Marco Rossi:
+Ansia? Non c'è motivo di agitarsi per una semplice proposta. Non vedo perché tutta questa esitazione. Se non sai cosa dire, ti dico io: l'occasione è ora o mai più. Sono una persona molto impegnata. Non mi faccio prendere in giro. Dammi una risposta chiara, adesso.
+Polarity: -0.98
+[Tag: Coercion and Demands
+Spiegazione: Marco minimizza e invalida l'ansia di Sofia, riaffermando il suo controllo e imponendo un ultimatum ("ora o mai più"). Il suo tono è apertamente coercitivo e minaccioso, lasciando a Sofia nessuna via di fuga e spingendola a una decisione forzata.]
+
+2024-05-18 11:16:55 | Sofia Bianchi:
+Ok, Marco... capisco che sei impegnato. Mi sento sotto pressione, ma non voglio che tu ti arrabbi. Non riesco a decidere così in fretta, ho davvero bisogno di un attimo... ma se non rispondo, ti arrabbierai ancora di più, vero? 😥
+Polarity: -0.70
+[Tag: Stonewalling and Emotional Withdrawal
+Spiegazione: Sofia è chiaramente sopraffatta e in uno stato di paura. Non riesce a formulare un rifiuto diretto, ma la sua risposta è un tentativo disperato di guadagnare tempo e di capire come evitare ulteriori reazioni negative da parte di Marco, mostrando la sua sottomissione al suo controllo emotivo.]
+
+2024-05-18 11:18:05 | Marco Rossi:
+Ovvio. Questa è l'ultima volta che te lo chiedo. Stasera, sì o no. O sparisco.
+Polarity: -1.00
+[Tag: Cyber Stalking and Harassment
+Spiegazione: Marco risponde con una minaccia esplicita di abbandono e un'intimidazione diretta ("sparisco"), eliminando ogni possibilità di scelta per Sofia e dimostrando la sua volontà di usare la coercizione per ottenere ciò che vuole. Il tono è ultimatum e finale, senza spazio per negoziazioni.]

@@ -1,0 +1,52 @@
+Stage: Stagnating
+Chat Polarity Mean: -0.57
+Chat Polarity Variance: 0.99
+Event: Stagnating - Vivere Vite Parallele e Distacco Emotivo
+
+2024-07-28 19:05:10 | Clara Neri:
+Ciao Ale, sei a casa per cena? Ho preso del pesce fresco, se ti va lo preparo. Fammi sapere a che ora sei libero! 😊
+Polarity: 0.25
+[Tag: Tentativo di Normalità
+Spiegazione: Clara cerca di mantenere una parvenza di normalità e connessione attraverso una domanda sulla cena, usando un tono amichevole e un emoji, tipico del suo bisogno di armonia, anche in una relazione stagnante.]
+
+2024-07-28 19:07:35 | Alessandro Conti:
+Arriverò più tardi. Ho delle cose da sbrigare. E a proposito, ho notato che hai riattivato le notifiche dei commenti sulle tue foto di Instagram. Non avevamo concordato che era meglio di no?
+Polarity: -0.75
+[Tag: Monitoraggio e Controllo
+Spiegazione: Alessandro risponde in modo distaccato sulla cena, poi devia immediatamente su un'accusa di monitoraggio e controllo, mostrando la sua ossessione per la supervisione della vita online di Clara e la sua tendenza a imporre regole non negoziabili, un chiaro segnale di Cyber IPV.]
+
+2024-07-28 19:09:40 | Clara Neri:
+Oh... sì, scusa. È stato un errore, stavo provando una nuova funzionalità per lavoro e deve essersi attivato per sbaglio. Giuro che non era intenzionale. Lo disattivo subito. Non volevo infrangere nulla.
+Polarity: -0.45
+[Tag: Ansia e Sottomissione
+Spiegazione: Clara si scusa immediatamente e si affretta a rassicurare Alessandro, mostrando la sua ansia e la tendenza a sottomettersi alle sue richieste per evitare il conflitto. La sua paura di "infrangere" le "regole" di lui è evidente.]
+
+2024-07-28 19:11:01 | Alessandro Conti:
+"Per sbaglio"? Clara, questo è il tuo account di lavoro? Quella foto con quel tuo ex collega non mi sembra professionale. Ti ho già detto che è FONDAMENTALE mantenere una certa discrezione. Ogni tua azione online riflette anche su di ME.
+Polarity: -0.90
+[Tag: Gaslighting e Vergogna
+Spiegazione: Alessandro minimizza la spiegazione di Clara, usando il gaslighting per insinuare che stia mentendo e ricollegando l'accaduto a una foto passata, un tentativo di manipolarla per farla dubitare della sua memoria o intenzioni. In più, la colpevolizza e le fa sentire vergogna, amplificando la sua dominanza e il suo bisogno di controllo sull'immagine di lei.]
+
+2024-07-28 19:13:20 | Clara Neri:
+Ma era una foto di gruppo di un evento, non c'è niente di male! E comunque l'ho scattata mesi fa, prima che stessimo insieme. Non capisco perché ogni piccola cosa... mi sembra che tu mi stia controllando troppo.
+Polarity: -0.60
+[Tag: Breve Tentativo di Resistenza
+Spiegazione: Clara prova a difendersi, contestando la logica di Alessandro e provando a esprimere un limite per la prima volta. La sua frustrazione è chiara, ma la sua tendenza a evitare il conflitto la rende titubante.]
+
+2024-07-28 19:14:45 | Alessandro Conti:
+Controllando? Chiamalo PROTEZIONE della nostra immagine. Se ti esponi in modo così ingenuo, non è certo colpa mia se mi preoccupo. Forse dovresti riflettere sul significato di "limiti" e "fiducia". O preferisci che ne parliamo dopo, quando torno?
+Polarity: -0.95
+[Tag: Manipolazione e Minaccia Velata
+Spiegazione: Alessandro raddoppia la manipolazione, capovolgendo la situazione e facendola sembrare una "protezione". Usa un linguaggio passivo-aggressivo ("Forse dovresti riflettere...") e la minaccia velata di una discussione successiva, mostrando la sua determinazione a dominare e punire, tipico della sua bassa empatia e della volontà di farle sentire che è sempre dalla parte del torto.]
+
+2024-07-28 19:16:30 | Clara Neri:
+No, no, va bene. Capisco. Ho disattivato tutto, davvero. Cancello anche quella foto se ti preoccupa così tanto. Non voglio creare problemi. Scusa.
+Polarity: -0.70
+[Tag: Completa Sottomissione
+Spiegazione: Clara cede completamente alla pressione, scusandosi eccessivamente e offrendo di rimuovere la foto per evitare ulteriori confronti. La sua profonda paura del conflitto e della potenziale perdita di Alessandro la porta a sacrificare la sua autonomia e la sua percezione della realtà, perpetuando il ciclo tossico e la stagnazione emotiva della relazione.]
+
+2024-07-28 19:17:15 | Alessandro Conti:
+Bene. Così si ragiona.
+Polarity: -0.15
+[Tag: Approvazione Condizionale
+Spiegazione: Alessandro conclude con una breve approvazione, ma il tono è freddo e condizionale. Non c'è empatia o riconoscimento del disagio di Clara, solo un'affermazione del suo successo nel mantenere il controllo, che contribuisce al distacco emotivo e alla stagnazione della relazione.]

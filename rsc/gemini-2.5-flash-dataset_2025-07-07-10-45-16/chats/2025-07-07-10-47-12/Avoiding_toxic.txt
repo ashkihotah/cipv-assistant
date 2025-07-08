@@ -1,0 +1,46 @@
+Stage: Avoiding
+Chat Polarity Mean: -0.69
+Chat Polarity Variance: 0.05
+Event: Avoiding - Far Tardi a Casa per Evitare il Partner
+
+2024-07-28 21:05:10 | Clara Neri:
+Ale, sei sparito di nuovo? È da stamattina che non rispondi ai miei messaggi e non so dove sei. Ho preparato la cena, ti stavo aspettando.
+Polarity: -0.50
+[Tag: Frustrazione per Mancanza di Comunicazione
+Spiegazione: Clara esprime un mix di frustrazione e preoccupazione a causa della prolungata assenza e della mancanza di risposte di Alessandro, indicando un pattern di evitamento e una comunicazione unidirezionale, tipica di una relazione in fase di "Avoiding".]
+
+2024-07-28 21:07:35 | Alessandro Conti:
+Sono fuori. Ho delle cose da sbrigare e non ho l'obbligo di rendicontarti ogni mio spostamento. Ho avvisato che avrei fatto tardi.
+Polarity: -0.80
+[Tag: Chiusura e Rifiuto di Responsabilità
+Spiegazione: Alessandro risponde in modo brusco e autoritario, rifiutando qualsiasi responsabilità di comunicazione o spiegazione. Il suo tono è dismissivo e indica un chiaro desiderio di mantenere le distanze, con un atteggiamento di superiorità che sminuisce il bisogno di Clara.]
+
+2024-07-28 21:09:40 | Clara Neri:
+Non è un "rendiconto", Ale. È che mi sento ignorata, è da giorni che torni sempre tardi o non torni proprio. Non mi sembra ci sia più un dialogo tra noi. Cosa sta succedendo?
+Polarity: -0.70
+[Tag: Espressione di Sentimenti Ignorati
+Spiegazione: Clara cerca di spiegare il suo disagio emotivo, esprimendo il senso di essere ignorata e la percezione di un deterioramento del dialogo. È un tentativo di far emergere le dinamiche disfunzionali, ma si scontra con il muro di evitamento di Alessandro.]
+
+2024-07-28 21:11:01 | Alessandro Conti:
+Non sta succedendo NIENTE. Se hai problemi di insicurezza o sei troppo appiccicosa, risolvili da sola. Io ho una vita e dei miei impegni. Se non capisci questo, il problema è tuo, non mio.
+Polarity: -0.90
+[Tag: Gaslighting e Attacco Personale
+Spiegazione: Alessandro nega categoricamente il problema, utilizzando il gaslighting per far dubitare Clara della sua percezione della realtà. Attacca la sua personalità ("insicura", "appiccicosa") e rifiuta ogni responsabilità, spostando la colpa interamente su di lei e rafforzando la sua tattica di evitamento come forma di controllo.]
+
+2024-07-28 21:13:20 | Clara Neri:
+Quindi la tua soluzione è ignorarmi e dirmi che sono io quella sbagliata? Non mi sembra giusto. Sto male quando fai così, mi sento sola e che non ti importi più di me. Non è un dramma, sono solo i miei sentimenti.
+Polarity: -0.80
+[Tag: Sofferenza e Incomprensione
+Spiegazione: Clara esprime profonda sofferenza e incomprensione di fronte alla mancanza di empatia e al rifiuto di Alessandro. Si sente svalutata e sola, ma cerca ancora di far valere i suoi sentimenti, anche se viene costantemente respinta, un segno del suo attaccamento ansioso.]
+
+2024-07-28 21:14:45 | Alessandro Conti:
+Le tue "sensazioni" non sono affari miei e non mi interessano. Ho bisogno di spazio e non intendo discuterne con chi crea drammi inutili. Trova altro da fare invece di cercarmi e lamentarti.
+Polarity: -0.95
+[Tag: Silenziamento e Distacco Emotivo Estremo
+Spiegazione: Alessandro raggiunge il culmine del distacco emotivo e dello stonewalling, liquidando completamente i sentimenti di Clara come irrilevanti e un "dramma inutile". Ribadisce il suo bisogno di spazio in modo aggressivo, dimostrando una totale mancanza di empatia e un intento punitivo, consolidando l'evitamento e la violenza psicologica.]
+
+2024-07-28 21:16:30 | Clara Neri:
+Certo. Come vuoi. È inutile anche solo provare a parlare. Buonanotte.
+Polarity: -0.70
+[Tag: Resa e Disperazione
+Spiegazione: Clara si arrende completamente, riconoscendo l'inutilità di qualsiasi ulteriore tentativo di comunicazione. Il suo tono è di rassegnazione e disperazione, riflettendo il fallimento del suo bisogno di connessione e l'accettazione della distanza imposta da Alessandro. La "buonanotte" è un saluto formale e senza calore.]

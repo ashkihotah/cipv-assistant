@@ -1,0 +1,52 @@
+Stage: Stagnating
+Chat Polarity Mean: -0.09
+Chat Polarity Variance: 0.59
+Event: Stagnazione - Vita Parallela e Maleducazione Passiva
+
+2024-03-22 10:00:00 | Gabriele Esposito:
+Buongiorno. Hai preparato il caffè? Ho un sacco di lavoro oggi, non ho tempo da perdere.
+Polarity: -0.1
+[Tag: Richiesta Imperativa e Tono Pragmatico
+Spiegazione: Gabriele inizia la giornata con un comando diretto e senza preamboli, ponendo le sue esigenze al centro dell'attenzione e sottolineando la sua priorità sul lavoro. Questo mostra un'assenza di calore o reciproca interazione. La polarità è leggermente negativa a causa del tono imperativo e della mancanza di cortesia.]
+
+2024-03-22 10:02:45 | Chiara Romano:
+Buongiorno, Gabriele. Sì, certo, il caffè è pronto sul tavolo, come sempre. Ho preparato anche i tuoi documenti per l'ufficio. Vai piano, mi raccomando.
+Polarity: 0.1
+[Tag: Conformità e Tono Premuroso
+Spiegazione: Chiara risponde con immediata conformità, dimostrando di aver già adempiuto ai suoi "doveri" domestici. La sua frase "Vai piano, mi raccomando" è un tentativo di mostrare premura, riflettendo la sua natura accudente e il suo desiderio di armonia, anche se rimane un'interazione unilaterale. La polarità è leggermente positiva per la premura, ma nella dinamica complessiva è neutra.]
+
+2024-03-22 10:05:30 | Gabriele Esposito:
+Ok. Non ho tempo per queste smancerie. Vado.
+Polarity: -0.7
+[Tag: Rifiuto Brusco e Disinteresse
+Spiegazione: Gabriele reagisce con un rifiuto brusco e offensivo alla premura di Chiara, etichettando le sue parole come "smancerie", un modo per sminuire i suoi tentativi di connessione e affetto. La sua risposta è fredda e distaccata, chiudendo immediatamente qualsiasi possibilità di un'interazione più profonda e dimostrando un completo disinteresse per i sentimenti di lei. La polarità è fortemente negativa.]
+
+2024-03-22 10:08:15 | Chiara Romano:
+...Va bene. A dopo, allora.
+Polarity: -0.5
+[Tag: Resa Silenziosa e Rassegnazione
+Spiegazione: Chiara risponde con una brevissima frase, priva di emozione o resistenza, accettando il rifiuto di Gabriele e la sua freddezza. Questo messaggio esprime la sua rassegnazione a una dinamica in cui i suoi tentativi di connessione vengono respinti e il suo ruolo è limitato alla sottomissione passiva. La polarità è negativa per la sua evidente sconfitta emotiva.]
+
+2024-03-22 19:00:00 | Gabriele Esposito:
+Sono a casa. La cena è pronta? Non ho mangiato nulla di decente da stamattina.
+Polarity: -0.2
+[Tag: Richiesta Imperativa e Tono Lamentoso
+Spiegazione: Gabriele riprende la conversazione dopo ore di silenzio con una richiesta immediata di servizio, senza alcun preambolo o interesse per come sia stata la giornata di Chiara. Il suo tono lamentoso e il riferimento alla sua fame sono un modo per scaricare le sue esigenze su di lei, dimostrando che la considera solo per il suo ruolo domestico. La polarità è leggermente negativa per la sua mancanza di cortesia.]
+
+2024-03-22 19:02:30 | Chiara Romano:
+Sì, tesoro, è quasi tutto pronto, la tavola è apparecchiata. Ho preparato il tuo piatto preferito. Ci vuole solo qualche minuto.
+Polarity: 0.1
+[Tag: Conformità e Tentativo di Piacere
+Spiegazione: Chiara risponde con la sua solita acquiescenza e un immediato desiderio di compiacere, informando Gabriele che il suo pasto preferito è quasi pronto. La sua risposta è orientata a placarlo e a servire le sue esigenze, mostrando la sua dedizione ma anche la sua sottomissione. La polarità è leggermente positiva per la sua premura, ma neutra nella dinamica complessiva.]
+
+2024-03-22 19:05:00 | Gabriele Esposito:
+Bene. Muoviti, allora. Non farmi aspettare. Ho avuto una giornata pesante.
+Polarity: -0.6
+[Tag: Ordine e Scarico del Malumore
+Spiegazione: Gabriele reagisce con impazienza e un ordine brusco, scaricando il peso della sua giornata su Chiara e accelerando la sua preparazione della cena. La sua mancanza di gratitudine e il tono autoritario evidenziano la sua totale assenza di considerazione per lei, considerandola un mezzo per i suoi scopi. La polarità è fortemente negativa.]
+
+2024-03-22 19:07:30 | Chiara Romano:
+Sì, subito.
+Polarity: -0.4
+[Tag: Resa Immediata e Silenziosa
+Spiegazione: Chiara si arrende immediatamente, la sua risposta è un monosillabo che denota la sua completa sottomissione e l'incapacità di resistere. Questo chiude la conversazione sul piano puramente funzionale, senza alcun calore o intimità, rafforzando la dinamica di vita parallela e la maleducazione passiva. La polarità è negativa per la sua sottomissione.]

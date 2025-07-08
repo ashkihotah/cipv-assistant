@@ -1,0 +1,46 @@
+Stage: Initiation
+Chat Polarity Mean: 0.16
+Chat Polarity Variance: 0.94
+Event: Demanding Immediate Personal Information
+
+2024-05-18 10:05:22 | Marco Rossi:
+Ciao Sofia, ti ho trovata qui. Non so perché non mi avevi detto che eri anche su questa piattaforma. Comunque, ho visto il tuo profilo, molto interessante. Dovremmo passare a WhatsApp, è più pratico per comunicare seriamente. Mandami il tuo numero.
+Polarity: -0.25
+[Tag: Constant Monitoring and Surveillance
+Spiegazione: Marco inizia con un tono investigativo e accusatorio per il fatto di aver trovato Sofia su un'altra piattaforma. Chiede immediatamente il numero di telefono, ignorando le normali convenzioni di conoscenza e stabilendo un controllo diretto sulla modalità di comunicazione.]
+
+2024-05-18 10:07:45 | Sofia Bianchi:
+Ciao Marco! Ah, non sapevo fossi anche tu qui! 😊 Beh, non è che non te l'avessi detto, è che non ci avevo pensato, uso diverse piattaforme per lavoro. WhatsApp? Certo, possiamo pensarci, ma di solito preferisco chiacchierare un po' qui prima di scambiarci i numeri, per conoscerci meglio. Capisci?
+Polarity: 0.05
+[Tag: Indirectness vs. Indirectness
+Spiegazione: Sofia reagisce con una lieve sorpresa e cerca di giustificarsi, evitando una diretta opposizione. Tenta di stabilire un confine in modo indiretto, esprimendo una preferenza personale piuttosto che un rifiuto netto, per non generare conflitto.]
+
+2024-05-18 10:09:50 | Marco Rossi:
+"Pensarci"? Non vedo il problema, se non hai nulla da nascondere. È una semplice questione di praticità. Qui non è il massimo, ci sono troppe interruzioni. Se sei interessata a una conoscenza seria, la velocità è fondamentale. Che senso ha perdere tempo con messaggi così lenti?
+Polarity: -0.55
+[Tag: Guilt-Tripping and Emotional Manipulation
+Spiegazione: Marco usa il senso di colpa ("se non hai nulla da nascondere") e minimizza le preoccupazioni di Sofia, cercando di accelerare il processo di conoscenza con toni pressanti e manipolatori, insinuando che lei stia perdendo tempo o sia poco seria.]
+
+2024-05-18 10:12:15 | Sofia Bianchi:
+No, no, non è che ho nulla da nascondere, affatto! 😅 È solo che sono un po' riservata all'inizio, tutto qui. Capisco la praticità di WhatsApp, è vero. Non è che sia una questione di lentezza, è più che altro una mia abitudine. Ma... se per te è così importante, potrei fartelo avere. Solo, dammi un momento, mi sento un po' in ansia.
+Polarity: -0.10
+[Tag: Defensiveness and Refusal of Responsibility
+Spiegazione: Sofia si mette subito sulla difensiva, negando di avere segreti e cercando di giustificare la sua ansia e la sua riservatezza. La sua tendenza ad accondiscendere emerge, ma con una nota di disagio e ansia evidente.]
+
+2024-05-18 10:14:30 | Marco Rossi:
+Ansia? Ma di cosa stiamo parlando? Non c'è motivo di essere ansiosi per un semplice scambio di numeri. Stiamo parlando di fiducia, no? Se non ti fidi nemmeno di questo, come possiamo pensare a un futuro? Dai, non fare la bambina. Il mio numero è 33xxxxxxxx. Aspetto il tuo, altrimenti non vedo perché continuare.
+Polarity: -0.80
+[Tag: Coercion and Demands
+Spiegazione: Marco escalation il suo tono, sminuendo l'ansia di Sofia ("non fare la bambina") e usando un ricatto emotivo esplicito ("altrimenti non vedo perché continuare") per forzarla a cedere, manifestando un controllo coercitivo.]
+
+2024-05-18 10:16:55 | Sofia Bianchi:
+Ok, Marco, no, hai ragione, scusa. Forse sto esagerando io. Mi dispiace. 😊 Non voglio che tu pensi che non mi fidi. Ok, il mio è 34xxxxxxxx. Ti scrivo su WhatsApp tra poco allora. Spero tu non sia arrabbiato.
+Polarity: -0.40
+[Tag: Manipulation and Guilt-Tripping
+Spiegazione: Sofia cede alla pressione, scusandosi eccessivamente e assumendosi la colpa per la sua reazione. La sua ansia si traduce in un desiderio di placare Marco e ripristinare l'armonia, pur al costo della sua autonomia.]
+
+2024-05-18 10:18:05 | Marco Rossi:
+Bene. Ti aspetto subito. Non perdere tempo.
+Polarity: -0.60
+[Tag: One-Sidedness and Dominance
+Spiegazione: Marco non offre rassicurazioni o empatia, ma invece rafforza il suo dominio dando un'ulteriore istruzione ("Ti aspetto subito. Non perdere tempo"), confermando che il suo scopo era solo ottenere il controllo.]

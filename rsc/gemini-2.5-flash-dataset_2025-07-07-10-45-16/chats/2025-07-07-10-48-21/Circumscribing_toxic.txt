@@ -1,0 +1,36 @@
+Stage: Circumscribing
+Chat Polarity Mean: -0.96
+Chat Polarity Variance: 0.62
+Event: Circoscrizione - Silenzio emotivo e attacchi sporadici
+
+2024-03-22 15:30:10 | Matteo Ricci:
+(Nessun messaggio per ore, poi un'improvvisa esplosione)
+SEI RIUSCITA A FARE ANCHE QUESTA, EH? IL CONTO È IN ROSSO, LO SAI VERO? COME DIAVOLO FAI A NON CONTROLLARE? LO SAI CHE DEVI CHIEDERMI PRIMA DI FARE CERTE SPESE! SEI INUTILE.
+Polarity: -0.99
+[Tag: Esplosione aggressiva e attacco personale\nSpiegazione: Matteo irrompe con un'accusa aggressiva e un insulto, rivelando una rabbia repressa che esplode. La comunicazione è completamente sbilanciata e tossica, tipica di "Personal Attacks and Character Assassination" e "Coercive Control", indicando una polarità estremamente negativa e una varianza significativa rispetto al precedente silenzio.]
+
+2024-03-22 15:33:45 | Sara Mancini:
+Cosa? Matteo, no! Non lo sapevo, non ho speso nulla di extra! Ti giuro, non ho fatto niente! Stavo controllando proprio ora la mail e non c'è nulla di strano! Mi hai spaventato a morte, non capisco! Non è vero che sono inutile, ti prego!
+Polarity: -0.90
+[Tag: Panico e difesa disperata\nSpiegazione: Sara reagisce con panico e shock all'accusa improvvisa e violenta di Matteo. La sua negazione e la disperata richiesta di comprensione mostrano la sua vulnerabilità e il profondo distress emotivo causato dall'attacco, tipico di "Emotional Detachment" e "Guilt-Tripping" subito, mantenendo la polarità molto bassa.]
+
+2024-03-22 15:37:10 | Matteo Ricci:
+NON FARE LA FINTA TONTA, SARA! HO VISTO L'ESTRATTO CONTO! NON INVENTARE SCUSE! SEI SEMPRE LA SOLITA, NON TI SI PUÒ DARE UN EURO IN MANO CHE FAI DISASTRI. SEI INCAPACE DI GESTIRE QUALSIASI COSA. FORSE È MEGLIO SE NON HAI PIÙ ACCESSO AL CONTO. O SE TE NE VAI, GIÀ CHE CI SIAMO.
+Polarity: -0.99
+[Tag: Accusa implacabile e minaccia di controllo totale\nSpiegazione: Matteo ignora la difesa di Sara e raddoppia la dose con accuse feroci, insulti personali e minacce esplicite di toglierle l'accesso al conto o di farla andare via. Questa è una forma estrema di "Gaslighting" e "Financial Abuse via Online Accounts", con l'obiettivo di distruggere l'autostima di Sara e ottenere un controllo totale, spingendo la polarità al minimo assoluto.]
+
+2024-03-22 15:40:55 | Sara Mancini:
+Matteo... no... Non sto fingendo, ti giuro! Ma controlla bene, ti prego, non capisco! Mi sento morire a sentire queste cose. Non posso andarmene, non ho dove andare... Ti prego, non farmi questo. Io... io farò tutto quello che vuoi, ma non togliermi l'accesso. E non voglio andarmene.
+Polarity: -0.95
+[Tag: Implorazione e sottomissione disperata\nSpiegazione: Sara è completamente sopraffatta dalla paura e dalla disperazione. Implora Matteo di riconsiderare, offrendo di fare "tutto quello che vuole" pur di non perdere l'accesso al conto e il posto in casa. Questo è un chiaro segno di "Feeling of Obligation" e "Coercive Control", con la polarità che rimane estremamente bassa.]
+
+2024-03-22 15:44:30 | Matteo Ricci:
+EHI. NON RISPONDI SUBITO? TI PARE IL MOMENTO DI IGNORARMI QUANDO PARLO DI COSE SERIE? LA LISTA PER LA SPESA, DOV'È? E LE PULIZIE LE HAI FATTE? SEI INUTILE E DISTRATTA. DEVI ESSERE PIÙ ATTENTA ALLE MIE ESIGENZE!
+Polarity: -0.99
+[Tag: Escalation della rabbia e pretese irrazionali\nSpiegazione: Matteo si arrabbia per la minima percezione di ritardo nella risposta di Sara, tornando a richieste mondane in mezzo all'attacco emotivo. Il suo comportamento è irrazionale e focalizzato sul suo bisogno di attenzione e controllo, ribadendo l'insulto ("inutile e distratta") e dimostrando una totale mancanza di empatia ("Lack of Empathy").]
+
+2024-03-22 15:48:15 | Sara Mancini:
+(Nessuna risposta per 10 minuti, poi...)
+Matteo, scusami, il telefono... Era in silenzioso. No, non ho speso niente, non so di cosa parliamo. La lista della spesa te la mando subito. E le pulizie le stavo facendo, quasi finito. Ti prego, non arrabbiarti. Farò attenzione a tutto.
+Polarity: -0.90
+[Tag: Risposta ritardata e sottomissione totale\nSpiegazione: Sara risponde con un ritardo forzato, forse a causa del panico, e si scusa per il ritardo. Nega nuovamente l'accusa sulle spese e si affretta a rassicurare Matteo di aver adempito ai suoi compiti, offrendo piena sottomissione ("Farò attenzione a tutto"). Il suo stato di terrore e la sua acquiescenza sono palpabili, mantenendo la polarità estremamente negativa.]

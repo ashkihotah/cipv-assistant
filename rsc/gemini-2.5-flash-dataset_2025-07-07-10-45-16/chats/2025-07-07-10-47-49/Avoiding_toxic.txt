@@ -1,0 +1,46 @@
+Stage: Avoiding
+Chat Polarity Mean: -0.85
+Chat Polarity Variance: 0.75
+Event: Distacco Fisico e Controllo Digitale Accentuato
+
+2024-03-25 15:30:10 | Gabriele Esposito:
+Non tornerò a casa stasera. Ho impegni importanti fuori città. Non ho tempo per chiacchiere. Non provare a chiamare o a scrivermi se non è una questione di vita o di morte.
+Polarity: -0.7
+[Tag: Evitamento Attivo e Controllo
+Spiegazione: Gabriele comunica un'assenza prolungata e impone un divieto di contatto quasi assoluto. Il tono è freddo, distaccato e autoritario, stabilendo il suo bisogno di evitare interazioni e di controllare la comunicazione di Chiara, riflettendo la sua tendenza all'isolamento e al dominio.]
+
+2024-03-25 15:32:45 | Chiara Romano:
+Capisco, Gabriele. Spero vada tutto bene con i tuoi impegni. Stai tranquillo, mi occuperò io di tutto qui. Non ti disturberò. ✨
+Polarity: 0.2
+[Tag: Accondiscendenza e Mantenimento dell'Armonia
+Spiegazione: Chiara risponde con immediata accondiscendenza, cercando di rassicurare Gabriele e di mantenere la pace. L'emoji è un tentativo di addolcire il messaggio, ma la sua risposta riflette la paura di causare ulteriori conflitti, creando un momento di apparente calma che contribuisce alla varianza.]
+
+2024-03-25 15:35:00 | Gabriele Esposito:
+Non "capisci", Chiara. Capirai quando mi dimostrerai di essere all'altezza. Ho visto che sei stata online pochi minuti fa su WhatsApp. Con chi stavi parlando? Chi ti permette di sprecare il tempo con chiacchiere quando io sono via per LAVORARE?
+Polarity: -0.95
+[Tag: Gaslighting e Monitoraggio Costante
+Spiegazione: Gabriele nega la comprensione di Chiara, la critica implicitamente e passa immediatamente a un'accusa basata sul monitoraggio della sua attività online ("last seen"). Questa è una palese violazione della privacy e un tentativo di gaslighting, in quanto le sue parole sono volte a farla dubitare della sua stessa percezione e a sentirsi colpevole, portando la polarità a un livello estremamente negativo.]
+
+2024-03-25 15:37:30 | Chiara Romano:
+Nessuno, Gabriele! Stavo solo controllando un messaggio del gruppo della scuola dei bambini! Non ho parlato con nessuno, te lo giuro. Stavo per chiederti se avevi mangiato. Mi dispiace tanto che tu pensi questo. 😔
+Polarity: -0.85
+[Tag: Giustificazione Ansiosa e Auto-colpevolizzazione
+Spiegazione: Chiara entra immediatamente in modalità difensiva e giustificativa, offrendo spiegazioni dettagliate e scuse non richieste. L'emoji triste sottolinea la sua ansia e il suo senso di colpa, riflettendo il profondo impatto delle accuse di Gabriele sulla sua autostima e il suo stato emotivo, continuando il calo di polarità.]
+
+2024-03-25 15:39:50 | Gabriele Esposito:
+Non me ne frega niente del gruppo della scuola. Non voglio che tu sia online quando non ci sono io. Voglio che la tua attenzione sia sulla casa e sui figli. Se non sei in grado di farlo, dimmelo subito. Forse è meglio se blocco la tua connessione per un po'. Così ti concentri.
+Polarity: -1.0
+[Tag: Isolamento Digitale e Minaccia
+Spiegazione: Gabriele intensifica la sua aggressione, negando la validità della spiegazione di Chiara e introducendo una minaccia esplicita di isolamento digitale ("blocco la tua connessione"). Questa è una forma estrema di controllo coercitivo e una punizione, indicando l'apice della tossicità nella conversazione e un picco di polarità negativa.]
+
+2024-03-25 15:42:15 | Chiara Romano:
+No, Gabriele, non ce n'è bisogno! Mi impegnerò di più, te lo prometto. Non sarò più online senza motivo. Lo farò solo per le cose importanti. Per favore, non bloccare la connessione. 😢
+Polarity: -0.9
+[Tag: Panico e Supplica
+Spiegazione: Chiara reagisce con panico e supplica, disposta a cedere completamente il controllo sulla sua vita digitale pur di evitare la minaccia di Gabriele. La sua disperazione e la promessa di obbedienza riflettono il suo profondo senso di impotenza e la paura delle conseguenze, mantenendo una polarità estremamente bassa.]
+
+2024-03-25 15:44:00 | Gabriele Esposito:
+Vedremo. Per ora, smetti di usare il telefono. E non mandare messaggi a tua madre, ho bisogno che tu sia concentrata. Capito?
+Polarity: -0.9
+[Tag: Controllo Totale e Isolamento
+Spiegazione: Gabriele non concede alcuna rassicurazione, mantenendo la minaccia implicita e impartendo ordini diretti sulla sua attività digitale e persino sulle sue interazioni familiari. Questa è una dimostrazione di controllo assoluto e un ulteriore tentativo di isolamento, consolidando il tono estremamente tossico della conversazione.]

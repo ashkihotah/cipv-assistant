@@ -1,0 +1,40 @@
+Stage: Initiation
+Chat Polarity Mean: -0.47
+Chat Polarity Variance: 0.71
+Event: Avanzamento Indesiderato e Persistente
+
+2024-05-18 11:35:10 | Marco Rossi:
+Ciao Sofia, il tuo profilo è molto interessante. Ho notato una certa vivacità nelle tue espressioni, anche se non si vede molto. Voglio conoscerti. Marco.
+Polarity: -0.3
+[Tag: Objectifying or Inappropriate Comments
+Spiegazione: Marco inizia con un complimento che suona più come un'osservazione invasiva che un apprezzamento sincero, focalizzandosi su "espressioni" e "vivacità" nelle foto, suggerendo un'analisi profonda e immediata della persona di Sofia oltre il suo profilo pubblico.]
+
+2024-05-18 11:37:45 | Sofia Bianchi:
+Ciao Marco! Grazie per il complimento, mi fa piacere! 😊 Come mai sei qui? Di solito uso questa piattaforma più che altro per il mio portfolio di illustratrice, spero tu abbia dato un'occhiata anche a quello!
+Polarity: 0.7
+[Tag: Honesty and Authenticity (with Kindness)
+Spiegazione: Sofia, genuinamente lusingata, risponde con entusiasmo e trasparenza, reindirizzando però l'attenzione al suo lavoro e alla sua vera identità professionale, cercando una connessione basata sui suoi interessi autentici.]
+
+2024-05-18 11:40:05 | Marco Rossi:
+Il tuo lavoro è un contorno. Quello che mi interessa è la persona. Non mi piace perdere tempo con i profili, voglio la sostanza. Dammi il tuo numero di telefono subito. Questa chat è inutile per chi è serio.
+Polarity: -0.9
+[Tag: One-Sidedness and Dominance
+Spiegazione: Marco ignora completamente il tentativo di Sofia di deviare la conversazione verso il suo lavoro, sminuendolo e imponendo la sua agenda. La sua richiesta del numero è brusca e immediata, priva di rispetto per i tempi altrui e per la fase iniziale della conoscenza, tipica di un tentativo di controllo e di un'avanzata indesiderata.]
+
+2024-05-18 11:42:30 | Sofia Bianchi:
+Oh, Marco... mi metti un po' in difficoltà con questa richiesta così improvvisa. Non me la sento di darti il numero adesso, è un po' troppo veloce per me. Spero tu capisca, non voglio farti arrabbiare. 😔
+Polarity: -0.5
+[Tag: Defensiveness and Refusal of Responsibility
+Spiegazione: Sofia reagisce con evidente disagio e ansia, cercando di stabilire un debole confine pur scusandosi preventivamente e temendo la reazione di Marco, mostrando la sua tendenza a evitare il conflitto e a compiacere.]
+
+2024-05-18 11:44:55 | Marco Rossi:
+Difficoltà? Ancora con questa storia? Non capisco perché devi fare così tante storie per un semplice numero. Sei troppo sensibile. Mi sembra che tu stia solo cercando scuse per non essere chiara. Se non hai nulla da nascondere, perché tutta questa resistenza?
+Polarity: -0.95
+[Tag: Gaslighting (Amplified Digitally)
+Spiegazione: Marco sminuisce le emozioni di Sofia, accusandola di essere "troppo sensibile" e insinuando che la sua resistenza nasconda qualcosa, una chiara forma di gaslighting. Questo tipo di attacco personale mira a farla dubitare della sua percezione e a farla sentire in colpa.]
+
+2024-05-18 11:47:20 | Sofia Bianchi:
+Hai ragione, forse sono io che esagero. Non voglio nascondere nulla. Non sono abituata a questa schiettezza, tutto qui. 😩 Ok, se per te è così importante, potrei fartelo avere, ma mi dai un attimo per riflettere, per favore?
+Polarity: -0.7
+[Tag: Manipulation and Guilt-Tripping
+Spiegazione: Sofia cede alla pressione, scusandosi ancora e internalizzando la critica di Marco. Il suo bisogno di evitare il conflitto e il timore di far arrabbiare l'altro la portano a considerare di cedere, pur esprimendo un residuo di disagio e la necessità di "un attimo".]

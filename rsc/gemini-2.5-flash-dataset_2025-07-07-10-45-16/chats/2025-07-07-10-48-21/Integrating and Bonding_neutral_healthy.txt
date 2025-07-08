@@ -1,0 +1,39 @@
+Stage: Integrating and Bonding
+Chat Polarity Mean: 0.18
+Chat Polarity Variance: 0.81
+Event: Integrazione e Legame - Incontro con gli amici e controllo sociale
+
+2024-03-22 18:05:10 | Matteo Ricci:
+Sara, non sai quanto sono felice! Stasera i miei amici più cari, Luca e Marta, ci hanno invitato per l'aperitivo. Volevo tanto che li conoscessi, per me è un passo importante. Significa che la nostra storia è vera, che ti sto integrando nella mia vita. Sono sicuro che ti piaceranno, e loro adoreranno te! Fammi sapere se ci sei per le 19.30. 😉
+Polarity: 0.95
+[Tag: Proposta di integrazione e entusiasmo\nSpiegazione: Matteo esprime grande entusiasmo per un evento di integrazione sociale, sottolineando l'importanza del passo per la loro relazione e mostrando un desiderio genuino di condivisione. Il tono è affettuoso e l'emoji è amichevole.]
+
+2024-03-22 18:08:45 | Sara Mancini:
+Matteo, che bello! 😍 Sì, assolutamente ci sono! Mi fa un piacere immenso conoscerli, sono così curiosa di incontrare le persone importanti della tua vita. Sono un po' agitata, a dire il vero, ma non vedo l'ora! Farò del mio meglio per fare una bella impressione. Grazie per avermi invitato, mi sento così speciale! ❤️
+Polarity: 0.99
+[Tag: Accettazione entusiasta e vulnerabilità\nSpiegazione: Sara accetta con grande entusiasmo, esprimendo felicità e una leggera agitazione. La sua risposta è autentica e piena di affetto, mostrando il suo desiderio di integrarsi e di piacere agli amici di Matteo. La polarità è al massimo, riflettendo un momento di profonda connessione e legame.]
+
+2024-03-22 23:15:30 | Matteo Ricci:
+Ok, l'aperitivo è andato. Ma Sara, dobbiamo parlare. Ho notato alcune cose stasera che non mi sono piaciute affatto. Luca ti ha fatto troppi complimenti, e tu hai riso in un modo... troppo disinvolto. E Marta, mi pare che ti abbia riempito la testa di idee strane sui tuoi progetti. Mi aspettavo che la tua attenzione fosse su di me, non su chiunque altro nella stanza. E poi, perché sei stata così tanto al telefono con i tuoi, mentre parlavamo?
+Polarity: -0.90
+[Tag: Accusa improvvisa e monitoraggio del comportamento\nSpiegazione: Matteo attacca Sara subito dopo l'evento sociale, rivelando un monitoraggio ossessivo delle sue interazioni e del suo comportamento. Il suo tono è accusatorio e svalutante, esprimendo gelosia e un tentativo di controllo sulle sue amicizie e la sua attenzione. Questo è un chiaro esempio di "Possessiveness and Jealousy" e "Lack of Empathy".]
+
+2024-03-22 23:18:55 | Sara Mancini:
+Matteo, ti prego, no! 😭 Mi sento morire a sentire queste cose. Non è come pensi, Luca è stato solo gentile, e Marta... mi ha solo incoraggiato per il mio lavoro. Ho riso normalmente, te lo giuro. E i miei, mi ha chiamato mia madre, è importante che risponda! Non volevo mancarti di rispetto, la mia attenzione era su di te, l'ho sempre detto. Mi dispiace tantissimo se ti ho fatto stare male, non era mia intenzione, davvero.
+Polarity: -0.80
+[Tag: Difesa disperata e auto-colpevolizzazione\nSpiegazione: Sara reagisce con estremo distress, cercando disperatamente di difendersi e placare Matteo. Si scusa ripetutamente e si auto-colpevolizza per i suoi sentimenti, mostrando la sua ansia profonda e la tendenza a sacrificare la propria percezione della realtà per mantenere la pace.]
+
+2024-03-22 23:22:30 | Matteo Ricci:
+"Mi sento morire"? Sara, per favore, non fare la vittima. Io sono solo realista. La tua attenzione deve essere su di me quando siamo in giro, specialmente con i miei amici. Non voglio distrazioni. E per quella roba di Luca, voglio che blocchi quel tizio subito dai social, e con Marta limitati ai saluti quando ci vediamo, non voglio che ti infili troppo nei tuoi "progetti" con le sue idee. È semplice. Se vuoi che ci sia fiducia e che la nostra storia duri, queste sono le basi. Ci sei o no?
+Polarity: -0.98
+[Tag: Gaslighting e ultimatum coercitivo\nSpiegazione: Matteo minimizza e svaluta le emozioni di Sara ("non fare la vittima") e impone un ultimatum. Le sue richieste di "bloccare Luca" e "limitarsi ai saluti" con Marta sono chiare tattiche di isolamento e controllo delle interazioni sociali di Sara, rientrando in "Isolation from Friends and Family" e "Controlling Social Media Presence". Questo è un tentativo estremo di Coercive Control.]
+
+2024-03-22 23:26:15 | Sara Mancini:
+Matteo... mi sento a pezzi. Non capisco perché tutto questo. Non voglio perdere i miei amici, non ho mai pensato di dover scegliere. Ma non voglio neanche perderti. Non... non ce la faccio a pensare di rovinare tutto. Ok... farò come dici tu. Bloccherò Luca. E con Marta... starò attenta. Ma ti prego, promettimi che ti fiderai di me dopo. Non voglio che ci sia più questo dolore. 💔
+Polarity: -0.95
+[Tag: Sottomissione per paura e distress estremo\nSpiegazione: Sara cede completamente alla pressione e alle richieste coercitive di Matteo, spinta dalla paura dell'abbandono e dal dolore. La sua risposta è intrisa di disperazione e sottomissione emotiva, sacrificando le sue relazioni sociali e la sua autonomia per cercare di salvare il rapporto, mostrando l'efficacia della manipolazione di Matteo.]
+
+2024-03-22 23:29:40 | Matteo Ricci:
+Vedi che quando vuoi sei ragionevole? L'ho detto, la fiducia è tutto. Adesso sì che mi sento più tranquillo. Non c'è bisogno di tutto questo dramma. Voglio solo che stiamo bene insieme. Sono contento che siamo allineati. Così possiamo costruire davvero.
+Polarity: 0.10
+[Tag: Accettazione condizionale e riaffermazione del controllo\nSpiegazione: Matteo accetta la sottomissione di Sara, ma in modo manipolatorio, sminuendo il suo dolore ("tutto questo dramma") e affermando la sua "ragionevolezza". La sua "tranquillità" deriva dal controllo ottenuto. Il messaggio, pur risalendo in polarità, è intrinsecamente tossico perché la "costruzione" è basata sulla sottomissione di Sara e non su una partnership paritaria.]

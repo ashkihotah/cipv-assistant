@@ -1,0 +1,40 @@
+Stage: Avoiding
+Chat Polarity Mean: 0.75
+Chat Polarity Variance: 0.59
+Event: Avoiding - Spazi Separati e Incomprensioni Sottaciute
+
+2024-03-29 17:00:10 | Marco Rossi:
+Sofia, spero che tu abbia avuto una buona giornata di lavoro oggi. Io sono stato a un meeting importante e adesso sono in palestra. Mi sento carico e concentrato. Ci vediamo più tardi.
+Polarity: 0.5
+[Tag: Superficialità, Descrizione di Attività Individuali, Mancanza di Connessione
+Spiegazione: Marco condivide informazioni sulle sue attività individuali, mantenendo un tono neutro e funzionale. La sua comunicazione è unidirezionale, concentrata su sé stesso e priva di un vero tentativo di coinvolgere Sofia o di approfondire la conversazione. È un messaggio che mantiene la distanza, tipico della fase di Avoiding.]
+
+2024-03-29 17:02:45 | Sofia Bianchi:
+Ciao Marco. Sì, anche la mia giornata è andata bene, ho chiuso un'illustrazione complessa. Sono un po' stanca, ma felice per il lavoro. Mi chiedevo... ti va di passare una serata tranquilla, magari guardando un film insieme stasera? O hai già altri piani?
+Polarity: 0.6
+[Tag: Condivisione Superficiale, Tentativo di Connessione, Cautela, Ricerca di Intimità
+Spiegazione: Sofia risponde condividendo la sua attività lavorativa, ma tenta anche di proporre un'attività di coppia, cercando di ristabilire una connessione. La sua domanda cauta ("O hai già altri piani?") riflette la sua consapevolezza della distanza tra loro e la sua paura di un rifiuto, ma mantiene un tono propositivo.]
+
+2024-03-29 17:05:30 | Marco Rossi:
+Ho già un impegno importante, Sofia. Mi vedo con i miei vecchi colleghi per una cena di lavoro, non posso proprio mancare. È un'opportunità di networking. Non è un problema, sarai libera di fare quello che vuoi. Ci vediamo domani.
+Polarity: 0.3
+[Tag: Evitamento, Priorizzazione di Interessi Individuali, Apparenza di Concessione, Mancanza di Chiarezza
+Spiegazione: Marco rifiuta la proposta di Sofia, dando priorità a un impegno esterno. La sua giustificazione è funzionale e la sua apparente "concessione" ("sarai libera di fare quello che vuoi") è un modo per ribadire la distanza e l'assenza di obblighi reciproci, tipica dell'Avoiding. La polarità è neutra, ma inclinata verso il basso a causa del rifiuto.]
+
+2024-03-29 17:08:15 | Sofia Bianchi:
+Ah... ok, Marco. Certo, capisco. Il lavoro è importante. Speravo solo... Vabbè. Divertiti alla cena allora. Buona serata.
+Polarity: 0.2
+[Tag: Rassegnazione, Delusione, Accettazione Passiva, Evitamento del Conflitto
+Spiegazione: Sofia reagisce con rassegnazione e delusione. Nonostante la sua speranza di connessione, accetta passivamente il rifiuto di Marco, evitando il conflitto. Il suo messaggio è breve e privo di emozione, indicando una chiusura e una distanza emotiva.]
+
+2024-03-29 17:10:40 | Marco Rossi:
+Certo. Mi diverto. Tu fai lo stesso. Ci vediamo domani.
+Polarity: 0.1
+[Tag: Brevità, Distanza, Mancanza di Empatia
+Spiegazione: Marco risponde con estrema brevità e una totale mancanza di empatia, non riconoscendo affatto la delusione di Sofia. Il suo messaggio è puramente funzionale, ribadendo la distanza e la superficialità della loro interazione. La polarità è molto bassa, ma non apertamente conflittuale.]
+
+2024-03-29 17:12:30 | Sofia Bianchi:
+Sì, a domani.
+Polarity: 0.0
+[Tag: Brevità Estrema, Distacco Emotivo, Rassegnazione
+Spiegazione: La risposta monosillabica di Sofia riflette la completa rassegnazione e il distacco emotivo. Non c'è alcun tentativo di ulteriore interazione, semplicemente un riconoscimento funzionale, segnando una distanza e una stagnazione nella comunicazione.]

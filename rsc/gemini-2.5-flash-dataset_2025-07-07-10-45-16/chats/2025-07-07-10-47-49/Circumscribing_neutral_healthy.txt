@@ -1,0 +1,40 @@
+Stage: Circumscribing
+Chat Polarity Mean: 0.03
+Chat Polarity Variance: 0.93
+Event: Circoscrizione - Comunicazione Superficiale con Lampi di Tensione
+
+2024-03-22 10:00:00 | Gabriele Esposito:
+Buongiorno. Hai preparato i vestiti per il lavasecco? E ricordati di chiamare la tintoria per ritirare i miei abiti da lavoro, ne ho bisogno per domani.
+Polarity: 0.1
+[Tag: Comunicazione Logistica e Direttiva Iniziale
+Spiegazione: Gabriele inizia la conversazione con un tono pragmatico e orientato ai compiti, tipico della sua natura controllante e del suo ruolo di capo famiglia. Il suo messaggio è una direttiva, senza saluti calorosi o interesse per il benessere di Chiara. La polarità è neutra, focalizzata solo su aspetti pratici.]
+
+2024-03-22 10:02:30 | Chiara Romano:
+Buongiorno, Gabriele. Sì, ho messo via i tuoi vestiti stamattina per il lavasecco. Chiamerò la tintoria appena ho un attimo di respiro, prima di andare a prendere i bambini. Stai tranquillo.
+Polarity: 0.2
+[Tag: Conferma e Rassicurazione Ansiogena
+Spiegazione: Chiara risponde con la sua solita acquiescenza, confermando di aver eseguito il compito e promettendo di farlo per l'altro. La sua rassicurazione "stai tranquillo" denota una lieve ansia e un desiderio di placarlo, mostrando che il suo benessere dipende dalla sua approvazione. La polarità è leggermente positiva per la conformità, ma con un sottotono di ansia.]
+
+2024-03-22 10:05:00 | Gabriele Esposito:
+"Appena hai un attimo di respiro"? Chiara, non fare scherzi. Ho detto che ne ho bisogno per domani. Questo significa ORA. Non mi sembra che tu sia così impegnata da non poter fare una semplice telefonata. O forse non mi dai la priorità?
+Polarity: -0.7
+[Tag: Accusa, Pretesa e Controllo del Tempo
+Spiegazione: Gabriele reagisce con immediata impazienza e irritazione, trasformando la giustificazione di Chiara in un'accusa di negligenza. La sua frase "non mi dai la priorità?" è una manipolazione per farla sentire in colpa e per rafforzare la sua posizione dominante. La polarità è negativa a causa del suo tono accusatorio e del tentativo di controllare il tempo e le priorità di Chiara.]
+
+2024-03-22 10:07:30 | Chiara Romano:
+No, Gabriele, ti assicuro che non è così! Certo che sei la mia priorità. Non volevo mancarti di rispetto, mi dispiace se hai pensato questo. Chiamo subito la tintoria, non preoccuparti. Non voglio che tu sia arrabbiato con me.
+Polarity: -0.9
+[Tag: Disperazione, Auto-Colpevolizzazione e Sottomissione
+Spiegazione: Chiara è chiaramente in uno stato di profonda angoscia e si scusa ripetutamente, assumendosi la colpa e promettendo di conformarsi immediatamente. La sua frase "Non voglio che tu sia arrabbiato con me" rivela la sua paura del conflitto e della sua disapprovazione, evidenziando il suo disagio emotivo e la sua sottomissione. La polarità è estremamente negativa, riflettendo la sua ansia.]
+
+2024-03-22 10:10:00 | Gabriele Esposito:
+Bene. Fallo. E non voglio più sentire queste scuse. La casa deve funzionare come un orologio, non come un'improvvisazione. Questo è il tuo compito. Mettiti in riga.
+Polarity: -0.8
+[Tag: Ordine Coercitivo e Rinforzo del Controllo
+Spiegazione: Gabriele approva la sottomissione di Chiara ma lo fa con un ordine brusco e un rimprovero. La sua affermazione sulla "casa che deve funzionare come un orologio" è una metafora del suo bisogno di controllo totale e della sua aspettativa di perfezione. La frase "Mettiti in riga" è un'umiliazione che rafforza la sua posizione di potere. La polarità è molto negativa, indicando la sua mancanza di empatia e il suo atteggiamento dominante.]
+
+2024-03-22 10:12:30 | Chiara Romano:
+Sì, Gabriele. Ho capito. Chiamo subito.
+Polarity: -0.5
+[Tag: Resa e Conformità
+Spiegazione: Chiara si arrende completamente, la sua risposta è breve e priva di qualsiasi emozione tranne la conformità. Questo dimostra la sua rassegnazione e l'impossibilità di resistere ulteriormente, chiudendo la conversazione sul piano puramente pratico, senza alcun calore o intimità. La polarità è negativa per la sua sottomissione e l'assenza di reciproca affettuosità.]

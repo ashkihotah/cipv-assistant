@@ -1,0 +1,34 @@
+Stage: Circumscribing
+Chat Polarity Mean: -0.77
+Chat Polarity Variance: 0.25
+Event: Circumscribing - Silenzio Impositivo e Rifiuto di Connessione Emotiva
+
+2024-03-27 15:30:10 | Marco Rossi:
+Sofia, non capisco perché oggi sei così strana. Ho provato a parlare con te, e mi rispondi a monosillabi. C'è qualcosa che non va? O devo solo accettare che la tua arte ti rende lunatica?
+Polarity: -0.6
+[Tag: Accusa, Richiesta di Chiarezza Ostile, Svalutazione Indiretta
+Spiegazione: Marco inizia la conversazione con un'accusa e un tono interrogativo, ma ostile. La sua richiesta di chiarezza è velata da un'insinuazione negativa ("lunatica"), svalutando indirettamente gli stati d'animo di Sofia e mostrando la sua bassa empatia. Il suo desiderio è di controllare la narrazione, non di capire.]
+
+2024-03-27 15:32:45 | Sofia Bianchi:
+Marco... non sono "strana". Mi sento un po' giù ultimamente, per via del lavoro e di un po' di pensieri. Volevo solo un po' di supporto, un abbraccio... non ho voglia di parlare di problemi, ma solo di sentirmi vicina a te. Forse non so chiedere bene. 😔
+Polarity: -0.8
+[Tag: Espressione di Vulnerabilità, Richiesta di Supporto Emotivo, Auto-Colpevolizzazione
+Spiegazione: Sofia, con la sua tipica vulnerabilità, tenta di esprimere il suo stato d'animo e il suo bisogno di connessione e supporto emotivo. La sua auto-colpevolizzazione ("Forse non so chiedere bene") riflette la sua insicurezza e la paura di non essere all'altezza, mentre la sua richiesta di intimità è un disperato tentativo di rompere il circumscribing.]
+
+2024-03-27 15:35:30 | Marco Rossi:
+Supporto? Abbracci? Ma cosa dici, Sofia. Non sono il tuo terapista. E non è con i "pensieri" che si risolvono i problemi, ma con la concretezza. Se il lavoro ti preoccupa, concentrati per risolverlo, non per piangerti addosso. Non posso perdere tempo dietro alle tue lamentele emotive.
+Polarity: -1.0
+[Tag: Negazione Emotiva, Rifiuto di Ruolo, Invalidazione dei Sentimenti, Mancanza di Empatia Totale
+Spiegazione: Marco reagisce con un rifiuto categorico e brutale ai bisogni emotivi di Sofia. La sua negazione di ogni ruolo di supporto e la svalutazione dei sentimenti di lei come "lamentele emotive" sono profondamente tossiche e invalidanti. Questo è un chiaro esempio di come il circumscribing si manifesta attraverso il rifiuto totale di affrontare la sfera emotiva.]
+
+2024-03-27 15:38:15 | Sofia Bianchi:
+Marco, mi fai male con queste parole. Non sono lamentele... non sto piangendo addosso... Volevo solo... Non capisco perché non puoi capirmi, non puoi essere un po' più... Non ce la faccio a stare così. Non voglio più parlare.
+Polarity: -1.0
+[Tag: Sentimento di Dolore, Incredulità, Sfinimento Emotivo, Ritiro dal Conflitto
+Spiegazione: Sofia esprime il profondo dolore causato dalle parole di Marco e la sua incredulità per la sua mancanza di empatia. Il suo "non ce la faccio a stare così" e il successivo "Non voglio più parlare" indicano un completo sfinimento emotivo e la sua resa di fronte al muro eretto da Marco. La polarità è al minimo, mostrando il completo fallimento del tentativo di connessione.]
+
+2024-03-27 15:40:40 | Marco Rossi:
+Perfetto. Se non vuoi parlare, allora sta' zitta. Almeno non peggiori la situazione con i tuoi drammi. A volte è meglio il silenzio. Ci sentiamo quando hai qualcosa di concreto da dire.
+Polarity: -1.0
+[Tag: Silenzio Coercitivo, Svalutazione Aggressiva, Rafforzamento del Controllo, Chiusura Tossica
+Spiegazione: Marco impone il silenzio a Sofia con un tono aggressivo e svalutante ("sta' zitta", "tuoi drammi"). Trasforma il suo ritiro in un'arma di controllo, rafforzando il circumscribing. La sua condizione per riaprire la comunicazione ("qualcosa di concreto") nega completamente la validità delle emozioni di Sofia, portando la polarità al minimo e cementificando l'atmosfera tossica.]

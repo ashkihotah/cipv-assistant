@@ -1,0 +1,28 @@
+Stage: Avoiding
+Chat Polarity Mean: -0.02
+Chat Polarity Variance: 0.63
+Event: Comunicazione Minima e Distacco Emozionale
+
+2024-07-26 16:00:00 | Luca Moretti:
+Sono fuori per la serata. Non ci sarò a cena.
+Polarity: -0.1
+[Tag: Comunicazione Fredda e Indifferente
+Spiegazione: Luca comunica la sua assenza in modo conciso e privo di qualsiasi spiegazione o riguardo per i piani di Elena. Il suo tono è freddo e indifferente, tipico di un evitamento che non cerca di mitigare l'impatto sul partner.]
+
+2024-07-26 16:02:15 | Elena Costa:
+Ok. Va bene.
+Polarity: 0.0
+[Tag: Risposta Neutra e Rassegnata
+Spiegazione: Elena risponde in modo estremamente neutro e conciso. La mancanza di qualsiasi emozione o richiesta di chiarimento indica rassegnazione e l'accettazione della distanza, riflettendo la dinamica di evitamento senza conflitti ma con evidente disconnessione.]
+
+2024-07-26 16:03:30 | Luca Moretti:
+Bene.
+Polarity: 0.1
+[Tag: Chiusura Breve e Funzionale
+Spiegazione: Luca chiude la conversazione con una singola parola, che serve solo a confermare la ricezione del messaggio e a sancire la fine dell'interazione. Il suo tono è privo di emozione, riflettendo il desiderio di minimizzare ogni contatto.]
+
+2024-07-26 16:04:45 | Elena Costa:
+(Nessun messaggio successivo)
+Polarity: 0.0
+[Tag: Assenza di Continuazione
+Spiegazione: L'assenza di un messaggio successivo da parte di Elena sottolinea la mancanza di qualsiasi tentativo di prolungare la conversazione o di introdurre argomenti più personali. Questo riflette la completa stagnazione emotiva della relazione, dove non c'è più energia o desiderio di interazioni significative.]

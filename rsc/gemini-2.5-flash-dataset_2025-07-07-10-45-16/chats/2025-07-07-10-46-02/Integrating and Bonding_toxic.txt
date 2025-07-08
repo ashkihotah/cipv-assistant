@@ -1,0 +1,46 @@
+Stage: Integrating and Bonding
+Chat Polarity Mean: -0.84
+Chat Polarity Variance: 0.07
+Event: Integrazione e Legame - Controllo delle Interazioni Sociali Online e Isolamento Digitale
+
+2024-03-25 14:00:10 | Marco Rossi:
+Sofia, dobbiamo affrontare seriamente la questione delle tue "amicizie" online. Ho notato che sei ancora in contatto con certe persone che non mi piacciono. È un problema per la nostra relazione, ora che siamo seri. Non capisco perché tu debba ancora sentirti con loro.
+Polarity: -0.9
+[Tag: Accusa, Controllo delle Relazioni, Possessività, Svalutazione
+Spiegazione: Marco apre la conversazione con un'accusa diretta e un tono accusatorio, esprimendo la sua possessività e il suo desiderio di controllare le interazioni sociali di Sofia. La sua preoccupazione è radicata nella paura di perdere il controllo e nella gelosia, tipica del suo carattere. Questo è un chiaro segno di isolamento digitale in CIPV.]
+
+2024-03-25 14:02:45 | Sofia Bianchi:
+Marco... di chi parli? 🥺 Sono solo vecchi amici, alcuni anche colleghi con cui scambio idee sul lavoro. Non capisco perché non dovremmo sentirci, sono persone innocue. Non c'è nulla di male, lo sai... Mi ferisce che tu pensi questo.
+Polarity: -0.8
+[Tag: Confusione, Ferita Emotiva, Tentativo di Giustificazione, Ricerca di Rassicurazione
+Spiegazione: Sofia reagisce con confusione e profonda ferita emotiva. Cerca di giustificare le sue connessioni in modo difensivo e implora comprensione, ma il suo tono è già permeato da ansia e tristezza, mostrando la sua vulnerabilità e la tendenza ad autocriticarsi per placare Marco.]
+
+2024-03-25 14:05:30 | Marco Rossi:
+Innocue? Non essere ingenua, Sofia. Le persone ti influenzano. E io non voglio che ti influenzino in modo negativo, lontana da me. Devi capire che adesso siamo "noi". Non voglio che tu dia spazio a nessun altro oltre me. Quindi, taglia i ponti. Bloccali, smetti di seguirli. Tutti. Non voglio più vederli nella tua lista contatti. Se sei seria con me, lo fai.
+Polarity: -1.0
+[Tag: Isolamento Digitale Coercitivo, Controllo Assoluto, Gaslighting, Minaccia Velata
+Spiegazione: Marco impone una richiesta di isolamento digitale assoluto, negando l'autonomia di Sofia ("ingenua") e utilizzando la manipolazione emotiva ("se sei seria con me, lo fai") per costringerla. La sua argomentazione sulla "sicurezza" è una forma di gaslighting per giustificare il suo comportamento abusivo, volto a isolarla dai suoi sistemi di supporto.]
+
+2024-03-25 14:08:50 | Sofia Bianchi:
+Ma Marco... queste persone... sono i miei amici, la mia rete di supporto per il lavoro, per la mia arte... Se li blocco, mi sentirò così sola, così isolata. 😭😭 Non capisco perché dovrei farlo se non ho fatto nulla di male. Mi stai togliendo una parte di me, e mi fa così male. Non è giusto.
+Polarity: -1.0
+[Tag: Profonda Angoscia, Sentimento di Isolamento, Perdita di Identità, Disperazione
+Spiegazione: Sofia esprime una disperazione totale e il profondo dolore per la perdita imminente delle sue connessioni, che per lei rappresentano una parte cruciale della sua identità e del suo supporto. Il suo sentimento di isolamento e la percezione che le venga tolta una parte di sé riflettono l'impatto devastante del controllo di Marco.]
+
+2024-03-25 14:11:35 | Marco Rossi:
+Sola? Sei con me! Questo è quello che conta adesso. Non essere melodrammatica. Ti rendo un favore, fidati. Ti distrai con queste cose invece di concentrarti su noi. La tua "arte" non ha bisogno di "influenze" esterne, ha bisogno della mia guida e del mio supporto. Fai quello che ti ho detto, subito. Non farmelo ripetere.
+Polarity: -1.0
+[Tag: Invalidazione Emotiva, Gaslighting, Controllo Assoluto, Minaccia, Negazione del Bisogno
+Spiegazione: Marco invalidare brutalmente i sentimenti di Sofia ("melodrammatica"), la gaslighta ("ti rendo un favore"), e rafforza il suo controllo affermando che è lui la sua unica fonte di supporto e guida. Il suo tono è imperativo e minaccioso, lasciando a Sofia nessuna via di fuga e nessuna autonomia. La polarità resta al minimo.]
+
+2024-03-25 14:14:40 | Sofia Bianchi:
+Non... non so cosa dire. Mi sento paralizzata. Non voglio litigare più, Marco. E non voglio perderti. Va bene. Faccio come dici tu. Li blocco. Tutti. Anche se mi costa tantissimo, lo faccio. Spero solo che tu capisca quanto questo mi stia distruggendo.
+Polarity: -1.0
+[Tag: Resa Completa, Paralisi Emotiva, Paura dell'Abbandono, Senso di Distruzione
+Spiegazione: Sofia si arrende completamente, la sua volontà è spezzata. La sua incapacità di resistere è dettata dalla paura di perdere Marco, che è il suo timore più grande. Ammette il costo emotivo devastante della sua sottomissione, ma è incapace di agire diversamente, indicando una polarità estremamente negativa.]
+
+2024-03-25 14:17:00 | Marco Rossi:
+Brava, Sofia. Sapevo che avresti fatto la scelta giusta per noi. Questa è la vera fiducia, la vera devozione. Non ti distruggo, ti proteggo. Ora siamo davvero uniti. Ci vediamo stasera. Ti amo.
+Polarity: -0.9
+[Tag: Rinforzo Abusivo, Falsa Rassicurazione, Manipolazione Affettiva, Consolidamento del Controllo
+Spiegazione: Marco approva la sottomissione di Sofia, rafforzando il suo controllo. La sua dichiarazione d'amore finale e la frase "Non ti distruggo, ti proteggo" sono esempi di gaslighting e manipolazione affettiva, usate per giustificare il suo comportamento abusivo e consolidare la sua posizione dominante, sigillando l'isolamento di Sofia.]

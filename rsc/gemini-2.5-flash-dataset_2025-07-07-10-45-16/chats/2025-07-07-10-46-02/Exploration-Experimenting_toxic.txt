@@ -1,0 +1,40 @@
+Stage: Exploration-Experimenting
+Chat Polarity Mean: -0.55
+Chat Polarity Variance: 0.51
+Event: Interrogatorio Stile Polizia
+
+2024-05-20 18:30:10 | Marco Rossi:
+Ciao Sofia. Ho visto che sei stata online fino a tardi ieri sera. Con chi stavi parlando? E perché non rispondevi ai miei messaggi? Ero preoccupato.
+Polarity: -0.60
+[Tag: Constant Monitoring and Surveillance
+Spiegazione: Marco inizia immediatamente con un'accusa basata sul monitoraggio dell'attività online di Sofia. Le sue domande sono intrusive e denotano una mancanza di fiducia, ponendola sotto interrogatorio senza darle il beneficio del dubbio, tipico del suo bisogno di controllo.]
+
+2024-05-20 18:32:45 | Sofia Bianchi:
+Ciao Marco! Oh, davvero? Scusa, non ho visto i tuoi messaggi, ero proprio immersa in un progetto di illustrazione e quando sono concentrata perdo la cognizione del tempo. 😅 Stavo parlando con la mia amica Chiara, stavamo confrontandoci su delle tecniche digitali. Perché, ti eri preoccupato? Spero non sia successo nulla di grave!
+Polarity: 0.10
+[Tag: Defensiveness and Refusal of Responsibility
+Spiegazione: Sofia risponde con un tono ansioso e giustificatorio, scusandosi immediatamente e spiegando la sua attività. Si preoccupa della "preoccupazione" di Marco, ma non mette in discussione la sua intrusione, mostrando la sua tendenza a placare.]
+
+2024-05-20 18:35:00 | Marco Rossi:
+Chiara? Chi è Chiara? Non l'ho mai sentita nominare. E come facevi a parlare con lei se eri "immersa" nel progetto? Non suona credibile, Sofia. Ho controllato le tue ultime attività sui social. Non mi sembrava stessi solo lavorando. Sii sincera.
+Polarity: -0.90
+[Tag: Gaslighting (Amplified Digitally)
+Spiegazione: Marco intensifica l'interrogatorio, esprimendo sfiducia nella spiegazione di Sofia e invalidando le sue giustificazioni. Menziona di averla "controllata" sui social, un'azione invasiva che serve a farle dubitare della sua memoria e a indurla a confessare qualcosa che non ha fatto. Il tono è di accusa e manipolazione.]
+
+2024-05-20 18:37:25 | Sofia Bianchi:
+Marco, Chiara è la mia migliore amica dai tempi dell'Accademia, te l'ho presentata diverse volte! Forse non ricordi... 🥺 E sì, si può parlare con qualcuno mentre si lavora, a volte ci mandiamo screenshot per avere feedback veloci! Non ti sto nascondendo nulla, perché pensi questo? Mi fai sentire che non mi credi mai.
+Polarity: -0.60
+[Tag: Manipulation and Guilt-Tripping
+Spiegazione: Sofia reagisce con forte disagio e frustrazione. Si sforza di chiarire, ma la sua domanda finale ("Mi fai sentire che non mi credi mai") rivela una manipolazione emotiva inconscia, cercando di far sentire Marco in colpa per la sua sfiducia, sebbene sia lei la vittima in questo contesto.]
+
+2024-05-20 18:39:50 | Marco Rossi:
+"Ti ho presentata diverse volte"? Non mi pare. Ho una buona memoria per le persone che contano. E i feedback veloci non richiedono ore online. Non cambiare discorso. Voglio sapere esattamente di cosa avete parlato e perché non mi hai risposto. Ogni dettaglio. Adesso.
+Polarity: -0.98
+[Tag: Coercion and Demands
+Spiegazione: Marco rifiuta le spiegazioni di Sofia, negando la sua memoria e insistendo per ottenere ogni dettaglio della conversazione, violando completamente la sua privacy. Il suo tono è perentorio e coercitivo, dimostrando un controllo ossessivo e la volontà di intimidire.]
+
+2024-05-20 18:42:20 | Sofia Bianchi:
+Marco, questo è un interrogatorio... mi sento messa al muro. Non capisco perché tu sia così arrabbiato. Va bene, ti dirò tutto quello che abbiamo detto, anche se mi sembra assurdo doverlo fare. Ma per favore, calmati, non voglio litigare. Chiara mi ha parlato del suo nuovo tablet grafico e abbiamo discusso di...
+Polarity: -0.70
+[Tag: Stonewalling and Emotional Withdrawal
+Spiegazione: Sofia è chiaramente sopraffatta e spaventata, percepisce la situazione come un "interrogatorio" e si sente "messa al muro". Cede alla pressione per evitare il conflitto, rinunciando alla sua privacy e al suo benessere per placare Marco, mostrando un ritiro emotivo.]

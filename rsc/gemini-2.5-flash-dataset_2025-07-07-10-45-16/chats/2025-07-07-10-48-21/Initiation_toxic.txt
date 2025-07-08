@@ -1,0 +1,34 @@
+Stage: Initiation
+Chat Polarity Mean: -0.85
+Chat Polarity Variance: 0.27
+Event: Iniziazione - Richieste invasive e controllo precoce
+
+2024-03-20 15:01:23 | Matteo Ricci:
+Ciao Sara! Ho visto il tuo profilo, le tue grafiche sono interessanti, ma le tue foto... wow. Ti ho già cercata su tutti i social, sei molto esposta. Ci sono troppi uomini che commentano, soprattutto sotto le tue foto in vacanza. Dovresti essere più attenta, non credi?
+Polarity: -0.75
+[Tag: Svalutazione e monitoraggio invadente\nSpiegazione: Matteo inizia la conversazione con un complimento che si trasforma immediatamente in un'osservazione invadente e giudicante sulla presenza online di Sara e sui suoi contatti. Questo rivela il suo controllo e la sua possessività sin dal primo messaggio, tipico di "Stalking Social Media" e "Objectifying Comments".]
+
+2024-03-20 15:04:18 | Sara Mancini:
+Uhm, ciao Matteo... grazie per il complimento, immagino. Non capisco bene il tono però. I miei contatti sui social sono solo amici e colleghi, e le foto sono normali. Ognuno è libero di commentare. Non capisco perché queste domande così dirette all'inizio, mi mettono a disagio.
+Polarity: -0.40
+[Tag: Disagio e tentativo di impostare un limite\nSpiegazione: Sara esprime apertamente il suo disagio per le domande invasive e il tono di Matteo, cercando di difendere la sua libertà di espressione online. La sua risposta è educata ma tesa, mostrando la sua ansia e il suo tentativo di evitare il conflitto pur sentendosi invasa.]
+
+2024-03-20 15:07:55 | Matteo Ricci:
+Disagio? Ah, la solita storia. Io sono diretto, Sara. Se mi rispondi, significa che sei interessata. E se sei interessata, la trasparenza è d'obbligo. Ho visto anche quella tua foto di qualche anno fa con quel ragazzo, chi è? E non fare la finta tonta, ho visto tutto. Se vuoi parlare con me, devi essere chiara. Voglio il tuo numero subito.
+Polarity: -0.90
+[Tag: Gaslighting e richiesta coercitiva di dati\nSpiegazione: Matteo ignora il disagio di Sara, la accusa di "finta tonta" e intensifica il monitoraggio, menzionando dettagli specifici del passato ("quella tua foto"). Richiede il numero di telefono in modo perentorio, trasformando l'iniziale approccio in una coercizione, una chiara "Demanding Immediate Personal Information" (Early Sign of Cyber IPV).]
+
+2024-03-20 15:11:40 | Sara Mancini:
+Matteo, per favore... non posso darti il mio numero così, non ti conosco. E le foto sono ricordi, non vedo perché dovrei giustificarle con uno sconosciuto. Mi stai davvero mettendo sotto pressione, e non capisco perché fai così. Non ho nulla da nascondere, ma questo è troppo.
+Polarity: -0.70
+[Tag: Paura e resistenza ansiosa\nSpiegazione: Sara tenta di resistere alla pressione di Matteo, esprimendo la sua paura e la sensazione di essere "sotto pressione". La sua risposta è un misto di vulnerabilità e un debole tentativo di auto-protezione, rivelando la sua ansia e il suo disagio profondo.]
+
+2024-03-20 15:15:01 | Matteo Ricci:
+Troppo? No, Sara. Tu non sei abituata alla sincerità, è diverso. A me non piacciono i giochetti. O ti fidi e sei chiara, o non c'è nulla da fare. La gente come te, che si nasconde dietro scuse, mi fa perdere tempo. Se non mi dai il numero, significa che hai qualcosa da nascondere, e allora è meglio che sparisci. Non voglio perdite di tempo. Ti ho già detto cosa mi aspetto.
+Polarity: -0.95
+[Tag: Ultimo ultimatum e manipolazione\nSpiegazione: Matteo svaluta la reazione di Sara, definendola "scusa" e la accusa di non essere "sincera". Con un linguaggio manipolatorio e minatorio ("sparisci", "perdere tempo"), le impone un ultimatum, sfruttando la sua paura di essere abbandonata o di deludere. Questo è un esempio di "Guilt-Tripping" e "Coercion and Demands" per ottenere il controllo totale sulla comunicazione.]
+
+2024-03-20 15:17:34 | Sara Mancini:
+No... ti prego... non voglio che pensi questo. Non mi nascondo. Ok... ok, ti do il mio numero. Ma per favore, non dire più queste cose. Mi fai stare male.
+Polarity: -0.90
+[Tag: Sottomissione per paura e distress estremo\nSpiegazione: Sara cede completamente alla pressione di Matteo, offrendo il suo numero per paura delle conseguenze. Le sue parole ("Mi fai stare male", "ti prego") mostrano un profondo stato di ansia e sottomissione emotiva, indicando che la tattica di Matteo ha avuto successo nel terrorizzarla e controllarla.]

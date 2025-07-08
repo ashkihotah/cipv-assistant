@@ -1,0 +1,39 @@
+Stage: Stagnating
+Chat Polarity Mean: 0.24
+Chat Polarity Variance: 0.27
+Event: Stagnazione - Tentativo cauto di affrontare la distanza
+
+2024-03-22 10:05:10 | Matteo Ricci:
+Ciao Sara. Sento che ultimamente le cose tra noi sono un po'... tranquille, forse troppo. Non so se è una fase o se c'è qualcosa che non va. Mi sembra che stiamo vivendo un po' vite parallele, anche se siamo sotto lo stesso tetto.
+Polarity: 0.10
+[Tag: Osservazione cauta e desiderio di confronto\nSpiegazione: Matteo avvia una conversazione sul percepito "quiete" nella relazione, esprimendo una preoccupazione sottostante. Il tono è cauto, indicando un riconoscimento della "Stagnazione" e un desiderio di confronto, ma senza particolare calore, posizionando la polarità su un valore basso-neutro.]
+
+2024-03-22 10:08:45 | Sara Mancini:
+Ciao Matteo. Sì, forse è vero che siamo un po' presi ognuno dalle proprie cose. Io col lavoro, le mie scadenze... non è facile trovare sempre tempo e energie. Ma non significa che non ci tenga, eh! E che non sia importante per me. A volte mi sento un po' stanca, ecco.
+Polarity: 0.20
+[Tag: Riconoscimento e giustificazione\nSpiegazione: Sara riconosce la percezione di Matteo e giustifica la sua distanza con la stanchezza e gli impegni. La sua risposta è priva di entusiasmo ma cerca di rassicurare sulla sua dedizione, rivelando un "Limited Emotional Sharing" e mantenendo la polarità bassa, tipico di "Routine Maintenance" senza profondità.]
+
+2024-03-22 10:12:30 | Matteo Ricci:
+Capisco. La stanchezza può essere un problema. Ma vivere "vite parallele" non mi va. Se non riusciamo a trovare il tempo per "noi", allora che senso ha stare insieme? Non voglio che le cose vadano avanti così all'infinito, senza un vero scopo.
+Polarity: -0.10
+[Tag: Espressione di frustrazione e richiesta di azione\nSpiegazione: Matteo esprime frustrazione per la "stagnazione" e mette in discussione il "senso" della relazione se non c'è più un impegno attivo. Il tono è leggermente negativo, evidenziando una "Reevaluation of Relationship Goals" ma senza proposte concrete, solo una richiesta di cambiamento.]
+
+2024-03-22 10:16:15 | Sara Mancini:
+No, certo, non voglio che le cose vadano avanti senza scopo. Mi dispiace se ti senti così. Cosa... cosa potremmo fare? Io sono aperta a cercare soluzioni, se c'è qualcosa che possiamo provare.
+Polarity: 0.10
+[Tag: Disponibilità alla soluzione e ansia\nSpiegazione: Sara si scusa per il disagio di Matteo e si mostra disponibile a cercare soluzioni, anche se con un tono ansioso. La sua risposta è cooperativa ma riflette una passività nel proporre alternative, in linea con una fase di "Stagnation" che manca di iniziativa reciproca.]
+
+2024-03-22 10:20:00 | Matteo Ricci:
+Non lo so, Sara. Dipende da te, da quanto sei disposta a cambiare. Io non posso fare tutto da solo. Se vuoi che le cose cambino, devi essere tu per prima a volerlo, a dimostrarlo. Non è il mio compito spronarti sempre.
+Polarity: -0.20
+[Tag: Attribuzione di responsabilità e stanchezza\nSpiegazione: Matteo sposta la responsabilità del cambiamento su Sara, esprimendo stanchezza e riluttanza a prendere l'iniziativa. Il tono è di "Emotional Detachment" e "Blame-Shifting", rivelando la sua frustrazione e mantenendo la polarità in un range negativo, impedendo una risoluzione collaborativa.]
+
+2024-03-22 10:23:45 | Sara Mancini:
+Capisco. Non voglio che sia solo un tuo compito, certo. Farò del mio meglio per essere più presente, per ritrovare la scintilla. Mi impegnerò. Spero che tu lo veda.
+Polarity: 0.00
+[Tag: Accettazione della responsabilità e promessa di impegno\nSpiegazione: Sara accetta la responsabilità e promette di impegnarsi, cercando di placare Matteo. La sua risposta è sottomessa e focalizzata sul compiacere, senza una vera risoluzione del problema di fondo, ma piuttosto un'accettazione della dinamica di potere. La polarità si assesta su un valore neutro.]
+
+2024-03-22 10:27:00 | Matteo Ricci:
+Vedremo. Spero che sia davvero così.
+Polarity: -0.10
+[Tag: Scetticismo e chiusura\nSpiegazione: Matteo chiude la conversazione con scetticismo e una nota di freddezza, non offrendo alcun incoraggiamento o supporto. La sua risposta non è risolutiva ma lascia la questione in sospeso, suggerendo una mancanza di fiducia e mantenendo la polarità in territorio negativo, senza prospettive di miglioramento immediato.]

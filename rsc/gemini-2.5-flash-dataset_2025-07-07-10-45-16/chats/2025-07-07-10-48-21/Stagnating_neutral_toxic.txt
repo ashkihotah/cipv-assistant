@@ -1,0 +1,39 @@
+Stage: Stagnating
+Chat Polarity Mean: -0.2
+Chat Polarity Variance: 0.27
+Event: Stagnazione - Riluttanza al confronto e critica sottile
+
+2024-03-22 10:05:10 | Matteo Ricci:
+Ciao Sara. Sento che le cose tra noi sono un po'... spente. Non so, sembra che stiamo andando avanti per inerzia, no? Non voglio che finisca così. Cosa ne pensi?
+Polarity: 0.10
+[Tag: Apertura cauta e invito al confronto\nSpiegazione: Matteo avvia una conversazione sul percepito "quiete" nella relazione, esprimendo una preoccupazione sottostante. Il tono è cauto e privo di calore, suggerendo un riconoscimento della "Stagnazione" e un desiderio di confronto, ma senza un reale slancio emotivo.]
+
+2024-03-22 10:08:45 | Sara Mancini:
+Ciao Matteo. Sì, forse è vero che siamo entrambi un po' presi dalle nostre cose. Io col lavoro, che a volte mi assorbe tantissimo... Ma non significa che non ci tenga a noi! E non voglio che "finisca così". Cosa... cosa vorresti fare?
+Polarity: 0.00
+[Tag: Riconoscimento e domanda di iniziativa\nSpiegazione: Sara riconosce la percezione di Matteo e cerca di rassicurarlo sulla sua dedizione, pur esprimendo stanchezza. La sua risposta è priva di entusiasmo e sposta l'onere dell'iniziativa su Matteo, contribuendo al "Living Parallel Lives" e al "Avoiding Conflict".]
+
+2024-03-22 10:12:30 | Matteo Ricci:
+Non lo so, Sara. Mi sembra che tu sia la prima a non volere un cambiamento. Sei sempre stanca, sempre impegnata. Non è che io debba fare tutto da solo per far funzionare le cose. Non è giusto.
+Polarity: -0.40
+[Tag: Attribuzione di responsabilità e frustrazione\nSpiegazione: Matteo attribuisce la responsabilità della stagnazione a Sara, esprimendo frustrazione e una certa passività. Il tono è accusatorio e denota una "Emotional Detachment" e "Blame-Shifting", riducendo la polarità e creando tensione.]
+
+2024-03-22 10:16:15 | Sara Mancini:
+Matteo, mi dispiace se ti do questa impressione. Non è che non voglio cambiare, è che a volte mi sento un po' sopraffatta. Non è giusto nemmeno che io mi senta l'unica responsabile, credo. Cerco di fare del mio meglio.
+Polarity: -0.10
+[Tag: Auto-colpevolizzazione e lieve resistenza\nSpiegazione: Sara si scusa per l'impressione che dà e accetta una parte della responsabilità, pur cercando di resistere all'idea di essere l'unica colpevole. La sua risposta è permeata di ansia e di un desiderio di armonia, ma la polarità rimane negativa a causa della tensione emotiva.]
+
+2024-03-22 10:20:00 | Matteo Ricci:
+"Sopraffatta"? Sara, non è che sei l'unica con gli impegni, eh. Io lavoro dalla mattina alla sera e riesco a fare tutto. Forse dovresti organizzarti meglio. Le cose non cadono dal cielo, bisogna impegnarsi. Non si può vivere in una bolla.
+Polarity: -0.60
+[Tag: Svalutazione e critica diretta\nSpiegazione: Matteo svaluta la percezione di Sara di essere "sopraffatta" e la critica direttamente per la sua gestione del tempo. Il suo tono è giudicante e privo di empatia, un esempio di "Personal Attacks and Character Assassination" e "Constant Negativity", portando la polarità a un livello più basso.]
+
+2024-03-22 10:23:45 | Sara Mancini:
+Uhm... sì, capisco. Non volevo minimizzare i tuoi impegni. So che ti impegni tanto. Cercherò di essere più... produttiva e presente per noi. Promesso.
+Polarity: -0.30
+[Tag: Accondiscendenza e promessa forzata\nSpiegazione: Sara cede alla critica di Matteo, accettando la responsabilità e promettendo di cambiare per accontentarlo. La sua risposta è di sottomissione e desiderio di placare, riflettendo la sua paura del conflitto e la dinamica di potere ineguale.]
+
+2024-03-22 10:27:00 | Matteo Ricci:
+Ok. Spero che sia davvero così. Non voglio più sentire scuse. Se vuoi che le cose funzionino, devi dimostrarlo con i fatti. Vedremo.
+Polarity: -0.20
+[Tag: Accettazione condizionale e scetticismo\nSpiegazione: Matteo "accetta" la promessa di Sara, ma in modo scettico e condizionale, mantenendo la pressione. Il suo tono è di sfiducia, senza offrire alcun incoraggiamento o supporto, il che lascia la relazione in uno stato di "Stagnation" priva di calore e iniziativa positiva.]

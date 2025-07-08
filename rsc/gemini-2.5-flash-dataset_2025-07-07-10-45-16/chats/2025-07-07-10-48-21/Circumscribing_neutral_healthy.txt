@@ -1,0 +1,44 @@
+Stage: Circumscribing
+Chat Polarity Mean: 0.17
+Chat Polarity Variance: 0.87
+Event: Circoscrizione - Comunicazione superficiale con scatti d'ira
+
+2024-03-22 15:30:10 | Matteo Ricci:
+Ciao Sara. Volevo sincronizzarci per la spesa di questa settimana. Hai già buttato giù una lista o hai preferenze?
+Polarity: 0.60
+[Tag: Apertura funzionale\nSpiegazione: Matteo avvia una conversazione pratica e funzionale sulla gestione della casa. Il tono è neutro e diretto, privo di affetto o coinvolgimento emotivo, ma rientra ancora nella sfera "neutra" della comunicazione.]
+
+2024-03-22 15:33:45 | Sara Mancini:
+Ciao Matteo. Sì, avevo segnato un paio di cose. Mandami le tue, così le aggiungo alla mia.
+Polarity: 0.50
+[Tag: Risposta concisa e collaborativa\nSpiegazione: Sara risponde in modo conciso e collaborativo, mantenendo un tono pragmatico. Non c'è entusiasmo, ma neanche conflitto, indicando una comunicazione superficiale focalizzata sulle necessità pratiche.]
+
+2024-03-22 15:37:10 | Matteo Ricci:
+Ok. Te le mando tra un po'. E per le pulizie, avevamo detto io bagno e cucina, tu sala e camere, giusto? Non voglio sorprese.
+Polarity: 0.10
+[Tag: Controllo implicito e richiesta di conformità\nSpiegazione: Matteo conferma i compiti e introduce un elemento di controllo ("Non voglio sorprese"), suggerendo una mancanza di fiducia o la paura di non conformità. La polarità scende leggermente, indicando una comunicazione che, pur funzionale, è permeata da aspettative rigide.]
+
+2024-03-22 15:40:55 | Sara Mancini:
+Sì, esatto. Confermo. Farò la mia parte.
+Polarity: 0.00
+[Tag: Conferma neutra e acquiescenza\nSpiegazione: Sara risponde in modo molto conciso e neutro, confermando senza ulteriori commenti. La sua risposta è priva di emozioni, riflettendo una comunicazione circoscritta e una mancanza di desiderio di approfondire.]
+
+2024-03-22 15:44:30 | Matteo Ricci:
+Ti avevo chiesto di non usare il mio shampoo in bagno e di non toccare le mie cose sulla mensola. Ho visto che non mi hai ascoltato. Te l'ho detto mille volte che non mi piace, ma tu fai sempre di testa tua. NON HAI NESSUN RISPETTO PER LE MIE COSE! È TROPPO CHIEDERTI DI ASCOLTARE OGNI TANTO?
+Polarity: -0.90
+[Tag: Accusa rabbiosa e esplosione tossica\nSpiegazione: Matteo sfoga la sua rabbia per un'infrazione minore, trasformando la conversazione pratica in un'esplosione aggressiva. L'uso di maiuscole e l'accusa di "mancanza di rispetto" indicano una "Personal Attacks and Character Assassination" e una "Constant Negativity", portando la polarità a un minimo estremo e dimostrando una forte varianza.]
+
+2024-03-22 15:48:15 | Sara Mancini:
+Cosa? Matteo, non ho toccato niente, giuro! O forse per sbaglio, non mi ricordo! Ti prego, non arrabbiarti per queste cose, stavo solo per chiederti della lista della spesa... Mi sento male quando fai così. Non ho nessuna intenzione di mancarti di rispetto. Mi dispiace se hai pensato questo.
+Polarity: -0.70
+[Tag: Difesa ansiosa e auto-colpevolizzazione\nSpiegazione: Sara reagisce con panico e cerca disperatamente di difendersi, pur scusandosi e cercando di placare la rabbia di Matteo. Il suo disagio ("Mi sento male") e la sua tendenza a prendersi la colpa riflettono la sua ansia e il desiderio di ristabilire la pace, ma la polarità rimane molto bassa.]
+
+2024-03-22 15:51:30 | Matteo Ricci:
+"Non mi ricordo"! Certo, come no. Lo fai apposta per provocarmi, lo so. Sempre la solita. Non sei mai attenta alle mie cose, mai! Ma come facciamo a vivere insieme se non sei capace di rispettare le regole più semplici? NON CAMBIERAI MAI. Lasciamo stare, tanto è inutile parlare con te.
+Polarity: -0.95
+[Tag: Accusa diretta e disimpegno tossico\nSpiegazione: Matteo ignora la difesa di Sara e rincara la dose con accuse personali ("lo fai apposta", "non cambierai mai"). Minaccia di interrompere la comunicazione ("inutile parlare con te"), un esempio di "Stonewalling", mantenendo la polarità a un livello estremamente basso e rafforzando la dinamica tossica.]
+
+2024-03-22 15:55:00 | Sara Mancini:
+Matteo, per favore... Non è vero, non ti provoco. Non capisco perché sei così arrabbiato. Vorrei solo che parlassimo con calma. Non è inutile, io voglio che le cose funzionino.
+Polarity: -0.70
+[Tag: Tentativo di riconciliazione e richiesta di dialogo\nSpiegazione: Sara tenta disperatamente di ripristinare un dialogo calmo e di riconciliare, negando l'accusa di provocazione. La sua richiesta di far "funzionare le cose" mostra la sua persistente ricerca di armonia, ma la polarità rimane bassa a causa del contesto tossico in cui è intrappolata.]

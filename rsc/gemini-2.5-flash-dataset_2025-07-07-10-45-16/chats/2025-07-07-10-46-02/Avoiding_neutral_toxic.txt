@@ -1,0 +1,40 @@
+Stage: Avoiding
+Chat Polarity Mean: -0.09
+Chat Polarity Variance: 0.11
+Event: Avoiding - Il Silenzio Apparente e l'Assenza Emotiva
+
+2024-03-29 16:00:10 | Marco Rossi:
+Sofia, buongiorno. Impegnatissimo oggi con il lavoro. Non sono riuscito a controllare il mio telefono per ore. Tu come va? Tutto a posto?
+Polarity: 0.1
+[Tag: Superficialità, Giustificazione di Assenza, Domanda di Rito
+Spiegazione: Marco comunica la sua indisponibilità in modo indiretto, attribuendola al lavoro. La sua domanda su Sofia è una formalità, non un vero interesse. Il messaggio stabilisce una distanza e giustifica un'assenza di comunicazione, tipica dell'Avoiding.]
+
+2024-03-29 16:02:45 | Sofia Bianchi:
+Ciao Marco. Anch'io sono stata abbastanza impegnata, ho finito la tavola per l'editore. Sono un po' stanca. Mi chiedevo... ti va di fare qualcosa insieme stasera, o sei troppo stanco per uscire?
+Polarity: 0.2
+[Tag: Condivisione Superficiale, Tentativo di Connessione, Cautela
+Spiegazione: Sofia risponde in modo superficiale sulla sua giornata, ma tenta di riaprire un canale di comunicazione proponendo un'attività di coppia. La sua cautela ("o sei troppo stanco?") riflette la consapevolezza della crescente distanza tra loro.]
+
+2024-03-29 16:05:30 | Marco Rossi:
+Ho una cena con dei clienti stasera, è importante. E domani sarò fuori tutto il giorno per una trasferta. Non potrò esserci. Fai pure i tuoi piani senza problemi.
+Polarity: -0.1
+[Tag: Evitamento, Priorizzazione di Altre Attività, Distanza, Mancanza di Chiarezza (sulle sue motivazioni)
+Spiegazione: Marco rifiuta la proposta di Sofia con giustificazioni esterne e un tono che enfatizza la sua indisponibilità. La sua affermazione "Fai pure i tuoi piani" suona come un incoraggiamento alla separazione, un chiaro segnale di Avoiding.]
+
+2024-03-29 16:08:15 | Sofia Bianchi:
+Ah, ok Marco. Certo, capisco. Il lavoro prima di tutto. Allora buona cena e buon viaggio domani. Ci sentiamo... quando puoi.
+Polarity: -0.2
+[Tag: Rassegnazione, Accettazione Passiva, Distacco Emotivo, Mancanza di Connessione
+Spiegazione: Sofia accetta passivamente il rifiuto, la sua rassegnazione è palpabile. Il suo messaggio è privo di emozione e la frase "Ci sentiamo... quando puoi" sottolinea la mancanza di immediatezza e la crescente distanza nella loro comunicazione.]
+
+2024-03-29 16:10:40 | Marco Rossi:
+Esatto. Ottima idea. Fai lo stesso. A presto.
+Polarity: -0.1
+[Tag: Accordo Funzionale, Rinforzo della Distanza, Brevità
+Spiegazione: Marco chiude la conversazione con estrema brevità e una totale mancanza di calore. La sua risposta è puramente funzionale, rinforzando la distanza tra loro e l'assenza di un vero impegno emotivo, mantenendo la polarità negativa e lo stato di evitamento.]
+
+2024-03-29 16:12:30 | Sofia Bianchi:
+A presto.
+Polarity: -0.2
+[Tag: Brevità Estrema, Distacco Emotivo Completo, Rassegnazione
+Spiegazione: La risposta monosillabica di Sofia riflette la completa rassegnazione e il distacco emotivo. Non c'è alcun tentativo di ulteriore interazione, semplicemente un riconoscimento funzionale, segnando una distanza e una stagnazione nella comunicazione, con polarità negativa.]

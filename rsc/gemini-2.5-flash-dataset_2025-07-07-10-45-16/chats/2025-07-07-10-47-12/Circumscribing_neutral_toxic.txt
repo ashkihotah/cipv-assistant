@@ -1,0 +1,40 @@
+Stage: Circumscribing
+Chat Polarity Mean: -0.46
+Chat Polarity Variance: 0.68
+Event: Growing Resentment e Comunicazione Superficiale
+
+2024-05-20 10:05:15 | Clara Neri:
+Amore, buongiorno! È da un po' che non parliamo davvero. Sento che c'è qualcosa che non va, una specie di muro tra noi. Mi sento un po' sola, anche quando siamo vicini. Ti prego, potremmo parlarne? Sono preoccupata per noi. 😔
+Polarity: -0.5
+[Tag: Hurt and Confusion
+Spiegazione: Clara esprime profonda preoccupazione e vulnerabilità, percependo una crescente distanza emotiva. Il suo messaggio è un tentativo disperato di riconnettersi e affrontare i problemi, rivelando il suo dolore e la sua solitudine.]
+
+2024-05-20 10:12:00 | Alessandro Conti:
+Clara, buongiorno. "Muro"? "Sola"? Queste sono esagerazioni. Non c'è nulla che non vada. Sono semplicemente impegnato, come sempre. Non ho tempo per drammi emotivi, la giornata è fitta. Se c'è qualcosa di *concreto* che ti turba, sii specifica. Altrimenti, non ho nulla da "parlare".
+Polarity: -0.8
+[Tag: Lack of Empathy and Active Listening
+Spiegazione: Alessandro rifiuta categoricamente le preoccupazioni di Clara, sminuendo le sue emozioni come "esagerazioni" e "drammi". Il suo tono è dismissivo e freddo, rifiutando qualsiasi discussione emotiva e mostrando la sua incapacità di empatia e il suo desiderio di evitare il conflitto.]
+
+2024-05-20 10:18:40 | Clara Neri:
+Ma... il problema è proprio che non riesco a capire cosa sia il "concreto". Sento solo che c'è un'atmosfera pesante tra noi, che le cose non sono più come prima. Non si tratta di un "dramma", ma di come mi sento, del nostro rapporto. Pensavo potessimo almeno cercare di capire insieme.
+Polarity: -0.3
+[Tag: Superficial Communication
+Spiegazione: Clara tenta di spiegare la natura "intangibile" del suo disagio, ma la sua comunicazione è debole e priva di specificità, un segno della sua frustrazione. La polarità è negativa a causa della sua disperazione e della difficoltà a far valere il suo punto.]
+
+2024-05-20 10:25:25 | Alessandro Conti:
+Non c'è nulla da "capire insieme" se non c'è un problema concreto da risolvere. L'atmosfera è quella che tu crei con le tue inutili preoccupazioni. Le cose sono sempre state così, tu sei troppo sensibile. Comunque, ti ricordi di comprare il detersivo per i piatti e di prenotare il lavaggio a secco per i miei abiti? Ho un meeting importante domani e non ho tempo per queste cose.
+Polarity: -0.9
+[Tag: Defensiveness and Refusal of Responsibility
+Spiegazione: Alessandro rifiuta ogni responsabilità per il clima relazionale, accusando Clara di essere la causa del problema ("atmosfera che tu crei", "troppo sensibile"). Cambia bruscamente argomento su questioni domestiche, mostrando disinteresse per la conversazione emotiva e ribadendo il suo ruolo dominante e la comunicazione superficiale.]
+
+2024-05-20 10:32:10 | Clara Neri:
+Sì, certo, il detersivo e il lavaggio a secco. Me ne occupo subito.
+Polarity: 0.1
+[Tag: Resignation
+Spiegazione: Clara cede immediatamente alle richieste pratiche di Alessandro, senza più tentare di affrontare il problema emotivo. La sua risposta è un'accettazione passiva, mostrando la sua rassegnazione al fatto che i suoi bisogni emotivi non verranno affrontati e che la comunicazione sarà limitata a questioni funzionali.]
+
+2024-05-20 10:39:00 | Alessandro Conti:
+Perfetto. Prevedo che avrò una giornata estremamente impegnativa, quindi non aspettarti risposte immediate. Concentrati sulle cose utili.
+Polarity: -0.7
+[Tag: One-Sidedness and Dominance
+Spiegazione: Alessandro conclude la conversazione con un'ultima affermazione di dominio, avvertendo Clara della sua indisponibilità e rafforzando l'idea che la sua priorità è il lavoro e che lei deve "concentrarsi sulle cose utili". Questo è un atto di controllo e ulteriore chiusura emotiva, consolidando la comunicazione superficiale e il risentimento latente.]

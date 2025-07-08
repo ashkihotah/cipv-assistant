@@ -1,0 +1,40 @@
+Stage: Avoiding
+Chat Polarity Mean: -0.09
+Chat Polarity Variance: 0.3
+Event: Distanza Controllata, Apparente Calma
+
+2024-03-25 14:00:05 | Gabriele Esposito:
+Sarò fuori casa per la maggior parte della giornata per impegni improrogabili. Non disturbarmi.
+Polarity: 0.0
+[Tag: Assenza e Confini
+Spiegazione: Gabriele comunica la sua intenzione di essere assente, stabilendo in modo neutro una chiara distanza e un'indicazione di non volere interruzioni. Il messaggio serve a creare spazio fisico ed emotivo.]
+
+2024-03-25 14:02:30 | Chiara Romano:
+Certo, Gabriele. Spero ti vada tutto bene con gli impegni importanti di oggi. Ti auguro una buona giornata! ✨
+Polarity: 0.8
+[Tag: Supporto e Mantenimento dell'Armonia
+Spiegazione: Chiara risponde con un tono supportivo e conciliante, cercando di mantenere un'atmosfera positiva e di mostrare cura. Il suo desiderio di armonia la porta a un messaggio leggermente più caloroso, pur accettando la distanza imposta.]
+
+2024-03-25 14:04:45 | Gabriele Esposito:
+Non mi serve nulla da te. Piuttosto, hai controllato che la porta del garage fosse chiusa a chiave? Non voglio trovare sorprese al mio ritorno.
+Polarity: -0.8
+[Tag: Rifiuto di Supporto e Controllo Invasivo
+Spiegazione: Gabriele respinge bruscamente l'offerta di supporto di Chiara e immediatamente sposta la conversazione su una richiesta di controllo, insinuando sfiducia. Questo brusco cambio di tono e l'accusa implicita creano un picco di negatività, mostrando la sua tendenza a dominare anche a distanza.]
+
+2024-03-25 14:07:10 | Chiara Romano:
+Sì, Gabriele, l'ho chiusa io stessa prima di portare i bambini. È tutto sicuro.
+Polarity: 0.2
+[Tag: Reattività e Rassicurazione
+Spiegazione: Chiara risponde in modo immediato e fattuale, fornendo rassicurazioni e dettagli specifici per placare la diffidenza di Gabriele. La sua risposta è efficiente ma priva di calore, riflettendo la natura transazionale e distaccata della loro comunicazione in questo momento.]
+
+2024-03-25 14:09:20 | Gabriele Esposito:
+Bene. E per le chiamate, niente chiacchiere inutili con le tue amiche. Ho bisogno di concentrazione, anche a distanza.
+Polarity: -0.6
+[Tag: Isolamento Digitale e Controllo
+Spiegazione: Gabriele continua a esercitare controllo sulla vita di Chiara, questa volta limitando le sue interazioni sociali. La sua richiesta è irragionevole e intrusiva, mostrando la sua possessività e il suo bisogno di dominio anche sulla sua vita privata. Questo comportamento tossico abbassa la polarità.]
+
+2024-03-25 14:11:00 | Chiara Romano:
+Capito.
+Polarity: -0.1
+[Tag: Conformismo e Resa
+Spiegazione: Chiara risponde con un monosillabo, indicando conformità e una profonda rassegnazione. La brevità del messaggio e l'assenza di emozione esprimono la sua accettazione passiva delle imposizioni di Gabriele, riflettendo la dinamica di sottomissione e il continuo distacco emotivo tra i due.]

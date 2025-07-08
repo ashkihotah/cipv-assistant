@@ -1,0 +1,46 @@
+Stage: Initiation
+Chat Polarity Mean: -0.25
+Chat Polarity Variance: 0.99
+Event: Initiation - Avanzate Indesiderate o Persistenti (Cyber IPV - Stalking Social Media)
+
+2024-07-28 10:05:22 | Luca Moretti:
+Buongiorno Elena. Ho notato il tuo profilo Instagram, in particolare alcune foto risalenti a circa due anni fa. Complimenti per la coerenza estetica. Sono Luca Moretti. Ho reperito il tuo contatto tramite un'analisi incrociata dei follower.
+Polarity: -0.30
+[Tag: Stalking Social Media; One-Sidedness and Dominance; Directness
+Spiegazione: Luca inizia in modo formale ma immediatamente intrusivo, rivelando di aver "analizzato" il profilo di Elena e menzionando foto passate, un comportamento da cyberstalking precoce. La sua frase sulla "coerenza estetica" suona quasi come un'analisi tecnica, non un complimento genuino. La polarità è negativa per la violazione della privacy implicita.]
+
+2024-07-28 10:07:45 | Elena Costa:
+Ciao Luca. Grazie, suppongo. Non ricordo di averti tra i miei contatti... come hai fatto a trovarmi, esattamente? Questo mi mette un po' a disagio, devo dire. 😬
+Polarity: 0.10
+[Tag: Anxiety; Clear Boundaries and Respect for Space; Indirectness; Use of Emojis
+Spiegazione: Elena esprime un chiaro disagio e perplessità, mostrando la sua ansia con l'emoji e cercando indirettamente di capire i confini della situazione. La sua reazione è cauta, riflettendo la sua natura che evita il conflitto ma è turbata dall'intrusione. La polarità è quasi neutra a causa del suo disagio.]
+
+2024-07-28 10:09:10 | Luca Moretti:
+Ho spiegato: analisi incrociata dei follower. È un processo logico per identificare connessioni potenziali. Il disagio è una risposta emotiva non ottimale. Preferirei una discussione più diretta. Qual è il tuo numero di telefono? Una chat qui è inefficiente.
+Polarity: -0.80
+[Tag: Dismissing Feelings; Demanding Immediate Personal Information; Manipulation and Guilt-Tripping; Rationality
+Spiegazione: Luca respinge il disagio di Elena come "non ottimale", sminuendo le sue emozioni. Poi esige il numero di telefono per maggiore "efficienza", trasformando un primo contatto in una richiesta impositiva. La polarità crolla drasticamente a causa della sua totale mancanza di empatia e del comportamento di coercizione digitale.]
+
+2024-07-28 10:11:05 | Elena Costa:
+Luca, non mi sento a mio agio a darti il mio numero di telefono in questo modo. Non ti conosco, e questo approccio così... diretto, mi fa sentire un po' sotto pressione. Preferirei che ci conoscessimo meglio qui, se proprio.
+Polarity: 0.05
+[Tag: Clear Boundaries and Respect for Space; Anxiety; Indirectness; Defensiveness and Refusal of Responsibility
+Spiegazione: Elena cerca di porre un confine, affermando di non sentirsi a suo agio e di sentirsi "sotto pressione". La sua frase "se proprio" mostra la sua riluttanza e il tentativo di evitare il conflitto diretto, mentre cerca di mantenere un barlume di controllo sulla situazione. La polarità resta bassa, riflettendo la tensione e la sua resistenza ansiosa.]
+
+2024-07-28 10:12:40 | Luca Moretti:
+La pressione è una percezione soggettiva. Se sei interessata a una conoscenza "reale", l'efficienza comunicativa è prioritaria. Non vedo il punto di prolungare un'interazione con variabili ignote quando i dati fondamentali non vengono forniti. Questo approccio dimostra un'inefficienza di base.
+Polarity: -0.95
+[Tag: Gaslighting; Personal Attacks and Character Assassination; Constant Negativity, Criticism, and Pessimism; One-Sidedness and Dominance
+Spiegazione: Luca intensifica la sua pressione, gaslighting Elena sulla sua percezione di pressione ("soggettiva") e attaccando il suo approccio come "inefficienza di base". La sua frase "dati fondamentali non vengono forniti" è manipolativa e coercitiva. La polarità è quasi al minimo per l'aggressività e la natura disumanizzante del suo messaggio.]
+
+2024-07-28 10:14:30 | Elena Costa:
+Scusami, ma non credo che questo sia il modo migliore per iniziare a conoscere qualcuno. Non mi sento per niente a mio agio con le tue richieste e il tuo modo di fare. Non credo che questo funzioni. Ti chiedo di non scrivermi più.
+Polarity: 0.70
+[Tag: Clear Boundaries and Respect for Space; Honesty and Authenticity (with Kindness); Setting Boundaries Kindly
+Spiegazione: Elena, pur con fatica, riesce a stabilire un confine molto netto e a terminare la conversazione. La sua frase "non credo che questo funzioni" è un rifiuto educato ma fermo. La polarità sale perché, nonostante il disagio subito, riesce a proteggere se stessa e la sua autonomia.]
+
+2024-07-28 10:15:50 | Luca Moretti:
+Come desideri. È un risultato prevedibile data la resistenza all'ottimizzazione. In bocca al lupo per la tua "inefficienza relazionale".
+Polarity: -0.85
+[Tag: Constant Negativity, Criticism, and Pessimism; Personal Attacks and Character Assassination; Dismissing Feelings
+Spiegazione: Luca risponde con disprezzo e un attacco finale, definendo la chiusura di Elena come "prevedibile" e la sua persona come "inefficienza relazionale". La polarità è molto negativa, mostrando la sua rabbia fredda, la sua incapacità di accettare il rifiuto e la sua tendenza a svalutare gli altri.]

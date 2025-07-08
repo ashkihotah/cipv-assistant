@@ -1,0 +1,58 @@
+Stage: Exploration-Experimenting
+Chat Polarity Mean: 0.25
+Chat Polarity Variance: 0.38
+Event: Exploration-Experimenting - Interrogazione e Monitoraggio Online (Early Cyber IPV)
+
+2024-07-28 14:05:10 | Luca Moretti:
+Elena, ho notato che hai riattivato il tuo profilo Facebook. Era inattivo da tempo, ricordavo. Cosa ti ha spinto a riattivarlo proprio ora? E ho visto una nuova foto profilo con un'altra persona. Chi è?
+Polarity: -0.40
+[Tag: Monitoring Online Activity; Interrogation-style Questioning; Possessiveness and Jealousy
+Spiegazione: Luca inizia in modo invasivo, dimostrando di aver monitorato l'attività online di Elena e di aver notato cambiamenti. Le sue domande sono interrogative e implicano un controllo, mostrando possessività fin dalle prime fasi e mettendo Elena sulla difensiva. La polarità è negativa per l'intrusione e il tono accusatorio.]
+
+2024-07-28 14:07:05 | Elena Costa:
+Ciao Luca! Sì, l'ho riattivato da un paio di giorni, non pensavo lo notassi subito. È solo una mia vecchia amica del liceo, abbiamo deciso di rientrare in contatto. Siamo andate a prendere un caffè e abbiamo fatto la foto. Tutto qui. Perché me lo chiedi?
+Polarity: 0.15
+[Tag: Anxiety; Defensiveness and Refusal of Responsibility; People-Pleasing
+Spiegazione: Elena è colta di sorpresa e mostra ansia per essere stata "notata subito". Si giustifica immediatamente, fornendo dettagli non richiesti per placare Luca, riflettendo la sua tendenza a evitare il conflitto. La sua domanda finale è cauta e tenta di capire la motivazione di Luca, ma la polarità è bassa a causa del suo disagio e della necessità di giustificarsi.]
+
+2024-07-28 14:08:40 | Luca Moretti:
+Lo noto perché sono attento ai dettagli. Non è una questione di "perché", ma di analisi dei dati. Chi è questa amica? È una persona che già conosciamo? E perché non mi avevi informato della riattivazione di un account che avevi disattivato? Questo tipo di omissioni è inefficiente.
+Polarity: -0.65
+[Tag: Interrogation-style Questioning; Constant Monitoring and Surveillance; Dismissing Feelings; Manipulation and Guilt-Tripping
+Spiegazione: Luca ignora il disagio di Elena, ribadendo la sua attenzione ai "dati" e la sua natura di "monitoraggio". Le sue domande diventano più pressanti e invasive, accusandola di "omissioni" e "inefficienza", cercando di indurre colpa e controllo. La polarità è marcatamente negativa per l'escalation del controllo e la svalutazione delle motivazioni di Elena.]
+
+2024-07-28 14:10:30 | Elena Costa:
+Luca, scusa, ma non capisco perché dovrei informarti di ogni account che riattivo. È solo Facebook, non c'è niente di strano. Si chiama Marta, è un'amica storica. Non è che devi conoscere tutte le mie amiche, giusto? Mi sento un po' sotto esame in questo momento. 😔
+Polarity: -0.20
+[Tag: Anxiety; Defensiveness and Refusal of Responsibility; Indirectness; Emotional Suppression; Use of Emojis
+Spiegazione: Elena, pur esprimendo frustrazione ("non capisco perché dovrei..."), continua a scusarsi implicitamente e a fornire dettagli, sebbene stia cercando di resistere alla pressione di Luca. L'emoji indica il suo disagio e la sua sensazione di essere messa alla prova. La polarità è negativa, poiché la sua difesa non è ferma e il suo disagio è palpabile.]
+
+2024-07-28 14:12:15 | Luca Moretti:
+Sotto esame? Questa è una reazione emotiva tipica di chi non ha piena trasparenza. La fiducia si costruisce sulla condivisione di informazioni, non su "segreti". Se hai nulla da nascondere, perché questa resistenza? Sembra tu stia testando i limiti della mia tolleranza.
+Polarity: -0.80
+[Tag: Gaslighting; Manipulation and Guilt-Tripping; Personal Attacks and Character Assassination; Coercion and Demands
+Spiegazione: Luca usa il gaslighting, ribaltando la sensazione di Elena di essere "sotto esame" accusandola di mancanza di "trasparenza" e "segreti". La accusa di "testare i limiti", una chiara manipolazione per indurla a cedere. La polarità è molto negativa per l'attacco personale e l'uso di tecniche di manipolazione.]
+
+2024-07-28 14:14:00 | Elena Costa:
+Ma no, Luca, non c'è nessun segreto! È che... è la mia vita privata. Io mi fido di te, non capisco perché tu non ti fidi di me per una cosa così semplice. Mi stai facendo sentire in colpa per niente. Non voglio litigare. 😢
+Polarity: -0.45
+[Tag: Anxiety; Manipulation and Guilt-Tripping (victim's perspective); Emotional Suppression; People-Pleasing; Use of Emojis
+Spiegazione: Elena è chiaramente in uno stato di angoscia, tentando disperatamente di placare Luca e di evitare il conflitto. La sua frase "Mi stai facendo sentire in colpa per niente" è un riconoscimento della manipolazione subita, ma la sua volontà di non "litigare" la porta a soccombere alla pressione, mantenendo la polarità negativa.]
+
+2024-07-28 14:15:45 | Luca Moretti:
+Non si tratta di colpa, ma di logica. E non stiamo "litigando", stiamo discutendo la necessità di una comunicazione efficiente. Se non c'è nulla da nascondere, non ci sono obiezioni valide. Invia uno screenshot della vostra chat di Facebook con questa Marta. È un dato necessario.
+Polarity: -0.90
+[Tag: Gaslighting; Demanding Immediate Personal Information; Monitoring Online Activity; Coercion and Demands
+Spiegazione: Luca persiste nel suo gaslighting, negando il "litigio" e trasformandolo in una "discussione logica". La richiesta di uno screenshot della chat con Marta è un'escalation massiccia della violazione della privacy e del controllo. La polarità è estremamente negativa, mostrando la sua totale mancanza di rispetto per i confini di Elena e la sua tattica coercitiva.]
+
+2024-07-28 14:17:30 | Elena Costa:
+Uno screenshot della mia chat? Luca, questo è troppo! Non posso e non voglio farlo, è la mia privacy! Non capisco perché mi chiedi una cosa del genere. Non è giusto. Mi stai spaventando.
+Polarity: -0.60
+[Tag: Clear Boundaries and Respect for Space; Anxiety; Defensiveness and Refusal of Responsibility; Emotional Suppression
+Spiegazione: Elena è ora apertamente spaventata e rifiuta la richiesta in modo più diretto, anche se ancora con un tono di incredulità e sofferenza. Riconosce la violazione della sua privacy e il suo spavento, ma la polarità rimane molto bassa data la natura tossica e opprimente dell'interazione.]
+
+2024-07-28 14:19:00 | Luca Moretti:
+Se non hai nulla da nascondere, non c'è motivo di spaventarsi. La trasparenza è fondamentale. Il tuo rifiuto è una chiara indicazione di problemi. Prendo atto.
+Polarity: -0.99
+[Tag: Gaslighting; Personal Attacks and Character Assassination; Constant Negativity, Criticism, and Pessimism; Stonewalling and Emotional Withdrawal
+Spiegazione: Luca conclude con una frase altamente manipolativa e minacciosa ("Se non hai nulla da nascondere, non c'è motivo di spaventarsi"), invalidando completamente la paura di Elena e trasformando il suo legittimo rifiuto in una "chiara indicazione di problemi". La polarità è al suo minimo, sottolineando la natura abusiva dell'interazione e la determinazione di Luca a punire il rifiuto di Elena.]

@@ -1,0 +1,34 @@
+Stage: Avoiding
+Chat Polarity Mean: -0.82
+Chat Polarity Variance: 0.03
+Event: Silenzio Totale e Rifiuto di Interazione
+
+2024-07-26 17:00:00 | Luca Moretti:
+Ho ricevuto la bolletta del gas. Devi provvedere al pagamento entro domani. È l'ultima data utile.
+Polarity: 0.0
+[Tag: Comunicazione Logistica Fredda e Direttiva
+Spiegazione: Luca invia un messaggio puramente funzionale, concentrato su un compito pratico e una scadenza, senza alcun preambolo o calore. Il suo tono è freddo e autoritario, riducendo l'interazione a una direttiva, tipico di un evitamento tossico.]
+
+2024-07-26 17:02:15 | Elena Costa:
+(Visualizzato, nessun messaggio di risposta)
+Polarity: -0.5
+[Tag: Silenzio e Rassegnazione Passiva
+Spiegazione: Elena visualizza il messaggio ma non risponde. Questo silenzio è carico di rassegnazione e impotenza, indicando che ha interiorizzato il disprezzo e l'indifferenza di Luca, e non vede più il punto di rispondere o di cercare una connessione, il che è un segno di evitamento tossico da parte sua.]
+
+2024-07-26 17:03:30 | Luca Moretti:
+Mi hai letto. Presumo tu abbia compreso la necessità di agire immediatamente. Non ammetto negligenze in questioni finanziarie critiche.
+Polarity: -0.9
+[Tag: Accusa Implicita e Minaccia
+Spiegazione: Luca interpreta il silenzio di Elena come un'opportunità per accusarla implicitamente di negligenza e per ribadire la sua autorità. Il suo tono è minaccioso e accusatorio, mostrando un desiderio di controllo anche in assenza di interazione diretta, una forma di cyberstalking passivo in questa fase di evitamento.]
+
+2024-07-26 17:05:00 | Elena Costa:
+(Visualizzato, nessun messaggio di risposta)
+Polarity: -0.8
+[Tag: Silenzio Persistente e Distacco Profondo
+Spiegazione: Elena continua a visualizzare senza rispondere, un comportamento che indica un profondo distacco emotivo e una rassegnazione all'abuso. La sua incapacità di rispondere riflette la sensazione di essere intrappolata e la consapevolezza che ogni tentativo di interazione sarà punito o invalidato, rendendo questo silenzio ancora più tossico e doloroso.]
+
+2024-07-26 17:06:30 | Luca Moretti:
+La tua mancanza di risposta è un'ulteriore conferma della tua irresponsabilità. È una forma di passività tossica. Non tollero questo tipo di comportamento. Agisci, o ci saranno conseguenze.
+Polarity: -1.0
+[Tag: Aggressione Verbale e Minaccia Esplicita
+Spiegazione: Luca escalation al massimo della tossicità, accusando Elena di "irresponsabilità" e "passività tossica". La sua minaccia esplicita di "conseguenze" dimostra un comportamento abusivo e coercitivo, sfruttando il silenzio di Elena per esercitare controllo e infliggere paura. La polarità massima negativa riflette l'escalation dell'abuso in questa fase di evitamento.]

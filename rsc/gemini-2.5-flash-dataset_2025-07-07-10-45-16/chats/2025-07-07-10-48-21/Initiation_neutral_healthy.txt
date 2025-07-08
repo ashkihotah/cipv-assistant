@@ -1,0 +1,44 @@
+Stage: Initiation
+Chat Polarity Mean: 0.16
+Chat Polarity Variance: 0.55
+Event: Iniziazione - Primo contatto online con segnali d'allarme
+
+2024-03-20 10:05:22 | Matteo Ricci:
+Ciao Sara! Ho notato il tuo profilo, le tue grafiche sono molto originali. Lavoro nel marketing della moda, quindi apprezzo l'occhio per il dettaglio. 😊 Vedo che sei di Roma, un po' lontana da Firenze! Ti piace la vita da freelance?
+Polarity: 0.70
+[Tag: Apertura amichevole e osservazione specifica\nSpiegazione: Matteo inizia la conversazione con un complimento specifico e una domanda, mostrando un iniziale interesse. Il tono è cordiale e l'emoji suggerisce disponibilità al dialogo, pur accennando alla distanza geografica.]
+
+2024-03-20 10:08:45 | Sara Mancini:
+Ciao Matteo! Grazie mille per il complimento, fa sempre piacere! 🥰 Sì, la vita da freelance è stimolante, anche se a volte un po' incerta. Mi dà tanta libertà creativa. E tu, come ti trovi nel marketing della moda? È un mondo affascinante!
+Polarity: 0.80
+[Tag: Risposta entusiasta e reciproca\nSpiegazione: Sara risponde con calore e gratitudine, ricambiando l'interesse e ponendo una domanda. La sua risposta è aperta e invita a proseguire il dialogo, mostrando la sua tendenza all'accettazione e alla ricerca di armonia.]
+
+2024-03-20 10:12:10 | Matteo Ricci:
+Ah, la libertà creativa... certo. Nel marketing della moda si lavora parecchio sull'immagine, non tanto sulla "libertà". 😉 Comunque, tornando a noi, sono di Firenze, e vedo che hai un sacco di amici sui social, sempre in giro. Sei una che sta sempre attaccata al telefono? Perché io sono uno che risponde subito, mi secca aspettare.
+Polarity: 0.10
+[Tag: Svalutazione sottile e richiesta indiscreta\nSpiegazione: Matteo sminuisce l'idea di "libertà creativa" e poi, senza soluzione di continuità, fa un'affermazione generalizzante e un po' invadente sulla vita sociale di Sara e sul suo utilizzo del telefono. Il tono è già più esigente e stabilisce un'aspettativa di risposta immediata, segno della sua ansia e bisogno di controllo.]
+
+2024-03-20 10:15:30 | Sara Mancini:
+Uhm, diciamo che cerco un equilibrio tra vita online e offline! I social per me sono uno strumento di lavoro, ma anche un modo per restare in contatto con amici e familiari. Non sono sempre "attaccata" al telefono, cerco di gestirmi. Non mi piace far aspettare, ma a volte sono semplicemente impegnata col lavoro. 😊
+Polarity: 0.30
+[Tag: Tentativo di spiegazione e setting di un limite morbido\nSpiegazione: Sara tenta di giustificare il suo comportamento e la sua relazione con il telefono, cercando di placare Matteo e di rassicurarlo. Pur sentendosi a disagio, cerca di mantenere un tono amichevole e accomodante, evitando il conflitto diretto ma ponendo un limite velato.]
+
+2024-03-20 10:18:55 | Matteo Ricci:
+Capisco, capisco. Ma a me non piacciono i giri di parole. Se una persona è interessata, risponde. Punto. E io sono molto diretto. Preferisco chiarezza subito. Sei una persona chiara tu? Oppure sei come quelle che promettono e poi spariscono? Lo dico perché non voglio perdere tempo.
+Polarity: -0.40
+[Tag: Aggressività passiva e pressione\nSpiegazione: Matteo ignora la spiegazione di Sara e la accusa di indirettezza, facendo leva sul senso di colpa e sulla paura di deludere. La sua retorica è manipolativa, mirando a forzare una risposta che lo rassicuri sul controllo che può esercitare, mostrando già un forte segnale di possessività e mancanza di fiducia.]
+
+2024-03-20 10:22:20 | Sara Mancini:
+No, certo, apprezzo la chiarezza! Non sono una che sparisce, quando mi impegno in una conversazione, ci sono. Ma, sai, il mio lavoro richiede molta concentrazione e a volte non posso rispondere subito. Non è mancanza di interesse, te lo assicuro. Magari potremmo sentirci in un momento più tranquillo per entrambi?
+Polarity: 0.00
+[Tag: Accondiscendenza e tentativo di rinegoziazione\nSpiegazione: Sara, per evitare il conflitto, acconsente all'affermazione di Matteo sulla chiarezza. Tuttavia, pur rassicurandolo, tenta di rinegoziare i termini dell'interazione per proteggere il suo spazio e il suo tempo, mostrando il suo alto bisogno di armonia ma anche un primo segnale di ansia.]
+
+2024-03-20 10:25:40 | Matteo Ricci:
+"Momento più tranquillo"? Cioè? Se uno vuole, il tempo lo trova. Non sono qui a farti perdere tempo, io. Se non hai tempo per due messaggi, allora non capisco perché dovremmo continuare a chattare. Tanto vale finirla qui. Mi sembri la solita che non sa cosa vuole.
+Polarity: -0.70
+[Tag: Ricatto emotivo e minaccia di ritiro\nSpiegazione: Matteo interpreta la richiesta di Sara come una scusa, attaccandola frontalmente e minacciando di terminare la conversazione. Questa è una chiara tattica manipolativa per ottenere il controllo, mostrando la sua bassa tolleranza alla frustrazione e il suo forte bisogno di dominanza.]
+
+2024-03-20 10:28:15 | Sara Mancini:
+No, aspetta! Non volevo dire questo. Mi dispiace se ti ho dato questa impressione. Sono interessata a continuare a parlare, solo che a volte... è difficile. Cercherò di essere più presente, davvero. Scusami.
+Polarity: 0.20
+[Tag: Auto-colpevolizzazione e accresciuta ansia\nSpiegazione: Sara, spinta dalla paura dell'abbandono e dal desiderio di evitare il conflitto, si auto-colpevolizza e si scusa eccessivamente, promettendo di cambiare il suo comportamento per accontentare Matteo. Questo evidenzia la sua tendenza all'iper-adattamento e l'impatto negativo della manipolazione di Matteo sulla sua tranquillità.]

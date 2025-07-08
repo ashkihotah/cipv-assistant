@@ -1,0 +1,49 @@
+Stage: Exploration-Experimenting
+Chat Polarity Mean: 0.28
+Chat Polarity Variance: 0.71
+Event: Esplorazione-Sperimentazione - La gelosia digitale compromette il secondo approccio
+
+2024-03-21 10:15:30 | Matteo Ricci:
+Ciao Sara! Non smetto di pensare al nostro incontro di ieri, sono stato davvero, davvero bene! E la mostra era super stimolante, hai un gusto pazzesco. Dobbiamo rifarlo presto, ho già qualche idea in testa che ti piacerà!
+Polarity: 0.98
+[Tag: Entusiasmo e apprezzamento sincero\nSpiegazione: Matteo avvia la conversazione con un entusiasmo travolgente, esprimendo un forte apprezzamento per l'incontro e per Sara. Il suo tono è molto positivo, quasi esuberante, indicando una percezione di validazione e un desiderio di proseguire la relazione.]
+
+2024-03-21 10:18:45 | Sara Mancini:
+Ciao Matteo! Non dirlo a me! Anche a me è piaciuto moltissimo, un pomeriggio stupendo! Sono felicissima che ti sia piaciuta la mostra, mi ha fatto un piacere immenso chiacchierare con te e scoprire i tuoi interessi, ti trovo una persona affascinante e super brillante!
+Polarity: 1.00
+[Tag: Estasi e forte reciprocità emotiva\nSpiegazione: Sara risponde con un'emozione altrettanto intensa e un'affermazione quasi totale. La sua felicità e l'uso di aggettivi così forti ("moltissimo," "stupendo," "felicissima," "immenso") riflettono la sua altissima gradevolezza e la ricerca di armonia e profonda connessione, portando la polarità al massimo.]
+
+2024-03-21 10:22:10 | Matteo Ricci:
+Assolutamente! Ho già in mente un paio di posti qui a Firenze che ti farebbero impazzire. Magari un aperitivo in terrazza con vista, o una passeggiata in Oltrarno, per vedere un lato più 'autentico' della città, lontano dalla folla. 😉
+Polarity: 0.95
+[Tag: Proposta futura e complicità crescente\nSpiegazione: Matteo prosegue sulla scia positiva, proponendo idee specifiche per futuri incontri. Il suo tono è giocoso e complice, suggerendo un desiderio di approfondire la connessione e di farla entrare nel suo mondo, indicando un'integrazione positiva nella fase di esplorazione.]
+
+2024-03-21 10:25:50 | Sara Mancini:
+Oh, mi piace tantissimo l'idea! Sono curiosissima di scoprire la Firenze 'autentica' con te, sono sicura che sarà bellissimo! Fammi sapere quando pensi possa andare bene per te, non vedo l'ora!
+Polarity: 0.90
+[Tag: Accettazione entusiasta e grande aspettativa\nSpiegazione: Sara accetta con grande entusiasmo la proposta di Matteo, esprimendo curiosità e anticipazione. La sua risposta è molto positiva e aperta, rafforzando la reciprocità e l'aspettativa di un futuro promettente per la relazione.]
+
+2024-03-21 10:29:05 | Matteo Ricci:
+A proposito... ieri sera, appena ci siamo salutati, mi hai lasciato e sei andata subito online su Instagram. E ti ho vista mettere like a un sacco di cose, e rispondere nei commenti a quel tizio che ti stalkera sempre. Eri online, mi hai ignorato per quasi un'ora, e poi eri lì a flirtare con altri. NON LO ACCETTO. Mi sento preso in giro. Che tipo di persona sei, Sara?
+Polarity: -0.95
+[Tag: Accusa di tradimento e monitoraggio ossessivo\nSpiegazione: Matteo attua un cambiamento brusco e drammatico nel tono, passando dall'entusiasmo all'accusa diretta. Rileva un monitoraggio dettagliato dell'attività online di Sara, la accusa di flirtare e di averlo ignorato, e la attacca personalmente. Questo mostra possessività, mancanza di fiducia e un tentativo di controllo, evidenziando chiari segnali di Cyber IPV.]
+
+2024-03-21 10:32:30 | Sara Mancini:
+Ma... Matteo, aspetta, ti prego! Non è affatto così! Ero al telefono per lavoro, stavo chiudendo delle cose urgenti. E poi ho scorriro il feed, sono colleghi e amici, persone che conosco. Non stavo flirtando con nessuno, ti giuro sulla mia vita! Perché pensi questo? Mi metti un'ansia incredibile, mi sento malissimo. 😔
+Polarity: -0.50
+[Tag: Difesa disperata e ansia profonda\nSpiegazione: Sara è visibilmente sconvolta e ansiosa, cercando disperatamente di difendersi e di spiegare il suo comportamento. La sua reazione di auto-colpevolizzazione ("ti prego", "mi sento malissimo") e la negazione delle accuse rivelano la sua vulnerabilità e il profondo disagio causato dall'attacco di Matteo.]
+
+2024-03-21 10:36:00 | Matteo Ricci:
+Ansia? Io sono realista e vedo i fatti! Quelle cose le ho viste chiaramente. Non cercare scuse e non fare la vittima. Se vuoi che questa cosa funzioni, la fiducia e la trasparenza sono tutto. E non inizi con le menzogne. La tua attenzione deve essere su di me, non su altri. O sei chiara e la tua priorità è qui, o non c'è futuro. Non ho tempo per drammi e per chi non sa cosa vuole.
+Polarity: -0.98
+[Tag: Gaslighting e ultimatum manipolatorio\nSpiegazione: Matteo minimizza e svaluta le emozioni di Sara ("Ansia?"), accusandola di mentire e di fare la vittima. Impone condizioni severe sulla loro relazione ("priorità qui", "non c'è futuro") e la minaccia, mostrando un controllo coercitivo e una completa mancanza di empatia. Questo è un esempio estremo di gaslighting e manipolazione per ottenere sottomissione.]
+
+2024-03-21 10:39:15 | Sara Mancini:
+Ti prego Matteo, non voglio che pensi questo di me! Non ti ho mentito, sono solo i miei contatti, davvero. Capisco che la fiducia è fondamentale, e io mi fido di te. La mia attenzione è su di te, ti assicuro. Mi dispiace tantissimo se ti ho fatto dubitare. Voglio che funzioni, davvero. Ti giuro che sarò più che attenta.
+Polarity: -0.85
+[Tag: Sottomissione per paura e auto-colpevolizzazione\nSpiegazione: Sara cede completamente alla pressione di Matteo, implorando la sua comprensione e promettendo di conformarsi alle sue richieste. La sua risposta è intrisa di paura dell'abbandono e di un disperato tentativo di placare Matteo, sacrificando la propria autonomia per preservare la relazione.]
+
+2024-03-21 10:42:00 | Matteo Ricci:
+Ok, Sara. Allora spero che questa volta sia chiaro. Non voglio più discussioni su queste cose. Per ora, ti credo. Ci sentiamo domani per i dettagli dell'aperitivo. Ma ricordati che certi comportamenti non mi vanno bene.
+Polarity: 0.70
+[Tag: Accettazione condizionale e monito finale\nSpiegazione: Matteo "accetta" la sottomissione di Sara, esprimendo un senso di vittoria e ristabilendo il controllo. Il suo tono diventa temporaneamente più positivo poiché ha ottenuto ciò che voleva, ma la sua accettazione è condizionale e include un chiaro monito per il futuro, mantenendo una dinamica di potere squilibrata.]

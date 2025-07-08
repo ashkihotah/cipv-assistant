@@ -1,0 +1,40 @@
+Stage: Avoiding
+Chat Polarity Mean: -0.6
+Chat Polarity Variance: 0.72
+Event: Avoiding - L'Allontanamento Strategico e il Dolore Silenzioso
+
+2024-03-29 17:00:10 | Marco Rossi:
+Sofia, sono fuori per un impegno improvviso. Non so a che ora torno. Non aspettarmi per cena. Fai i tuoi piani, non sono un problema tuo.
+Polarity: -0.9
+[Tag: Comunicazione Fredda, Evitamento, Mancanza di Chiarezza, Svalutazione
+Spiegazione: Marco comunica la sua assenza con un tono distaccato e impositivo, senza scuse o spiegazioni. La sua frase "non sono un problema tuo" è passivo-aggressiva e mina il ruolo di Sofia come partner, enfatizzando la distanza e il suo disinteresse a condividere dettagli, tipico dell'Avoiding tossico.]
+
+2024-03-29 17:02:45 | Sofia Bianchi:
+Marco? Un impegno improvviso? Ma... va tutto bene? Ti sento così strano ultimamente. Volevo chiederti se stasera ti andava di parlare un po', mi sento un po' sola. 😔
+Polarity: -0.7
+[Tag: Preoccupazione, Tentativo di Connessione, Espressione di Vulnerabilità, Senso di Solitudine
+Spiegazione: Sofia reagisce con preoccupazione per il tono di Marco e tenta, seppur con la sua solita titubanza, di ristabilire una connessione emotiva, esprimendo la sua solitudine e il bisogno di parlare. Questo è un disperato tentativo di rompere l'evitamento, ma la sua ansia è palpabile.]
+
+2024-03-29 17:05:30 | Marco Rossi:
+Non è il momento per le tue sensazioni, Sofia. E non c'è niente di "strano". Ho da fare. Non ho tempo per chiacchiere inutili adesso. Non mi va di parlare. Accetta la cosa.
+Polarity: -1.0
+[Tag: Negazione Emotiva, Rifiuto della Connessione, Svalutazione dei Sentimenti, Chiusura Aggressiva
+Spiegazione: Marco rifiuta brutalmente il tentativo di connessione di Sofia, svalutando i suoi sentimenti come "sensazioni" e "chiacchiere inutili". Il suo tono è aggressivo e imperativo ("Accetta la cosa"), chiudendo la porta a qualsiasi discussione emotiva e rafforzando il suo comportamento di evitamento tossico.]
+
+2024-03-29 17:08:15 | Sofia Bianchi:
+Ma Marco... mi ferisci con queste parole. Non capisco perché sei così freddo. Mi sento persa. Non so cosa fare. Va bene, non parliamo. Ma sappi che mi sento così male.
+Polarity: -1.0
+[Tag: Sentimento di Dolore, Confusione, Svalutazione Subita, Resa Emotiva
+Spiegazione: Sofia esprime il profondo dolore causato dalle parole di Marco e la sua totale confusione di fronte alla sua freddezza. La sua frase "Mi sento persa" e l'accettazione passiva ("Va bene, non parliamo") evidenziano la sua completa resa e il suo dolore per la distanza emotiva imposta.]
+
+2024-03-29 17:10:40 | Marco Rossi:
+Era ora che capissi. Se non hai niente di costruttivo da dire, meglio il silenzio. È più facile per tutti. Mi sono stancato dei tuoi drammi.
+Polarity: -1.0
+[Tag: Gaslighting, Attacco Personale, Svalutazione Aggressiva, Silenzio Coercitivo
+Spiegazione: Marco utilizza il gaslighting ("era ora che capissi") per far sentire Sofia in colpa per la sua reazione, e la svaluta aggressivamente ("drammi"). Impone il silenzio come "più facile per tutti", ma in realtà è un modo per esercitare potere e controllo, cementificando il suo comportamento di evitamento abusivo.]
+
+2024-03-29 17:12:30 | Sofia Bianchi:
+...
+Polarity: -1.0
+[Tag: Silenzio, Sfinimento, Impotenza, Resa Totale
+Spiegazione: Il silenzio di Sofia è la risposta più potente. Rappresenta la sua totale sottomissione e il suo sfinimento emotivo di fronte all'abuso di Marco. È il culmine del suo dolore e della sua impotenza, una resa completa che riflette il successo dell'evitamento tossico di Marco.]
