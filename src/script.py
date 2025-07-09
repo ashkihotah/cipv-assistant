@@ -48,9 +48,8 @@ class DatasetGenerator:
         self.rpm = 0
         self.tpm = 0
         os.makedirs(self.dataset_path, exist_ok=True)
-
     
-    def generate_personas(self):
+    def generate_personas(self, n_personas):
         with open("./rsc/prompts/generate_personas.md", "r") as f:
             os.makedirs(self.dataset_path + "/personas", exist_ok=True)
             personas_guidelines = f.read()
@@ -61,7 +60,7 @@ class DatasetGenerator:
                     system_instruction=personas_guidelines
                 )
             )
-            for _ in tqdm(range(N_PERSONAS), desc="Generating Personas"):
+            for _ in tqdm(range(n_personas), desc="Generating Personas"):
                 prompt = "generate"
                 self.update_rate_limit(prompt)
                 response = chat.send_message(
@@ -78,11 +77,11 @@ class DatasetGenerator:
         )
         self.tpm += token_count.total_tokens
         if self.rpm > rate_limits[self.choosen_model]["RPM"]:
-            print(f"Rate limit reached for {self.choosen_model}. Waiting for 60 seconds...")
+            print(f"RPM limit reached for {self.choosen_model}. Waiting for 60 seconds...")
             time.sleep(60)
             self.rpm = 1
         elif self.tpm > rate_limits[self.choosen_model]["TPM"]:
-            print(f"Token limit reached for {self.choosen_model}. Waiting for 60 seconds...")
+            print(f"TPM limit reached for {self.choosen_model}. Waiting for 60 seconds...")
             time.sleep(60)
             self.tpm = token_count
         else:
@@ -170,5 +169,5 @@ generator = DatasetGenerator(
     dataset_path=DATASET_PATH,
     choosen_model=CHOOSEN_MODEL
 )
-# generator.generate_personas()
+generator.generate_personas(N_PERSONAS)
 generator.generate_chats()
