@@ -108,7 +108,7 @@ class DatasetGenerator:
             system_prompt = f1.read()
             personas = os.listdir(self.dataset_path + "/personas")
             for persona in personas:
-                with open(self.dataset_path + "/personas/" + persona, "r") as f2:
+                with open(self.dataset_path + "/personas/" + persona, "r", encoding="utf-8") as f2:
                     persona_content = f2.read()
                     prompt = f"{system_prompt}\n{persona_content}"
                     self.update_rate_limit(prompt)
@@ -161,13 +161,13 @@ def extract_key_stages():
 timestamp = datetime.now().strftime("%Y-%m-%d-%H-%M-%S")
 
 N_PERSONAS = 10
-CHOOSEN_MODEL = "gemini-2.5-flash"
-# DATASET_PATH = "./rsc/" + CHOOSEN_MODEL + "-dataset" + "_" + timestamp
-DATASET_PATH = "./rsc/gemini-2.5-flash-dataset_2025-07-07-10-45-16"
+CHOOSEN_MODEL = "gemini-2.5-flash-lite-preview-06-17"
+#DATASET_PATH = "./rsc/" + CHOOSEN_MODEL + "-dataset" + "_" + timestamp
+DATASET_PATH = "./rsc/gemini-2.5-flash-lite-preview-06-17-dataset_2025-07-09-15-32-14"
 
 generator = DatasetGenerator(
     dataset_path=DATASET_PATH,
     choosen_model=CHOOSEN_MODEL
 )
-generator.generate_personas(N_PERSONAS)
+#generator.generate_personas(N_PERSONAS)
 generator.generate_chats()
