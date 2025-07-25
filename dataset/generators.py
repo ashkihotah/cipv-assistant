@@ -40,7 +40,7 @@ class DatasetGenerator:
         self.prefix_path = prefix_path
         self.suffix_path = suffix_path
         self.choosen_model = choosen_model
-        self.lang = lang
+        self.prompts_path = os.path.join(".", "rsc", "prompts", "n_polarities_to_1_explanation", lang)
         api_key = os.getenv("GEMINI_API_KEY")
         if not api_key:
             print("Error: GEMINI_API_KEY environment variable not set.")
@@ -52,9 +52,9 @@ class DatasetGenerator:
         os.makedirs(self.prefix_path, exist_ok=True)
     
     def get_personas_prompt(self):
-        path = os.path.join(".", "rsc", "prompts", f"{self.lang}_generate_personas.md")
+        path = os.path.join(self.prompts_path, f"generate_personas.md")
         with open(path, "r", encoding="utf-8") as f1:
-            path = os.path.join(".", "rsc", "prompts", "partial", f"{self.lang}_personas_guidelines.md")
+            path = os.path.join(self.prompts_path, "partial", f"personas_guidelines.md")
             with open(path, "r", encoding="utf-8") as f2:
                 personas_guidelines = f1.read()
                 personas_guidelines += f2.read()
@@ -62,9 +62,9 @@ class DatasetGenerator:
         raise Exception("Error reading personas prompt file!")
 
     def get_chats_prompt(self):
-        path = os.path.join(".", "rsc", "prompts", f"{self.lang}_generate_chat.md")
+        path = os.path.join(self.prompts_path, f"generate_chat.md")
         with open(path, "r", encoding="utf-8") as f1:
-            path = os.path.join(".", "rsc", "prompts", "partial", f"{self.lang}_relationship_guidelines.md")
+            path = os.path.join(self.prompts_path, "partial", f"relationship_guidelines.md")
             with open(path, "r", encoding="utf-8") as f2:
                 chats_prompt = f1.read()
                 chats_prompt += f2.read()
@@ -175,27 +175,28 @@ class DatasetGenerator:
                         )
 
     def extract_key_stages(self):
-        path = os.path.join(".", "rsc", "prompts", "partial", f"{self.lang}_relationship_guidelines.md")
+        path = os.path.join(self.prompts_path, "partial", f"relationship_guidelines.md")
         with open(path, "r", encoding="utf-8") as f:
             content = f.read()
             stages = re.findall(r"\#\# (?P<stage>[\w -]+)\n", content)
             return stages
 
-timestamp = datetime.now().strftime("%Y-%m-%d-%H-%M-%S")
+if __name__ == "__main__":
+    timestamp = datetime.now().strftime("%Y-%m-%d-%H-%M-%S")
 
-N_PERSONAS = 17
-CHOOSEN_MODEL = "gemini-2.5-flash"
+    N_PERSONAS = 17
+    CHOOSEN_MODEL = "gemini-2.5-flash"
 
-PREFIX_PATH = os.path.join(".", "out", "datasets", "gen2")
-# SUFFIX_PATH = CHOOSEN_MODEL + "_" + timestamp
-SUFFIX_PATH = "gemini-2.5-flash_2025-07-23-17-15-50"  # Use a fixed suffix for testing
+    PREFIX_PATH = os.path.join(".", "out", "datasets", "gen2")
+    # SUFFIX_PATH = CHOOSEN_MODEL + "_" + timestamp
+    SUFFIX_PATH = "gemini-2.5-flash_2025-07-23-17-15-50"  # Use a fixed suffix for testing
 
-generator = DatasetGenerator(
-    prefix_path=PREFIX_PATH,
-    suffix_path=SUFFIX_PATH,
-    choosen_model=CHOOSEN_MODEL,
-    lang="ITA"  # Change to "ENG" for English
-) 
-# print(generator.extract_key_stages())
-# generator.generate_personas(N_PERSONAS)
-generator.generate_chats()
+    generator = DatasetGenerator(
+        prefix_path=PREFIX_PATH,
+        suffix_path=SUFFIX_PATH,
+        choosen_model=CHOOSEN_MODEL,
+        lang="ITA"  # Change to "ENG" for English
+    ) 
+    print(generator.extract_key_stages())
+    # generator.generate_personas(N_PERSONAS)
+    # generator.generate_chats()
