@@ -178,10 +178,8 @@ class DatasetGenerator:
         path = os.path.join(".", "rsc", "prompts", "partial", f"{self.lang}_relationship_guidelines.md")
         with open(path, "r", encoding="utf-8") as f:
             content = f.read()
-            stages = re.findall(r"\#\# .*: (?P<stage>.+)\n", content)
+            stages = re.findall(r"\#\# (?P<stage>[\w -]+)\n", content)
             return stages
-
-
 
 timestamp = datetime.now().strftime("%Y-%m-%d-%H-%M-%S")
 

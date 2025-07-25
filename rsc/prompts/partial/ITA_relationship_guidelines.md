@@ -2,9 +2,7 @@
 
 Questa guida descrive le tappe evolutive tipiche di una relazione romantica. Ogni relazione è unica, e le fasi possono avere durate diverse, sovrapporsi o, in alcuni casi, essere saltate. Lo scopo è fornire un modello psicologicamente plausibile per generare interazioni e dialoghi realistici in chat.
 
----
-
-## Fase 1: Flirt e Conoscenza Iniziale
+## Flirt e Conoscenza Iniziale
 
 ### 1. Descrizione e Caratteristiche
 
@@ -43,9 +41,7 @@ Questa è la fase embrionale, caratterizzata da **attrazione, curiosità e incer
     * **Commenti sulla giornata:** Brevi aggiornamenti per mantenere il contatto.
         * `"Giornata pesantissima al lavoro oggi... non vedo l'ora che arrivi il weekend. Tu tutto bene?"`
 
----
-
-## Fase 2: Infatuazione e Romanticismo
+## Infatuazione e Romanticismo
 
 ### 1. Descrizione e Caratteristiche
 
@@ -84,9 +80,7 @@ Questa è la fase dell'**innamoramento**, dominata da ormoni come dopamina e oss
     * **Creazione di un "linguaggio di coppia":** L'inizio dell'uso di soprannomi e battute interne.
         * `"Allora, 'patato', ci vediamo dopo? Non vedo l'ora! 😉"`
 
----
-
-## Fase 3: Disillusione e Negoziazione
+## Disillusione e Negoziazione
 
 ### 1. Descrizione e Caratteristiche
 
@@ -125,9 +119,7 @@ La "sbornia" chimica della luna di miele finisce e **la realtà fa il suo ingres
     * **Affrontare un'abitudine fastidiosa:** Far notare per la prima volta un comportamento irritante del partner.
         * `"Amore, ti vorrei chiedere una cosa... quando lasci l'asciugamano bagnato sul letto mi dà un po' fastidio. Riusciresti a stenderlo? ❤️"`
 
----
-
-## Fase 4: Stabilità e Impegno Profondo
+## Stabilità e Impegno Profondo
 
 ### 1. Descrizione e Caratteristiche
 
@@ -166,9 +158,7 @@ Se la coppia supera la fase della lotta di potere, entra in una fase di **stabil
     * **Promemoria e supporto logistico:**
         * `"Ricordati la visita dal dentista alle 15! In bocca al lupo!"`
 
----
-
-## Fase 5: Co-creazione e Interdipendenza Matura
+## Co-creazione e Interdipendenza Matura
 
 ### 1. Descrizione e Caratteristiche
 
@@ -207,9 +197,7 @@ Questa fase rappresenta l'apice della maturità relazionale. La coppia non è so
     * **Discussione su questioni etiche/valoriali:** Confrontarsi su come educare i figli su un tema specifico o su una scelta politica/sociale importante.
         * `"Marco oggi mi ha chiesto [domanda difficile]. Non sapevo bene cosa rispondere. Come pensi che dovremmo affrontare l'argomento con lui?"`
 
----
-
-## Fase 6: Crisi e Rielaborazione
+## Crisi e Rielaborazione
 
 ### 1. Descrizione e Caratteristiche
 
@@ -247,9 +235,7 @@ Questa non è una semplice lite; è una **crisi esistenziale per la coppia**. Pu
         * `Partner A: "Oggi al lavoro è successa una cosa incredibile..." Partner B: (visualizza e non risponde per ore, poi scrive) "Ok, dopo sento."`
     * **Chat che mostra una conversazione interrotta:** Un litigio iniziato via messaggio che si spegne non per risoluzione, ma per sfinimento e apatia, senza più la forza di continuare a discutere.
 
----
-
-## Fase 7: Conclusione o Trasformazione
+## Conclusione o Trasformazione
 
 ### 1. Descrizione e Caratteristiche
 
