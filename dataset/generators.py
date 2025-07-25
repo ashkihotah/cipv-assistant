@@ -35,12 +35,10 @@ rate_limits = {
     }
 }
 
-class DatasetGenerator:
-    def __init__(self, prefix_path, suffix_path, choosen_model, lang="ITA"):
-        self.prefix_path = prefix_path
-        self.suffix_path = suffix_path
+class Generator:
+
+    def __init__(self, choosen_model):
         self.choosen_model = choosen_model
-        self.prompts_path = os.path.join(".", "rsc", "prompts", "n_polarities_to_1_explanation", lang)
         api_key = os.getenv("GEMINI_API_KEY")
         if not api_key:
             print("Error: GEMINI_API_KEY environment variable not set.")
@@ -49,51 +47,7 @@ class DatasetGenerator:
         self.client = genai.Client()
         self.rpm = 0
         self.tpm = 0
-        os.makedirs(self.prefix_path, exist_ok=True)
     
-    def get_personas_prompt(self):
-        path = os.path.join(self.prompts_path, f"generate_personas.md")
-        with open(path, "r", encoding="utf-8") as f1:
-            path = os.path.join(self.prompts_path, "partial", f"personas_guidelines.md")
-            with open(path, "r", encoding="utf-8") as f2:
-                personas_guidelines = f1.read()
-                personas_guidelines += f2.read()
-                return personas_guidelines
-        raise Exception("Error reading personas prompt file!")
-
-    def get_chats_prompt(self):
-        path = os.path.join(self.prompts_path, f"generate_chat.md")
-        with open(path, "r", encoding="utf-8") as f1:
-            path = os.path.join(self.prompts_path, "partial", f"relationship_guidelines.md")
-            with open(path, "r", encoding="utf-8") as f2:
-                chats_prompt = f1.read()
-                chats_prompt += f2.read()
-                return chats_prompt
-
-    def generate_personas(self, n_personas):
-        personas_guidelines = self.get_personas_prompt()
-        partial_path = os.path.join(self.prefix_path, "personas")
-        os.makedirs(partial_path, exist_ok=True)
-        total_path = os.path.join(partial_path, self.suffix_path)
-        os.makedirs(total_path, exist_ok=True)
-        self.update_rate_limit(personas_guidelines)
-        chat = self.client.chats.create(
-            model=self.choosen_model,
-            config=types.GenerateContentConfig(
-                system_instruction=personas_guidelines
-            )
-        )
-        for _ in tqdm(range(n_personas), desc="Generating Personas"):
-            prompt = "generate"
-            self.update_rate_limit(prompt)
-            response = chat.send_message(
-                prompt
-            )
-            timestamp = datetime.now().strftime("%Y-%m-%d-%H-%M-%S")
-            path = os.path.join(total_path, f"{timestamp}.md")
-            with open(path, "w", encoding="utf-8") as response_file:
-                response_file.write(response.text)
-
     def update_rate_limit(self, prompt):
         token_count = self.client.models.count_tokens(
             model=self.choosen_model, contents=prompt
@@ -110,9 +64,56 @@ class DatasetGenerator:
         else:
             self.rpm += 1
 
-    def generate_chat(self, total_path, chat, polarity_mean, polarity_variance, persona, stage, polarity):
-        persona = persona.split(".")[0]  # Remove the file extension
-        dir_path = os.path.join(total_path, persona)
+class CouplesGenerator(Generator):
+    def __init__(self, choosen_model, lang="ITA"):
+        super().__init__(choosen_model=choosen_model)
+        self.prompts_path = os.path.join(".", "rsc", "prompts", lang)
+    
+    def get_couples_prompt(self):
+        path = os.path.join(self.prompts_path, f"generate_couples.md")
+        with open(path, "r", encoding="utf-8") as f1:
+            path = os.path.join(self.prompts_path, "partial", "personas_guidelines.md")
+            with open(path, "r", encoding="utf-8") as f2:
+                return f1.read() + '\n' + f2.read()
+        raise Exception("Error reading couples prompt file!")
+
+    def generate(self, n_couples, out_path):
+        couples_guidelines = self.get_couples_prompt()
+        os.makedirs(out_path, exist_ok=True)
+        self.update_rate_limit(couples_guidelines)
+        chat = self.client.chats.create(
+            model=self.choosen_model,
+            config=types.GenerateContentConfig(
+                system_instruction=couples_guidelines
+            )
+        )
+        for _ in tqdm(range(n_couples), desc="Generating Couples"):
+            prompt = "generate"
+            self.update_rate_limit(prompt)
+            response = chat.send_message(
+                prompt
+            )
+            timestamp = datetime.now().strftime("%Y-%m-%d-%H-%M-%S")
+            path = os.path.join(out_path, f"{timestamp}.md")
+            with open(path, "w", encoding="utf-8") as response_file:
+                response_file.write(response.text)
+
+class CouplesToChatGenerator(Generator):
+    def __init__(self, choosen_model, couples_path, lang="ITA"):
+        super().__init__(choosen_model=choosen_model)
+        self.prompts_path = os.path.join(".", "rsc", "prompts", lang)
+        self.couples_path = couples_path
+
+    def get_chats_prompt(self):
+        path = os.path.join(self.prompts_path, f"generate_chat.md")
+        with open(path, "r", encoding="utf-8") as f1:
+            path = os.path.join(self.prompts_path, "partial", f"relationship_guidelines.md")
+            with open(path, "r", encoding="utf-8") as f2:
+                return f1.read() + '\n' + f2.read()
+
+    def generate_chat(self, out_path, chat, polarity_mean, polarity_variance, couple, stage, polarity):
+        couple = couple.split(".")[0]  # Remove the file extension
+        dir_path = os.path.join(out_path, couple)
         os.makedirs(dir_path, exist_ok=True)
         path = os.path.join(dir_path, f"{stage} ({polarity}).txt")
         if not os.path.exists(path):
@@ -122,22 +123,18 @@ class DatasetGenerator:
             response = f"Stage: {stage}\nChat Polarity Mean: {polarity_mean}\nChat Polarity Variance: {polarity_variance}\n" + response.text
             with open(path, "w", encoding="utf-8") as response_file:
                 response_file.write(response)
-        else:
-            print(f"Chat file {path} already exists. Skipping generation!")
+        # else:
+        #     print(f"Chat file {path} already exists. Skipping generation!")
 
-    def generate_chats(self):
-        system_prompt = self.get_chats_prompt()
-        partial_path = os.path.join(self.prefix_path, "chats")
-        os.makedirs(partial_path, exist_ok=True)
-        total_path = os.path.join(partial_path, self.suffix_path)
-        os.makedirs(total_path, exist_ok=True)
+    def generate(self, out_path):
+        chat_prompt = self.get_chats_prompt()
+        os.makedirs(out_path, exist_ok=True)
         stages = self.extract_key_stages()
-        personas_path = os.path.join(self.prefix_path, "personas", self.suffix_path)
-        personas = os.listdir(personas_path)
-        for persona in personas:
-            with open(os.path.join(personas_path, persona), "r", encoding="utf-8") as f2:
-                persona_content = f2.read()
-                prompt = f"{system_prompt}\n{persona_content}"
+        couples = os.listdir(self.couples_path)
+        for couple in couples:
+            with open(os.path.join(self.couples_path, couple), "r", encoding="utf-8") as f2:
+                couple_content = f2.read()
+                prompt = f"{chat_prompt}\n{couple_content}"
                 # self.update_rate_limit(prompt)
                 chat = self.client.chats.create(
                     model=self.choosen_model,
@@ -145,31 +142,31 @@ class DatasetGenerator:
                         system_instruction=prompt
                     )
                 )
-                for stage in tqdm(stages, desc=f"Generating Chats for couple of personas in {persona}"):
+                for stage in tqdm(stages, desc=f"Generating Chats for couple {couple}"):
                     self.generate_chat(
-                        total_path,
+                        out_path,
                         chat,
                         round(random.uniform(0.35, 1), 2),
                         round(random.uniform(0, 1), 2),
-                        persona,
+                        couple,
                         stage,
                         "healthy"
                     )
                     self.generate_chat(
-                        total_path,
+                        out_path,
                         chat,
                         round(random.uniform(-0.35, 0.35), 2),
                         round(random.uniform(0, 1), 2),
-                        persona,
+                        couple,
                         stage,
                         "neutral"
                     )
                     self.generate_chat(
-                            total_path,
+                            out_path,
                             chat,
                             round(random.uniform(-1, -0.35), 2),
                             round(random.uniform(0, 1), 2),
-                            persona,
+                            couple,
                             stage,
                             "toxic"
                         )
@@ -184,19 +181,26 @@ class DatasetGenerator:
 if __name__ == "__main__":
     timestamp = datetime.now().strftime("%Y-%m-%d-%H-%M-%S")
 
-    N_PERSONAS = 17
-    CHOOSEN_MODEL = "gemini-2.5-flash"
+    N_PERSONAS = 10
+    CHOOSEN_MODEL = "gemini-2.5-pro"
 
-    PREFIX_PATH = os.path.join(".", "out", "datasets", "gen2")
+    OUT_DIR = os.path.join(".", "out", "datasets", "gen2")
     # SUFFIX_PATH = CHOOSEN_MODEL + "_" + timestamp
-    SUFFIX_PATH = "gemini-2.5-flash_2025-07-23-17-15-50"  # Use a fixed suffix for testing
+    SUFFIX_PATH = "gemini-2.5-pro_2025-07-25-13-12-37"
 
-    generator = DatasetGenerator(
-        prefix_path=PREFIX_PATH,
-        suffix_path=SUFFIX_PATH,
+    COUPLES_PATH = os.path.join(OUT_DIR, "couples", SUFFIX_PATH)
+    CHATS_PATH = os.path.join(OUT_DIR, "chats", SUFFIX_PATH)
+
+    couples_generator = CouplesGenerator(
         choosen_model=CHOOSEN_MODEL,
         lang="ITA"  # Change to "ENG" for English
-    ) 
-    print(generator.extract_key_stages())
-    # generator.generate_personas(N_PERSONAS)
-    # generator.generate_chats()
+    )
+
+    chats_generator = CouplesToChatGenerator(
+        couples_path=COUPLES_PATH,
+        choosen_model=CHOOSEN_MODEL,
+        lang="ITA"  # Change to "ENG" for English
+    )
+
+    # couples_generator.generate(N_PERSONAS, COUPLES_PATH)
+    chats_generator.generate(CHATS_PATH)
