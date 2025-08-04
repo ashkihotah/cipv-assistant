@@ -385,13 +385,14 @@ class CouplesToExplainedChatGenerator():
 if __name__ == "__main__":
     timestamp = datetime.now().strftime("%Y-%m-%d-%H-%M-%S")
 
-    N_PERSONAS = 10
-    CHOOSEN_MODEL = "gemini-2.5-pro"
-    API_KEY_ENV_VAR = "GEMINI_API_KEY_2"
+    N_PERSONAS = 2
+    CHOOSEN_MODEL = "gemini-2.5-flash"
+    API_KEY_ENV_VAR = "GEMINI_API_KEY_1"
     PRED_TYPE = "toxicity"  # Change to "sentiment" or "toxicity" as needed
-    # SUFFIX_PATH = CHOOSEN_MODEL + "_" + timestamp
-    SUFFIX_PATH = "gemini-2.0-flash-dataset_2025-07-09-15-56-22"
+    SUFFIX_PATH = timestamp + '_' + CHOOSEN_MODEL
+    # SUFFIX_PATH = "gemini-2.0-flash-dataset_2025-07-09-15-56-22"
     OUT_DIR = os.path.join(".", "out", "datasets", PRED_TYPE, "gen1")
+    os.makedirs(OUT_DIR, exist_ok=True)
 
     COUPLES_PATH = os.path.join(OUT_DIR, "couples", SUFFIX_PATH)
     CHATS_PATH = os.path.join(OUT_DIR, "chats", SUFFIX_PATH)
@@ -406,31 +407,30 @@ if __name__ == "__main__":
 
     limits_handler = LimitsHandler(client, CHOOSEN_MODEL)
 
-    # couples_generator = CouplesGenerator(
-    #     choosen_model=CHOOSEN_MODEL,
-    #     lang="ITA",
-    #     client=client,
-    #     pred_type=PRED_TYPE,
-    #     limits_handler=limits_handler
-    # )
-    # couples_generator.generate(N_PERSONAS, COUPLES_PATH)
+    couples_generator = CouplesGenerator(
+        choosen_model=CHOOSEN_MODEL,
+        lang="ITA",
+        client=client,
+        limits_handler=limits_handler
+    )
+    couples_generator.generate(N_PERSONAS, COUPLES_PATH)
 
-    # chats_generator = CouplesToExplainedChatGenerator(
-    #     couples_path=COUPLES_PATH,
-    #     choosen_model=CHOOSEN_MODEL,
-    #     lang="ITA",
-    #     client=client,
-    #     pred_type=PRED_TYPE,
-    #     limits_handler=limits_handler
-    # )
-    # chats_generator.generate(CHATS_PATH)
-
-    explanations_generator = ChatToExplanationGenerator(
-        chat_path=CHATS_PATH,
+    chats_generator = CouplesToExplainedChatGenerator(
+        couples_path=COUPLES_PATH,
         choosen_model=CHOOSEN_MODEL,
         lang="ITA",
         client=client,
         pred_type=PRED_TYPE,
         limits_handler=limits_handler
     )
-    explanations_generator.generate(EXPLANATIONS_PATH)
+    chats_generator.generate(CHATS_PATH)
+
+    # explanations_generator = ChatToExplanationGenerator(
+    #     chat_path=CHATS_PATH,
+    #     choosen_model=CHOOSEN_MODEL,
+    #     lang="ITA",
+    #     client=client,
+    #     pred_type=PRED_TYPE,
+    #     limits_handler=limits_handler
+    # )
+    # explanations_generator.generate(EXPLANATIONS_PATH)
