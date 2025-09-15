@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Message Simulator with Inference Tools</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+    <div id="errorModal" class="error-modal">
+        <div class="error-modal-content">
+            <div class="error-icon">⚠️</div>
+            <div class="error-message" id="errorMessage">An error occurred</div>
+            <button class="error-ok-btn" onclick="closeErrorModal()">OK</button>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="header">
+            <h1>💬 Message Simulator</h1>
+            <p>Simulate conversations between two people and run AI inference tools on selected messages</p>
+        </div>
+
+        <div class="main-content">
+            <div class="chat-section">
+                <div class="chat-container" id="chatContainer">
+                    <div class="empty-chat">No messages yet. Start a conversation!</div>
+                </div>
+
+                <div class="input-section">
+                    <div class="person-selector">
+                        <label>Send message as:</label>
+                        <div class="radio-group">
+                            <label>
+                                <input type="radio" name="person" value="person-A-name-input" checked>
+                                <input type="text" id="person-A-name-input" class="person-name-input" value="Person A" data-old-value="Person A" onchange="updatePersonValue(this)">
+                            </label>
+                            <label>
+                                <input type="radio" name="person" value="person-B-name-input">
+                                <input type="text" id="person-B-name-input" class="person-name-input" value="Person B" data-old-value="Person B" onchange="updatePersonValue(this)">
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="message-input-group">
+                        <!-- <label for="messageInput">Message:</label> -->
+                        <textarea id="messageInput" rows="2" placeholder="Type your message here..."></textarea>
+                    </div>
+
+                    <button class="send-btn" onclick="sendMessage()">
+                        Send 📤
+                    </button>
+                </div>
+            </div>
+
+            <div class="controls-section">
+                <h3>Selection Tools</h3>
+                <div class="button-group">
+                    <button class="control-btn selection-btn" onclick="selectAll()">
+                        Select All
+                    </button>
+                    <button class="control-btn selection-btn" onclick="clearSelection()">
+                        Clear Selection
+                    </button>
+                </div>
+
+                <h3>Inference Tools</h3>
+                <p style="font-size: 12px; color: #666; margin-bottom: 15px;">
+                    <em>Select messages first, then run analysis</em>
+                </p>
+
+                <div class="settings-section">
+                
+                    <div class="ml-settings-section">
+                        <h4>Chat Classification Settings</h4>
+                        <div class="ml-settings-grid">
+                            <div class="ml-column">
+                                <!-- <h5>Task</h5> -->
+                                <!-- <div class="radio-group-vertical">
+                                    <label>
+                                        <input type="radio" name="task" value="toxicity" checked>
+                                        Toxicity
+                                    </label>
+                                    <label>
+                                        <input type="radio" name="task" value="sentiment">
+                                        Sentiment
+                                    </label>
+                                </div> -->
+                                
+                                <div class="radio-group-vertical">
+                                    <h5>Labels</h5>
+                                    <label>
+                                        <input type="radio" name="labels" value="binary" checked>
+                                        Binary
+                                    </label>
+                                    <label>
+                                        <input type="radio" name="labels" value="multiclass">
+                                        Multiclass
+                                    </label>
+                                </div>
+                            </div>
+
+                            <div class="ml-column">
+                                <h5>Preprocessor</h5>
+                                <div class="radio-group-vertical">
+                                    <label>
+                                        <input type="radio" name="preprocessor" value="SpacyPosNerPreprocessor" checked>
+                                        POS, NER & Lemming BoW
+                                    </label>
+                                    <label>
+                                        <input type="radio" name="preprocessor" value="SpacyPosNerPreprocessorWithStemming">
+                                        POS, NER & Stemming BoW
+                                    </label>
+                                </div>
+                            </div>
+
+                            <div class="ml-column">
+                                <h5>Model</h5>
+                                <div class="radio-group-vertical">
+                                    <label>
+                                        <input type="radio" name="chat-classification-model" value="SVC" checked>
+                                        SVC
+                                    </label>
+                                    <label>
+                                        <input type="radio" name="chat-classification-model" value="MultinomialNB">
+                                        Naive Bayes
+                                    </label>
+                                    <label>
+                                        <input type="radio" name="chat-classification-model" value="LogisticRegression">
+                                        Logistic Regression
+                                    </label>
+                                    <label>
+                                        <input type="radio" name="chat-classification-model" value="dbmdz-bert-base-italian-cased-Sep_True-Type_True">
+                                        BERT + Sep + Type
+                                    </label>
+                                    <label>
+                                        <input type="radio" name="chat-classification-model" value="dbmdz-bert-base-italian-cased-Sep_False-Type_False">
+                                        BERT No Sep & Type
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="ml-settings-section">
+                        <h4>Messages Regression + Explanation Settings</h4>
+                        <div class="ml-settings-grid">
+                            <div class="ml-column">
+                                <h5>Regression</h5>
+                                <div class="radio-group-vertical">
+                                    <label>
+                                        <input type="radio" name="message-regression-model" value="dbmdz-bert-base-italian-cased-single_target" checked>
+                                        BERT
+                                    </label>
+                                    <label>
+                                        <input type="radio" name="message-regression-model" value="dbmdz-bert-base-italian-cased-single_target-user_type_ids">
+                                        BERT + User Types
+                                    </label>
+                                </div>
+                            </div>
+
+                            <div class="ml-column">
+                                <h5>Explanation</h5>
+                                <div class="radio-group-vertical">
+                                    <label>
+                                        <input type="radio" name="chat-explanation-model" value="latest" checked>
+                                        BART
+                                    </label>
+                                </div>
+                            </div>
+
+                            <div class="ml-column">
+                                <h5>Both</h5>
+                                <div class="radio-group-vertical">
+                                    <label>
+                                        <input type="radio" name="messages-regression-explanation-model" value="EuclideanLoss-MSELoss-single_sep_False" checked>
+                                        Multi-Task BART + 2 Sep + EuclideanMSE
+                                    </label>
+                                    <label>
+                                        <input type="radio" name="messages-regression-explanation-model" value="UncertaintyLoss-MSELoss-single_sep_False" checked>
+                                        Multi-Task BART + 2 Sep + UncertaintyMSE
+                                    </label>
+                                    <label>
+                                        <input type="radio" name="messages-regression-explanation-model" value="UncertaintyLoss-SmoothL1Loss-single_sep_False" checked>
+                                        Multi-Task BART + 2 Sep + UncertaintyL1
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <button class="control-btn inference-btn" onclick="runAnalysis('chat-classification')">
+                    Classify the Toxicity Level of selected chat<br>
+                </button>
+
+                <button class="control-btn inference-btn" onclick="runAnalysis('chat-explanation')">
+                    Explain the Toxicity Level<br>
+                </button>
+
+                <button class="control-btn inference-btn" onclick="runAnalysis('message-regression')">
+                    Compute Messages Toxicity Polarities<br>
+                </button>
+
+                <button class="control-btn inference-btn" onclick="runAnalysis('messages-regression-explanation')">
+                    Compute Messages Toxicity Polarities and Explanations<br>
+                </button>
+
+                <div class="results-container">
+                    <div class="results-content" id="resultsContent">
+                        <em>Analysis results will appear here</em>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="tip">
+            💡 <strong>Tip:</strong> Click on message bubbles to select them. Selected messages will have a light blue border.
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>

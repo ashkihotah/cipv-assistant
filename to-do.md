@@ -1,3 +1,21 @@
+1. cost sensitive learning
+2. baseline con random predictor o altri tipi di baselines
+3. kappa statistic con una baseline
+4. plottare le curve roc, auc, precision-recall, etc.
+
+5. BERT: aggiungere le varie altre loss per regressione e il correlation coefficient
+
+# Altri possibili modelli classici di machine learning da poter usare
+
+1. K-Nearest Neighbors (KNN), Edited Nearest Neighbors (ENN), Condensed Nearest Neighbors (CNN). Possibili idee:
+   1. usare clustering per creare rappresentanti di cluster e diminuire il numero di campioni da usare per l'inferenza e il training
+2. Logistic Regression o Multi-Layer Perceptron (MLP) con custom cost loss training
+
+# Altre feature engineering e pre-processing da poter fare
+
+1. (Text -> Pre-Processed Text -> Mean word2vec embedding) (offline) -> Model (online)
+2. (Text -> Knowledge Graph -> KG Embeddings) (offline) -> Model (online)
+
 # All Possible Dataset Generation Choices
 
 p1 p2 # persone
@@ -9,44 +27,6 @@ b1 b2 # backgrounds
 chat
 
 generare nuove chat in cui non si da una spiegazione ad ogni messaggio ma si da una spiegazione all'intera chat dove vengono spiegate le polarità dei messaggi e le polarità della relazione tra le due persone.
-
-# All Possible Task Design Choices
-
-## Message Token Separators
-
-1. Only a unified "[SEP]" token
-2. "[USR1]" and "[USR2]" tokens to separate messages from different users
-**POSSIBLE ADDITIONAL IDEA**: Using `token_type_ids` with additional embeddings (other than token and positional embeddings like the ones in every transformer architecture) to distinguish between user 1 messages, with 0, and user 2 messages, with 1
-
-## Task Output Choices
-
-predictions    explanations   is_feasible
-1              1              1/2 x
-N              N              1
-N              1              0   x
-1              N              1/2 x
-
-Siccome la predizione è contestualizzata all'intera chat, molto probabilmente è più conveniente dare una singola spiegazione per tutte le predizioni o in generale per l'intera chat invece che suddividerla per ogni singolo messaggio. Questa supposizione è anche supportata dal fatto che modelli tipo BART sono stati progettati per generare spiegazioni contestualizzate all'intera sequenza di input e lavorerebbero meglio in questi contesti. Si sconsiglia dunque di seguire tutte le strade che prevedono di dare una spiegazione per ogni singolo messaggio. Riteniamo, dunque, che spiegazioni localizzate non abbiano senso.
-
-## Contextualized Prediction for each message in a chat
-
-1. Multiple Predictions at Once
-   1. Input: chat with messages separated by separation methods
-   2. Output: predictions for each separated message
-2. Only One Prediction at Once
-   1. Input: chat with messages separated by separation methods and with a target "[CLS]" token positioned at the message to predict
-   2. Output: prediction for that message
-
-## Possible Models
-
-1. BERT for only predictions: classic BERT model with an additional regression/classification head. Separation and target tokens are used directly from the loaded vocabulary embeddings and they are not new. They're are simply used and positioned in different ways. Possible checkpoints are:
-   1. dbmdz/bert-base-cased
-   2. dbmdz/bert-base-italian-xxl-cased
-2. BART for only explanations: classic BART model with or without additional separation and target tokens. The target token is used to position the explanation in the output sequence. Possible checkpoints are:
-   1. morenolq/bart-it
-3. (Multi-Task) BART: pre-trained BART with additional embeddings and with an additional regression/classification head. Possible checkpoints are:
-   1. facebook/mbart-large-50
-   2. morenolq/bart-it
 
 # Idee
 

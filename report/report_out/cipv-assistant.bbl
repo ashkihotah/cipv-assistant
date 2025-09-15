@@ -1,0 +1,95 @@
+\begin{thebibliography}{9}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Inproceedings
+\bibitem[{Davidson et~al.(2017)Davidson, Warmsley, Macy, and
+  Weber}]{davidson2017automated}
+\bibinfo{author}{T.~Davidson}, \bibinfo{author}{D.~Warmsley},
+  \bibinfo{author}{M.~Macy}, \bibinfo{author}{I.~Weber},
+\newblock \bibinfo{title}{Automated hate speech detection and the problem of
+  offensive language},
+\newblock in: \bibinfo{booktitle}{Proceedings of the 11th International
+  Conference on Web and Social Media (ICWSM)}, \bibinfo{year}{2017}, pp.
+  \bibinfo{pages}{512--515}.
+%Type = Article
+\bibitem[{Das(2018)}]{das2018improved}
+\bibinfo{author}{B.~Das},
+\newblock \bibinfo{title}{An improved text sentiment classification model using
+  tf-idf},
+\newblock \bibinfo{journal}{arXiv preprint arXiv:1803.06750}
+  (\bibinfo{year}{2018}).
+%Type = Article
+\bibitem[{Zhang et~al.(2018)Zhang, Robinson, and Tepper}]{zhang2018detecting}
+\bibinfo{author}{Z.~Zhang}, \bibinfo{author}{D.~Robinson},
+  \bibinfo{author}{J.~Tepper},
+\newblock \bibinfo{title}{Detecting hate speech and offensive language on
+  twitter},
+\newblock \bibinfo{journal}{arXiv preprint arXiv:1809.04444}
+  (\bibinfo{year}{2018}).
+%Type = Inproceedings
+\bibitem[{Devlin et~al.(2019)Devlin, Chang, Lee, and
+  Toutanova}]{devlin2019bert}
+\bibinfo{author}{J.~Devlin}, \bibinfo{author}{M.-W. Chang},
+  \bibinfo{author}{K.~Lee}, \bibinfo{author}{K.~Toutanova},
+\newblock \bibinfo{title}{Bert: Pre-training of deep bidirectional transformers
+  for language understanding},
+\newblock in: \bibinfo{booktitle}{Proceedings of NAACL-HLT},
+  \bibinfo{year}{2019}.
+%Type = Inproceedings
+\bibitem[{Vidgen and Yasseri(2021)}]{vidgen2021learning}
+\bibinfo{author}{B.~Vidgen}, \bibinfo{author}{T.~Yasseri},
+\newblock \bibinfo{title}{Learning from the worst: Dynamically generated
+  datasets to improve online hate detection},
+\newblock in: \bibinfo{booktitle}{Proceedings of the 14th ACM Web Science
+  Conference 2022}, \bibinfo{year}{2021}.
+%Type = Inproceedings
+\bibitem[{Pak and Paroubek(2010)}]{pak2010twitter}
+\bibinfo{author}{A.~Pak}, \bibinfo{author}{P.~Paroubek},
+\newblock \bibinfo{title}{Twitter as a corpus for sentiment analysis and
+  opinion mining},
+\newblock in: \bibinfo{booktitle}{Proceedings of the Seventh International
+  Conference on Language Resources and Evaluation (LREC'10)},
+  \bibinfo{year}{2010}, pp. \bibinfo{pages}{1320--1326}.
+%Type = Inproceedings
+\bibitem[{Riedl et~al.(2021)Riedl, Biemann, Eckle-Kohler, and
+  Gurevych}]{riedl2021explainable}
+\bibinfo{author}{M.~Riedl}, \bibinfo{author}{C.~Biemann},
+  \bibinfo{author}{J.~Eckle-Kohler}, \bibinfo{author}{I.~Gurevych},
+\newblock \bibinfo{title}{Explainable nlp: A survey},
+\newblock in: \bibinfo{booktitle}{Proceedings of the 16th Conference of the
+  European Chapter of the Association for Computational Linguistics: Tutorial
+  Abstracts}, \bibinfo{year}{2021}.
+%Type = Inproceedings
+\bibitem[{Lewis et~al.(2019)Lewis, Liu, Goyal, Ghazvininejad, Mohamed, Levy,
+  Stoyanov, and Zettlemoyer}]{lewis2019bart}
+\bibinfo{author}{M.~Lewis}, \bibinfo{author}{Y.~Liu},
+  \bibinfo{author}{N.~Goyal}, \bibinfo{author}{M.~Ghazvininejad},
+  \bibinfo{author}{A.~Mohamed}, \bibinfo{author}{O.~Levy},
+  \bibinfo{author}{V.~Stoyanov}, \bibinfo{author}{L.~Zettlemoyer},
+\newblock \bibinfo{title}{Bart: Denoising sequence-to-sequence pre-training for
+  natural language generation, translation, and comprehension},
+\newblock in: \bibinfo{booktitle}{Proceedings of ACL}, \bibinfo{year}{2019}.
+%Type = Inproceedings
+\bibitem[{Raffel et~al.(2020)Raffel, Shazeer, Roberts, Lee, Narang, Matena,
+  Zhou, Li, and Liu}]{raffel2020exploring}
+\bibinfo{author}{C.~Raffel}, \bibinfo{author}{N.~Shazeer},
+  \bibinfo{author}{A.~Roberts}, \bibinfo{author}{K.~Lee},
+  \bibinfo{author}{S.~Narang}, \bibinfo{author}{M.~Matena},
+  \bibinfo{author}{Y.~Zhou}, \bibinfo{author}{W.~Li}, \bibinfo{author}{P.~J.
+  Liu},
+\newblock \bibinfo{title}{Exploring the limits of transfer learning with a
+  unified text-to-text transformer},
+\newblock in: \bibinfo{booktitle}{Journal of Machine Learning Research},
+  \bibinfo{year}{2020}.
+
+\end{thebibliography}
