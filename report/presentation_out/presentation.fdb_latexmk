@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1757867932.99436 "presentation.tex" "presentation_out/presentation.pdf" "presentation" 1757867937.7561 0
+["pdflatex"] 1758117158.93251 "presentation.tex" "presentation_out/presentation.pdf" "presentation" 1758117165.49276 0
   "C:/Users/nicol/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1757861623 593554 946d284f6d4eeed3512e93811385523b ""
   "C:/Users/nicol/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1727515355 24225046 82860783ce0302f1a99068c468f1bde2 ""
   "C:/Users/nicol/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -27,6 +27,7 @@
   "C:/Users/nicol/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmtt10.tfm" 1136765053 768 1321e9409b4137d6fb428ac9dc956269 ""
   "C:/Users/nicol/AppData/Local/Programs/MiKTeX/fonts/tfm/public/sansmathaccent/mathkerncmssi10.tfm" 1363549528 1696 aaa5bbd1f47f001247d42218ce371101 ""
   "C:/Users/nicol/AppData/Local/Programs/MiKTeX/fonts/tfm/public/sansmathaccent/mathkerncmssi8.tfm" 1363549514 1676 fb6c6a335484692abff897d6e8965829 ""
+  "C:/Users/nicol/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb" 1247596667 30251 6afa5cb1d0204815a708a080681d4674 ""
   "C:/Users/nicol/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247596667 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "C:/Users/nicol/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb" 1247596666 24457 5cbb7bdf209d5d1ce9892a9b80a307cc ""
   "C:/Users/nicol/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb" 1247596666 24393 3b7eb51a67a0a62aec5849271bdb9c2e ""
@@ -206,11 +207,12 @@
   "C:/Users/nicol/AppData/Local/Programs/MiKTeX/tex/latex/translator/translator.sty" 1622471510 8765 56d370785f0143111ff9898b5adfe08e ""
   "C:/Users/nicol/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/nicol/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "presentation.tex" 1757867928 15446 5973a0dd202ff9882e7314312d65445e ""
-  "presentation_out/presentation.aux" 1757867937 3989 7444c5daea35df4b1f8d524c482acf0c "pdflatex"
-  "presentation_out/presentation.nav" 1757867937 2529 f57c8f7a670828dd847301e4377b6b03 "pdflatex"
-  "presentation_out/presentation.out" 1757867937 669 839d6d7fdc0c624a3b462bbfca29e3f7 "pdflatex"
-  "presentation_out/presentation.toc" 1757867937 271 5d56c62ceef0c6c2989f87103d4ba2ca "pdflatex"
+  "presentation.tex" 1758117148 34794 e1ecfa0f6af231f1a4ff4fad14b76ef6 ""
+  "presentation_out/presentation.aux" 1758117164 4891 197d05b545ffe3b72d97bd3aeb5bf107 "pdflatex"
+  "presentation_out/presentation.nav" 1758117164 3178 dc128040409240f5c99794f8ca4917be "pdflatex"
+  "presentation_out/presentation.out" 1758117164 669 839d6d7fdc0c624a3b462bbfca29e3f7 "pdflatex"
+  "presentation_out/presentation.toc" 1758117164 272 4acc4bdf8b699ea7ad6017166bdc7e9e "pdflatex"
+  "rsc/binary_statistical_tests2.png" 1757779464 118633 348b5f54b7a6ba76b75cfbd2d7aa55b9 ""
   "rsc/multiclass_distributions.png" 1757687678 271301 1b6b2e5438d8f4b27528ddc681cbd506 ""
   "rsc/multiclass_statistical_tests2.png" 1757866079 178408 c97754cdb7701d5a8a5682bcbc109bef ""
   (generated)

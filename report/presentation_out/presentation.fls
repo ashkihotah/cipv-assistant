@@ -413,8 +413,7 @@ INPUT .\rsc\multiclass_distributions.png
 INPUT .\rsc\multiclass_distributions.png
 INPUT C:\Users\nicol\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtt10.tfm
 INPUT C:\Users\nicol\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
-INPUT C:\Users\nicol\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
-INPUT C:\Users\nicol\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
+INPUT C:\Users\nicol\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtt10.tfm
 INPUT .\rsc\multiclass_statistical_tests2.png
 INPUT .\rsc\multiclass_statistical_tests2.png
 INPUT .\rsc\multiclass_statistical_tests2.png
@@ -422,8 +421,13 @@ INPUT .\rsc\multiclass_statistical_tests2.png
 INPUT .\rsc\multiclass_statistical_tests2.png
 INPUT .\rsc\multiclass_statistical_tests2.png
 INPUT .\rsc\multiclass_statistical_tests2.png
-INPUT C:\Users\nicol\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
-INPUT C:\Users\nicol\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
+INPUT .\rsc\binary_statistical_tests2.png
+INPUT .\rsc\binary_statistical_tests2.png
+INPUT .\rsc\binary_statistical_tests2.png
+INPUT .\rsc\binary_statistical_tests2.png
+INPUT .\rsc\binary_statistical_tests2.png
+INPUT .\rsc\binary_statistical_tests2.png
+INPUT .\rsc\binary_statistical_tests2.png
 INPUT C:\Users\nicol\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmss17.tfm
 OUTPUT C:\Users\nicol\Desktop\cipv-assistant\report\presentation_out\presentation.nav
 OUTPUT C:\Users\nicol\Desktop\cipv-assistant\report\presentation_out\presentation.toc
@@ -431,6 +435,8 @@ OUTPUT C:\Users\nicol\Desktop\cipv-assistant\report\presentation_out\presentatio
 INPUT C:\Users\nicol\Desktop\cipv-assistant\report\presentation_out\presentation.aux
 INPUT C:\Users\nicol\Desktop\cipv-assistant\report\presentation_out\presentation.out
 INPUT C:\Users\nicol\Desktop\cipv-assistant\report\presentation_out\presentation.out
+INPUT C:\Users\nicol\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Users\nicol\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
 INPUT C:\Users\nicol\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
 INPUT C:\Users\nicol\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
 INPUT C:\Users\nicol\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmss10.pfb
